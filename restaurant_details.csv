@@ -1,0 +1,201 @@
+,name,neighbourhood,price_range,review_count,category
+0,Cerveseria Catalana,L'Eixample,€€,1279,Spanish
+1,My Fucking Restaurant,El Raval,€€€,89,Catalan
+2,Ciutat Comtal,L'Eixample,€€,1120,Signature Cuisine
+3,Tapeo,"Sant Pere, Santa Caterina i la Ribera-Born",€€,451,Tapas Bars
+4,Arume,El Raval,€€,633,Spanish
+5,Taquerías Tamarindo,L'Eixample,€,208,Catalan
+6,Vinitus,L'Eixample,€€,304,Tapas Bars
+7,Somorrostro,Barceloneta,€€,368,Catalan
+8,Cañete,El Raval,€€€,392,Mediterranean
+9,Firebug,L'Eixample,€€,125,Tapas Bars
+10,El Nacional,L'Eixample,€€,330,Galician
+11,Firebug,L'Eixample,€€,125,Mexican
+12,Tucco Real Food Born,"Sant Pere, Santa Caterina i la Ribera-Born",€,618,Tapas Bars
+13,Disfrutar,L'Eixample,€€€€,110,Tapas Bars
+14,Tosca,"Sant Pere, Santa Caterina i la Ribera-Born",€€,240,Catalan
+15,Brunch & Cake,L'Eixample,€€,852,Seafood
+16,Can Paixano,"Sant Pere, Santa Caterina i la Ribera-Born",€,378,Tapas/Small Plates
+17,El Pintxo de Petritxol,Barri Gòtic,€€,109,Tapas Bars
+18,Boa-Bao,L'Eixample,€€€,6,Spanish
+19,El Asador de Aranda,L'Eixample,€€€,28,Tapas Bars
+20,El Asador de Aranda,L'Eixample,€,28,Breakfast & Brunch
+21,Restaurant La Tasqueta de Blai,El Poble-sec,€€,230,Seafood
+22,Telefèric,L'Eixample,€€€,178,Tapas Bars
+23,Arcano,"Sant Pere, Santa Caterina i la Ribera-Born",€€€€,292,Brasseries
+24,Tickets,L'Eixample,€€,195,Tapas Bars
+25,El Jardín del Edén,El Raval,€,16,Breakfast & Brunch
+26,Cera 23,El Raval,€€,555,Argentine
+27,A Tu Bola,El Raval,€€€,79,Italian
+28,Guell,El Raval,€€,64,Modern European
+29,Bar Mut,L'Eixample,€€,149,Mediterranean
+30,Buenos Aires,L'Eixample,€€€,55,Spanish
+31,Le Romane,L'Eixample,€€,12,Tapas Bars
+32,La Pepita,Gràcia,€€€,514,Breakfast & Brunch
+33,Bar Mut,L'Eixample,€,149,Desserts
+34,Cachitos,L'Eixample,€,98,Acai Bowls
+35,2254,L'Eixample,€,62,Tapas/Small Plates
+36,Federal,Barri Gòtic,€€,55,Spanish
+37,A Tu Bola,El Raval,€€,79,Dive Bars
+38,Lizarran,L'Eixample,€€,52,Basque
+39,Momo,Barri Gòtic,€,23,Tapas Bars
+40,Paradiso,"Sant Pere, Santa Caterina i la Ribera-Born",€€€,105,Tapas/Small Plates
+41,Sensi,Barri Gòtic,€€,377,Cocktail Bars
+42,Alsur Café,L'Eixample,€,325,Asian Fusion
+43,2254,L'Eixample,€€,62,Steakhouses
+44,Maitea,L'Eixample,€€€,128,Steakhouses
+45,Federal,Barri Gòtic,€,55,Tapas Bars
+46,Betlem,L'Eixample,€€,61,Tabernas
+47,Llamber,"Sant Pere, Santa Caterina i la Ribera-Born",€€,133,Tapas/Small Plates
+48,Micu Maku,L'Eixample,€€,13,Tapas/Small Plates
+49,O’Toxo 3 Hermanos,El Raval,€,92,Spanish
+50,Bilbao Berria,Barri Gòtic,€€,152,Tapas Bars
+51,La Cuina de Laietana,Barri Gòtic,€€€,23,Spanish
+52,Macchina,L'Eixample,€€€,32,Bars
+53,Bo de Boqueria,El Raval,€€,15,Argentine
+54,Caravelle,El Raval,€€€,223,Tapas Bars
+55,La Bodegueta,L'Eixample,€€,36,Spanish
+56,Raó,El Raval,€€,32,Vermouth Bars
+57,Terrace la Isabela,El Raval,€,2,Tapas Bars
+58,El Vaso de Oro,Barceloneta,€,178,Mediterranean
+59,9 Nine,L'Eixample,€€,45,Cocktail Bars
+60,Paco Alcalde,Barceloneta,€€,41,Spanish
+61,Xian,Barri Gòtic,€€,11,Modern European
+62,Casa Alfonso,L'Eixample,€€,108,Tapas/Small Plates
+63,La Caravana,Gràcia,€,15,Fast Food
+64,Mosquito,"Sant Pere, Santa Caterina i la Ribera-Born",€€,144,Tapas/Small Plates
+65,Nubar,L'Eixample,€€,4,Spanish
+66,Quimet & Quimet,El Poble-sec,€€,454,Wine Bars
+67,La Bombeta,Barceloneta,€€,84,Tapas Bars
+68,Billy Brunch,L'Eixample,€€,42,Steakhouses
+69,Citizen Café,L'Eixample,€€,53,Argentine
+70,Pinotxo Bar,El Raval,€,218,Italian
+71,Gata Mala,Gràcia,€€,140,Tapas Bars
+72,Elsa y Fred,"Sant Pere, Santa Caterina i la Ribera-Born",€€,149,Pubs
+73,Flax & Kale,El Raval,€,265,Wine Bars
+74,La Tagliatella,L'Eixample,€€,72,Tapas Bars
+75,Milk Bar & Bistro,Barri Gòtic,€€,431,Tapas Bars
+76,Eat My Trip,L'Eixample,€€€,73,Mediterranean
+77,Chongqing Liuyishou Hotpot,L'Eixample,€€,5,French
+78,Benzina,L'Eixample,€€€€,13,Catalan
+79,El Arbol Brunch,L'Eixample,€€,39,Italian
+80,Las Sorrentinas,"Sant Pere, Santa Caterina i la Ribera-Born",€€€€,44,Cafeteria
+81,Eat My Trip,L'Eixample,€€,73,Modern European
+82,Luigi,L'Eixample,€€,43,Tapas/Small Plates
+83,Billy Brunch,L'Eixample,€€€,42,Fast Food
+84,Chen Ji,L'Eixample,€€,98,Tapas Bars
+85,El Quim de la Boqueria,El Raval,€€€,253,Beer Bar
+86,Rosa Negra,"Sant Pere, Santa Caterina i la Ribera-Born",€,230,Spanish
+87,La Paradeta,L'Eixample,€€,44,Beer Bar
+88,Babula,L'Eixample,€€€€,2,Tapas Bars
+89,La Paradeta,"Sant Pere, Santa Caterina i la Ribera-Born",€€€,155,Spanish
+90,Batuar,L'Eixample,€€,8,Cocktail Bars
+91,La Alcoba Azul,Barri Gòtic,€€,132,Tapas/Small Plates
+92,Doña Rosa,El Raval,€€,2,Tapas Bars
+93,Lasarte,L'Eixample,€€,67,Cocktail Bars
+94,Paella Bar,El Raval,€€,44,Breakfast & Brunch
+95,La Lluna,Barri Gòtic,€€,28,Cafeteria
+96,La Paradeta,L'Eixample,€,44,Cocktail Bars
+97,Tantarantana,"Sant Pere, Santa Caterina i la Ribera-Born",€€,63,French
+98,Pepito,L'Eixample,€€,27,Catalan
+99,Tandoori Nights,El Raval,€€,48,Italian
+100,Eden,L'Eixample,€€€,118,Spanish
+101,Doña Rosa,El Raval,€,2,Tapas Bars
+102,Botafumeiro,Gràcia,€€,169,Cafeteria
+103,L’Amfora Barcelona,L'Eixample,€€,30,Modern European
+104,Los Pergaminos,Barri Gòtic,€€€,84,Gastropubs
+105,La Pineda,Barri Gòtic,€€,24,Catalan
+106,Restaurante Bodega Joan,L'Eixample,€€,35,Spanish
+107,Els Pollos de Llull,Parc i Llacuna del Poblenou,€,21,Spanish
+108,Bella Italia,L'Eixample,€€,9,Gastropubs
+109,El Boliche del Gordo Cabrera,L'Eixample,€€,18,Tapas Bars
+110,La Fermata,L'Eixample,€€,56,Arroceria / Paella
+111,El Xampanyet,"Sant Pere, Santa Caterina i la Ribera-Born",€€,279,Tapas Bars
+112,La Paradeta,"Sant Pere, Santa Caterina i la Ribera-Born",€€,155,Cocktail Bars
+113,Salterio,Barri Gòtic,€,66,Spanish
+114,Cremat 11,"Sant Pere, Santa Caterina i la Ribera-Born",€€,15,Tapas Bars
+115,Cecconi’s,Barri Gòtic,€,26,Spanish
+116,Rosat’s,Sants,€,2,Bars
+117,Eden,L'Eixample,€€,118,Mediterranean
+118,Pirineu en Boca,L'Eixample,€€,14,Bars
+119,Gaudim,L'Eixample,€,53,Italian
+120,El Xampanyet,"Sant Pere, Santa Caterina i la Ribera-Born",€€,279,Spanish
+121,Le Cucine Mandarosso,"Sant Pere, Santa Caterina i la Ribera-Born",€€€,73,Mediterranean
+122,Bella Istanbul,L'Eixample,€,2,Breakfast & Brunch
+123,Abirradero,El Poble-sec,€€,27,Cafeteria
+124,Paella Bar,El Raval,€,44,Spanish
+125,Cremat 11,"Sant Pere, Santa Caterina i la Ribera-Born",€,15,Tapas Bars
+126,Pirineu en Boca,L'Eixample,€,14,Mediterranean
+127,Salterio,Barri Gòtic,€€,66,Spanish
+128,Bodega La Puntual,"Sant Pere, Santa Caterina i la Ribera-Born",€€,57,Catalan
+129,The Ranch Smokehouse,L'Eixample,€€,9,Spanish
+130,Alsur Café & Backdoor Bar,"Sant Pere, Santa Caterina i la Ribera-Born",€€,20,Lounges
+131,La Paradeta,L'Eixample,€,206,Tapas Bars
+132,Lluritu,Gràcia,€€,5,Spanish
+133,Bonavida,L'Eixample,€€,10,Beer Bar
+134,Morryssom,L'Eixample,€,54,Mediterranean
+135,La Esquina,L'Eixample,€€,31,Steakhouses
+136,Sagardi BCN Gòtic,"Sant Pere, Santa Caterina i la Ribera-Born",€,125,Seafood
+137,Mastica,El Raval,€,6,Spanish
+138,Bar Rubí,"Sant Pere, Santa Caterina i la Ribera-Born",€€,38,Chinese
+139,Foc i Oli,L'Eixample,€€,91,Tapas Bars
+140,Bell e Buon,Horta-Guinardó,€€,30,Spanish
+141,La Plata,Barri Gòtic,€€,126,Middle Eastern
+142,Roast Club Cafe,L'Eixample,€€,16,Syrian
+143,Brasayleña,Parc i Llacuna del Poblenou,€€€,2,Asian Fusion
+144,Somewhere,L'Eixample,€,28,Dim Sum
+145,Can Ros,Gràcia,€,10,Beer Bar
+146,The Fish & Chips Shop,L'Eixample,€€,44,Spanish
+147,Tabarlot,El Raval,€€€,44,Tapas Bars
+148,Bar But,Gràcia,€€,11,Bars
+149,Bacaro,El Raval,€€,19,Tapas Bars
+150,Zarautz,Sants,€€,122,Wine Bars
+151,Sol Soler,Gràcia,€€,56,Tapas/Small Plates
+152,Amarre 69,Barceloneta,€,14,Breakfast & Brunch
+153,Uma,L'Eixample,€€€,16,Juice Bars & Smoothies
+154,Brunch & Cake,L'Eixample,€€€€,54,Breakfast & Brunch
+155,TAPS,El Poble-sec,€€€,31,Cafeteria
+156,Bodega La Palma,Barri Gòtic,€,37,Burgers
+157,El Brunch del Majestic,L'Eixample,€€€€,1,Spanish
+158,Rosat’s,Sants,€€,2,Basque
+159,Viet Kitchen,L'Eixample,€€€€,5,Tapas/Small Plates
+160,Hänsel,L'Eixample,€€,73,Tapas Bars
+161,Maestró,L'Eixample,€€,33,Breakfast & Brunch
+162,210 Grammi,Parc i Llacuna del Poblenou,€,2,Wine Bars
+163,Pulpería A Gudiña,L'Eixample,€€,46,Spanish
+164,Miño,El Raval,€€,194,Breakfast & Brunch
+165,Café Emma,L'Eixample,€,30,Vegan
+166,Marina Bay,La Vila Olímpica,€€,35,Italian
+167,El Chigre 1769,"Sant Pere, Santa Caterina i la Ribera-Born",€,25,American (Traditional)
+168,Macchina,Gràcia,€,82,Spanish
+169,Taverna Iberia,Barceloneta,€€,20,Cocktail Bars
+170,Maccaroni,"Sant Pere, Santa Caterina i la Ribera-Born",€,57,Breakfast & Brunch
+171,Pizzeria Da Nanni,Barri Gòtic,€€,22,Chinese
+172,Informal,Barri Gòtic,€,27,Italian
+173,El Bitxo,"Sant Pere, Santa Caterina i la Ribera-Born",€€,44,Modern European
+174,Cinco Jotas,L'Eixample,€€,15,Salad
+175,Ribs,Sarrià - Sant Gervasi,€€€,3,Breakfast & Brunch
+176,Agust,L'Eixample,€€,44,Italian
+177,La Taverna de L’Eixample,L'Eixample,€€€,12,Peruvian
+178,9 Reinas,L'Eixample,€€,53,Breakfast & Brunch
+179,Sintonia,L'Eixample,€€€,2,Pizza
+180,Honest Greens,L'Eixample,€€€€,22,Italian
+181,Estimar,"Sant Pere, Santa Caterina i la Ribera-Born",€€,19,Breakfast & Brunch
+182,CDLC,Barceloneta,€,87,Juice Bars & Smoothies
+183,173,El Poble-sec,€€€,4,Chinese
+184,Mazah,L'Eixample,€,10,Tapas Bars
+185,Viena,El Raval,€€€,72,Breakfast & Brunch
+186,Angle,L'Eixample,€,15,Mexican
+187,La Cova Fumada,Barceloneta,€€,118,Seafood
+188,Solomillo,L'Eixample,€,10,Cocktail Bars
+189,Obe Restaurant,"Sant Pere, Santa Caterina i la Ribera-Born",€,35,Tapas Bars
+190,Thai Zaap,L'Eixample,€€,7,Seafood
+191,Els Sortidors del Parlament,L'Eixample,€€€,18,Seafood Markets
+192,Red Ant,"Sant Pere, Santa Caterina i la Ribera-Born",€€€€,66,Mediterranean
+193,Alaire,L'Eixample,€€,6,Spanish
+194,Season Tapas Restaurante,L'Eixample,€,5,Breakfast & Brunch
+195,Kamasot,L'Eixample,€€,9,Tapas Bars
+196,Modu Korean Bowl,Gràcia,€€€,7,Cocktail Bars
+197,Lonja de Tapas,Barri Gòtic,€€,23,Mediterranean
+198,PORK… boig per tu,"Sant Pere, Santa Caterina i la Ribera-Born",€€,34,Spanish
+199,Norte,L'Eixample,€€,9,Signature Cuisine
