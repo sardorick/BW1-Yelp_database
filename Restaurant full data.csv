@@ -1,0 +1,208 @@
+,Restaurant names,Rating,Review count,Price range,Category,Neighbourhood,Location,Website
+0,Cerveseria Catalana,4.5,1279,€€,Spanish,L'Eixample,"Carrer de Mallorca, 236--08008 Barcelona--Spain",http://cerveceriacatalana.food…
+1,My Fucking Restaurant,4.5,89,€€€,Catalan,El Raval,"Carrer Nou de la Rambla, 35--08001 Barcelona--Spain",http://www.myfuckingrestaurant…
+2,Ciutat Comtal,4,1120,€€,Tapas Bars,L'Eixample,"Rambla de Catalunya, 18--08007 Barcelona--Spain",
+3,Tapeo,4.5,451,€€,Tapas Bars,"Sant Pere, Santa Caterina i la Ribera-Born","Carrer de Montcada, 29--08003 Barcelona--Spain",http://www.tapeoborn.cat
+4,Arume,4.5,633,€€,Mediterranean,El Raval,"Carrer d'En Botella, 11--08007 Barcelona--Spain",http://arumerestaurant.com/
+5,Taquerías Tamarindo,4.5,208,€,Mexican,L'Eixample,"Carrer de Aragón, 236--08007 Barcelona--Spain",
+6,Vinitus,4.5,304,€€,Tapas Bars,L'Eixample,"Carrer Del Consell de Cent, 333--08007 Barcelona--Spain",
+7,Somorrostro,4.5,368,€€,Catalan,Barceloneta,"Carrer de Sant Carles, 11--08003 Barcelona--Spain",http://www.restaurantesomorros…
+8,Cañete,4.5,392,€€€,Tapas/Small Plates,El Raval,"Carrer de la Unió, 17--08001 Barcelona--Spain",http://www.barcanete.com
+9,Firebug,4.5,125,€€,Tapas Bars,L'Eixample,"Passeig de Sant Joan, 23--08010 Barcelona--Spain",http://www.firebugbarcelona.co…
+10,El Nacional,4,330,€€,Seafood,L'Eixample,"Passeig de Gracia, 24--08007 Barcelona--Spain",http://www.elnacionalbcn.com
+11,Firebug,4.5,125,€€,Tapas Bars,L'Eixample,"Carrer del Consolat de Mar, 23--08003 Barcelona--Spain",http://www.tuccorealfood.com
+12,Tucco Real Food Born,4.5,618,€,Argentine,"Sant Pere, Santa Caterina i la Ribera-Born","Carrer de Villarroel, 163--08036 Barcelona--Spain",http://en.disfrutarbarcelona.c…
+13,Disfrutar,5,110,€€€€,Modern European,L'Eixample,"Carrer de Sant Pere Més Alt, 8--08003 Barcelona--Spain",
+14,Tosca,4.5,240,€€,Spanish,"Sant Pere, Santa Caterina i la Ribera-Born","Carrer d'Enric Granados, 145--08008 Barcelona--Spain",https://brunchandcake.com
+15,Brunch & Cake,4,852,€€,Breakfast & Brunch,L'Eixample,"Carrer de la Reina Cristina, 7--08003 Barcelona--Spain",http://www.canpaixano.com
+16,Can Paixano,4.5,378,€,Tapas/Small Plates,"Sant Pere, Santa Caterina i la Ribera-Born","Carrer de Petritxol, 9--08002 Barcelona--Spain",http://www.elpintxodepetritxol…
+17,El Pintxo de Petritxol,4.5,109,€€,Basque,Barri Gòtic,"Plaça del Dr. Letamendi, 1--08007 Barcelona--Spain",http://www.boabao.es
+18,Boa-Bao,4.5,6,,Cocktail Bars,L'Eixample,"Calle Pau Claris, 70--08010 Barcelona--Spain",http://asadordearanda.com/cont…
+19,El Asador de Aranda,4.5,28,€€€,Steakhouses,L'Eixample,"Carrer de Blai, 17--08004 Barcelona--Spain",https://www.latasquetadeblai.c…
+20,El Asador de Aranda,4.5,28,€€€,Steakhouses,L'Eixample,"Plaça Doctor Letamendi, 27--08007 Barcelona--Spain",http://www.teleferic.es
+21,Restaurant La Tasqueta de Blai,4.5,230,€,Tapas Bars,El Poble-sec,,
+22,Telefèric,4,178,€€,Tapas/Small Plates,L'Eixample,"Avenida del Paral·lel, 164--08015 Barcelona--Spain",http://www.ticketsbar.es
+23,Arcano,4.5,292,€€€,Spanish,"Sant Pere, Santa Caterina i la Ribera-Born","Carrer de Jovellanos, 3--08001 Barcelona--Spain",http://www.jardindeleden.es
+24,Tickets,4.5,195,€€€€,Tapas Bars,L'Eixample,"Carrer de la Cera, 23--08001 Barcelona--Spain",http://www.cera23.com
+25,El Jardín del Edén,4.5,16,,Tapas Bars,El Raval,Carrer Hospital 78--08001 Barcelona--Spain,http://www.atubolarest.com/
+26,Cera 23,4.5,555,€€,Spanish,El Raval,"Calle Nou de la Rambla, 20--08001 Barcelona--Spain",https://www.guelltapasbarcelon…
+27,A Tu Bola,4.5,79,€,Tapas/Small Plates,El Raval,"Carrer de Pau Claris, 192--08037 Barcelona--Spain",http://www.barmut.com/
+28,Guell,4.5,64,€€,Tapas/Small Plates,El Raval,"Carrer Valencia, 189--08011 Barcelona--Spain",http://www.bairesbcn.com
+29,Bar Mut,4.5,149,€€€,Wine Bars,L'Eixample,"Carrer de Muntaner, 103--08011 Barcelona--Spain",http://www.leromane.com
+30,Buenos Aires,4.5,55,€€,Steakhouses,L'Eixample,"Carrer de Còrsega, 343--08037 Barcelona--Spain",http://www.lapepitabcn.com
+31,Le Romane,5,12,,Italian,L'Eixample,"Rambla Catalunya, 33--08007 Barcelona--Spain",http://www.cachitosrambla.com
+32,La Pepita,4.5,514,€€,Tapas Bars,Gràcia,"Consell de Cent, 335--08007 Barcelona--Spain",http://www.restaurante2254.es/
+33,Bar Mut,4.5,149,€€€,Wine Bars,L'Eixample,"Passatge de la Pau, 11--08002 Barcelona--Spain",http://www.federalcafe.es/
+34,Cachitos,4,98,€€,Tapas Bars,L'Eixample,"Carrer de Mallorca, 257--08008 Barcelona--Spain",http://www.lizarran.es
+35,2254,4.5,62,€€€,French,L'Eixample,"Carrer Arc de Sant Ramon del Call, 6--08002 Barcelona--Spain",http://momobarcelona.com/en
+36,Federal,4.5,55,€,Cafeteria,Barri Gòtic,"Carrer de Rera Palau, 4--08003 Barcelona--Spain",http://paradiso.cat
+37,A Tu Bola,4.5,79,€,Tapas/Small Plates,El Raval,,
+38,Lizarran,4,52,€,Tapas Bars,L'Eixample,"Carrer de Roger de Llúria, 23--08010 Barcelona--Spain",http://www.alsurcafe.com
+39,Momo,4.5,23,€€,Spanish,Barri Gòtic,"Carrer de Casanova, 155--08036 Barcelona--Spain",http://www.maitea.es
+40,Paradiso,4.5,105,€€,Spanish,"Sant Pere, Santa Caterina i la Ribera-Born","Carrer de Girona, 70--08009 Barcelona--Spain",http://www.betlem.es/
+41,Sensi,4.5,377,€€,Tapas/Small Plates,Barri Gòtic,"Carrer Fusina, 5--08003 Barcelona--Spain",http://www.llamber.com
+42,Alsur Café,4,325,€,Breakfast & Brunch,L'Eixample,"Carrer d'Aribau, 22--08011 Barcelona--Spain",https://www.micumaku.com
+43,2254,4.5,62,€€€,French,L'Eixample,"Carrer del Carme, 59--08001 Barcelona--Spain",http://www.otoxo3hermanos.com/…
+44,Maitea,4.5,128,€€,Spanish,L'Eixample,"Plaça Nova, 3--08002 Barcelona--Spain",http://www.bilbaoberria.com
+45,Federal,4.5,55,€,Cafeteria,Barri Gòtic,"Via Laietana, 71--08003 Barcelona--Spain",http://www.lacuinadelaietana.e…
+46,Betlem,4.5,61,€€,Gastropubs,L'Eixample,"Carrer d'Astúries, 17--08012 Barcelona--Spain",http://macchinapastabar.com/
+47,Llamber,4.5,133,€€€,Spanish,"Sant Pere, Santa Caterina i la Ribera-Born","Carrer Petxina, 5-7--08001 Barcelona--Spain",
+48,Micu Maku,4.5,13,€,Arroceria / Paella,L'Eixample,"Carrer del Pintor Fortuny, 31--08001 Barcelona--Spain",http://www.caravellebcn.com
+49,O’Toxo 3 Hermanos,4.5,92,€€,Spanish,El Raval,"Rambla de Catalunya, 100--08002 Barcelona--Spain",http://www.labodegueta.cat
+50,Bilbao Berria,4,152,€€,Spanish,Barri Gòtic,"Carrer de les Sitges, 3--08001 Barcelona--Spain",http://www.raobcn.com
+51,La Cuina de Laietana,4.5,23,€€,Mediterranean,Barri Gòtic,"Les Rambles, 109--08002 Barcelona--Spain",http://www.terraza-laisabela.c…
+52,Macchina,4.5,32,€,Bars,L'Eixample,"Carrer de Balboa, 6--08003 Barcelona--Spain",http://vasodeoro.com/
+53,Bo de Boqueria,5,15,,Spanish,El Raval,"Carrer València, 334--08009 Barcelona--Spain",
+54,Caravelle,4.5,223,€€,Breakfast & Brunch,El Raval,"Carrer de l'Almirall Aixada, 12--08003 Barcelona--Spain",http://www.pacoalcalde.es
+55,La Bodegueta,4,36,€€€,Spanish,L'Eixample,"Carrer de Ferran, 39--Local 3--08002 Barcelona--Spain",http://www.xianbarcelona.com
+56,Raó,4.5,32,,Mediterranean,El Raval,"Carrer de Roger de Llúria, 6--08010 Barcelona--Spain",http://www.casaalfonso.com/
+57,Terrace la Isabela,4.5,2,€€€,Spanish,El Raval,"Carrer de Mozart, 15--08012 Barcelona--Spain",
+58,El Vaso de Oro,4.5,178,€€,Tapas Bars,Barceloneta,"Carrer dels Carders, 46--08003 Barcelona--Spain",http://www.mosquitotapas.com/
+59,9 Nine,5,45,€€€,Mediterranean,L'Eixample,"Passeig de Gràcia, 53--08007 Barcelona--Spain",http://www.nubarbcn.com/es/
+60,Paco Alcalde,4.5,41,€€,Seafood,Barceloneta,"Carrer del Poeta Cabanyes, 25--08004 Barcelona--Spain",https://www.quimetquimet.com
+61,Xian,4.5,11,,Chinese,Barri Gòtic,"Carrer de la Maquinista, 3--08003 Barcelona--Spain",http://labombeta.food-ts.com
+62,Casa Alfonso,4,108,€€,Tapas Bars,L'Eixample,"Carrer de Bailèn, 115--08009 Barcelona--Spain",http://billybrunch.com
+63,La Caravana,5,15,€,Middle Eastern,Gràcia,"Plaça d'Urquinaona, 4--08010 Barcelona--Spain",https://citizencafe.es
+64,Mosquito,4,144,€,Asian Fusion,"Sant Pere, Santa Caterina i la Ribera-Born","La Rambla, 91--08002 Barcelona--Spain",http://pinotxobar.com/
+65,Nubar,4.5,4,,Spanish,L'Eixample,"Carrer de Rabassa, 37--08024 Barcelona--Spain",
+66,Quimet & Quimet,4.5,454,€€,Tapas Bars,El Poble-sec,"Carrer del Rec Comtal, 11--08003 Barcelona--Spain",http://elsayfred.es/
+67,La Bombeta,4.5,84,€€,Tapas Bars,Barceloneta,"Carrer dels Tallers, 74--08001 Barcelona--Spain",http://www.teresacarles.com/fk…
+68,Billy Brunch,5,42,,Breakfast & Brunch,L'Eixample,"Carrer de Pau Claris, 118--08009 Barcelona--Spain",http://www.latagliatella.es
+69,Citizen Café,4.5,53,€€,Breakfast & Brunch,L'Eixample,"Carrer d'en Gignàs, 21--08002 Barcelona--Spain",http://www.milkbarcelona.com/
+70,Pinotxo Bar,4.5,218,€€,Spanish,El Raval,"Carrer del Consell de Cent, 378--08009 Barcelona--Spain",https://www.eatmytrip.com
+71,Gata Mala,5,140,€,Tapas Bars,Gràcia,"Carrer del Consell de Cent, 303--08007 Barcelona--Spain",http://www.liuyishou.es
+72,Elsa y Fred,4.5,149,€€,Breakfast & Brunch,"Sant Pere, Santa Caterina i la Ribera-Born","Passatge de Pere Calders, 6--08015 Barcelona--Spain",https://www.benzina.es
+73,Flax & Kale,4,265,€€,Spanish,El Raval,"Carrer d' Aribau, 36--08011 Barcelona--Spain",
+74,La Tagliatella,4,72,€€,Italian,L'Eixample,"Plaça de Sant Pere, 5--08003 Barcelona--Spain",
+75,Milk Bar & Bistro,4.5,431,€€,American (Traditional),Barri Gòtic,"Carrer de Roger de Llúria, 50--08009 Barcelona--Spain",http://www.luigiristorante.es
+76,Eat My Trip,4.5,73,€€,Breakfast & Brunch,L'Eixample,"Carrer d'Ali Bei, 65--08013 Barcelona--Spain",
+77,Chongqing Liuyishou Hotpot,4.5,5,,Chinese,L'Eixample,"La Rambla, 91--Mercat de la Boqueria--08001 Barcelona--Spain",http://www.elquimdelaboqueria.…
+78,Benzina,4.5,13,,Italian,L'Eixample,"Via Laietana, 46--08003 Barcelona--Spain",http://www.rosanegrarestaurant…
+79,El Arbol Brunch,4.5,39,€€,Modern European,L'Eixample,"Passatge de Simó, 18--08025 Barcelona--Spain",http://www.laparadeta.com/mari…
+80,Las Sorrentinas,4.5,44,€,Italian,"Sant Pere, Santa Caterina i la Ribera-Born","Carrer de Pau Claris, 139--08009 Barcelona--Spain",
+81,Eat My Trip,4.5,73,€€,Breakfast & Brunch,L'Eixample,"Cotton House--Gran Via de les Corts Catalanes, 670--08010 Barcelona--Spain",http://www.hotelcottonhouse.co…
+82,Luigi,4.5,43,€€,Pizza,L'Eixample,"Carrer de Sant Domenec del Call, 14--08002 Barcelona--Spain",
+83,Billy Brunch,5,42,,Breakfast & Brunch,L'Eixample,,
+84,Chen Ji,4,98,€,Chinese,L'Eixample,,
+85,El Quim de la Boqueria,4.5,253,€€,Tapas Bars,El Raval,"Pòrtics de la Boqueria, s/n--Locals, 6-7--Mercat de la Boqueria--08001 Barcelona--Spain",
+86,Rosa Negra,4,230,€€,Mexican,"Sant Pere, Santa Caterina i la Ribera-Born","Carrer de Santa Anna, 20--08002 Barcelona--Spain",http://www.lallunarestaurant.c…
+87,La Paradeta,4.5,44,€€€,Seafood,L'Eixample,"Carrer Tantarantana, 24--08003 Barcelona--Spain",http://www.gruposantelmo.com/e…
+88,Babula,5,2,,Cocktail Bars,L'Eixample,"Passatge de Domingo, 3--08007 Barcelona--Spain",http://pepitorestaurante.com/
+89,La Paradeta,4.5,155,€€,Seafood,"Sant Pere, Santa Caterina i la Ribera-Born","Carrer de les Carretes, 44--08001 Barcelona--Spain",https://www.tandoorinightsbcn.…
+90,Batuar,4.5,8,€€€€,Mediterranean,L'Eixample,,
+91,La Alcoba Azul,4.5,132,€€,Tapas Bars,Barri Gòtic,"Carrer Gran de Gràcia, 81--08012 Barcelona--Spain",http://www.botafumeiro.es
+92,Doña Rosa,4.5,2,,Mediterranean,El Raval,"Avinguda del Paraŀlel, 184--08015 Barcelona--Spain",http://www.restaurantamfora.co…
+93,Lasarte,4.5,67,€€€€,Spanish,L'Eixample,,
+94,Paella Bar,4,44,€€,Spanish,El Raval,"Carrer del Pi, 16--08002 Barcelona--Spain",
+95,La Lluna,4.5,28,€€,Spanish,Barri Gòtic,"Carrer del Rosselló, 164--08036 Barcelona--Spain",http://www.bodegajoan.com
+96,La Paradeta,4.5,44,€€€,Seafood,L'Eixample,"Carrer de Ramon Turró, 13--08005 Barcelona--Spain",http://www.elspollos.com
+97,Tantarantana,4.5,63,€€,Spanish,"Sant Pere, Santa Caterina i la Ribera-Born","Carrer de Roger de Llúria, 87--08009 Barcelona--Spain",
+98,Pepito,4.5,27,€€€,Spanish,L'Eixample,"Carrer del Consell de Cent, 338--08009 Barcelona--Spain",http://elbolichedelgordo.com/
+99,Tandoori Nights,4.5,48,€,Indian,El Raval,"Carrer de Provença, 243--08008 Barcelona--Spain",http://www.lafermata.es/
+100,Eden,4.5,118,€€,Pizza,L'Eixample,"Carrer de Montcada, 22--08003 Barcelona--Spain",https://www.elxampanyet.es
+101,Doña Rosa,4.5,2,,Mediterranean,El Raval,"Carrer de Sant Domènec del Call, 4--08002 Barcelona--Spain",
+102,Botafumeiro,4,169,€€€€,Seafood,Gràcia,"Carrer Cremat Gran, 11--08003 Barcelona--Spain",
+103,L’Amfora Barcelona,4.5,30,€€€,Mediterranean,L'Eixample,"Passeig de Colom, 20--08002 Barcelona--Spain",http://www.cecconisbarcelona.c…
+104,Los Pergaminos,4.5,84,€€,Tapas Bars,Barri Gòtic,"Carrer Creu Coberta, 58--08014 Barcelona--Spain",
+105,La Pineda,4.5,24,€€,Spanish,Barri Gòtic,"Carrer de Girona, 17--08010 Barcelona--Spain",http://www.pirineuenboca.com
+106,Restaurante Bodega Joan,4,35,€€,Tapas Bars,L'Eixample,"Carrer d'Aragó, 231--08007 Barcelona--Spain",http://www.restaurantgaudim.co…
+107,Els Pollos de Llull,4.5,21,€€,Spanish,Parc i Llacuna del Poblenou,"Carrer de Verdaguer i Callís, 4--08003 Barcelona--Spain",http://www.lecucinemandarosso.…
+108,Bella Italia,4.5,9,€€,Italian,L'Eixample,"Carrer del Consell de Cent, 313--08007 Barcelona--Spain",http://bella-istanbul.com
+109,El Boliche del Gordo Cabrera,4,18,€€,Latin American,L'Eixample,"Carrer Vila i Vila, 77--08004 Barcelona--Spain",http://www.abirradero.com
+110,La Fermata,4.5,56,€,Pizza,L'Eixample,"Carrer de Montcada, 22--08003 Barcelona--Spain",http://bodegalapuntual.com
+111,El Xampanyet,4.5,279,€€,Tapas Bars,"Sant Pere, Santa Caterina i la Ribera-Born","Ronda de la Universitat, 20--08007 Barcelona--Spain",http://www.theranch.restaurant
+112,La Paradeta,4.5,155,€€,Seafood,"Sant Pere, Santa Caterina i la Ribera-Born","Carrer de la Ribera, 18--08003 Barcelona--Spain",http://alsurcafe.com
+113,Salterio,4.5,66,€€,Tea Rooms,Barri Gòtic,"Carrer del Torrent de les Flors, 71--08024 Barcelona--Spain",http://www.lluritu.com
+114,Cremat 11,5,15,,Breakfast & Brunch,"Sant Pere, Santa Caterina i la Ribera-Born","Carrer de Casp, 22--08010 Barcelona--Spain",
+115,Cecconi’s,4.5,26,€€€,Italian,Barri Gòtic,"Carrer de Girona, 162--08037 Barcelona--Spain",http://www.morryssom.com/index…
+116,Rosat’s,4.5,2,€,Spanish,Sants,,
+117,Eden,4.5,118,€€,Pizza,L'Eixample,"Carrer de l'Argenteria, 62--08003 Barcelona--Spain",http://gruposagardi.com
+118,Pirineu en Boca,4.5,14,€€,Spanish,L'Eixample,"Carrer del Carme, 40--08001 Barcelona--Spain",
+119,Gaudim,4.5,53,€€€,Tapas Bars,L'Eixample,"Carrer Banys Vells, 6--08003 Barcelona--Spain",
+120,El Xampanyet,4.5,279,€€,Tapas Bars,"Sant Pere, Santa Caterina i la Ribera-Born","Carrer Aribau, 91--08036 Barcelona--Spain",http://www.focioli.com/
+121,Le Cucine Mandarosso,4.5,73,€€,Italian,"Sant Pere, Santa Caterina i la Ribera-Born","Travessera de Grácia, 441--08025 Barcelona--Spain",http://www.bellebuon.com/
+122,Bella Istanbul,5,2,€,Turkish,L'Eixample,"Carrer de la Mercè, 28--08002 Barcelona--Spain",http://barlaplata.com
+123,Abirradero,4.5,27,€€,Beer Bar,El Poble-sec,"Carrer Valencia, 143--08011 Barcelona--Spain",
+124,Paella Bar,4,44,€€,Spanish,El Raval,"C.C. les Glories--Avinguda Diagonal, 208--08018 Barcelona--Spain",http://www.brasaylena.com
+125,Cremat 11,5,15,,Breakfast & Brunch,"Sant Pere, Santa Caterina i la Ribera-Born","Carrer d'Aragó, 310--08009 Barcelona--Spain",http://www.somewherecafe.com
+126,Pirineu en Boca,4.5,14,€€,Spanish,L'Eixample,"Carrer Roger de Flor, 303--08025 Barcelona--Spain",
+127,Salterio,4.5,66,€€,Tea Rooms,Barri Gòtic,"Carrer de Rocafort, 70--08015 Barcelona--Spain",http://thefishandchipsshop.es
+128,Bodega La Puntual,4.5,57,€€,Catalan,"Sant Pere, Santa Caterina i la Ribera-Born","Carrer de San Pau, 4--08001 Barcelona--Spain",http://www.tabarlot.com
+129,The Ranch Smokehouse,4,9,,American (Traditional),L'Eixample,"Carrer de Bonavista, 8--08012 Barcelona--Spain",http://www.barbut.es
+130,Alsur Café & Backdoor Bar,5,20,€,Cocktail Bars,"Sant Pere, Santa Caterina i la Ribera-Born","Carrer de Jerusalem, 6--08001 Barcelona--Spain",
+131,La Paradeta,4.5,206,€€,Seafood,L'Eixample,"Carrer de l'Elisi, 13--08014 Barcelona--Spain",http://www.zarautzbcn.es
+132,Lluritu,5,5,,Seafood,Gràcia,"Plaça del Sol, 21--08012 Barcelona--Spain",
+133,Bonavida,4.5,10,€,Pubs,L'Eixample,"Paseo Juan de Borbón, 69--08003 Barcelona--Spain",http://www.amarre69.com
+134,Morryssom,4,54,€,Tapas Bars,L'Eixample,"Carrer de Mallorca, 275--08008 Barcelona--Spain",http://www.espaciouma.com
+135,La Esquina,4.5,31,€€,Cafeteria,L'Eixample,"Carrer de Mare de Deu del Remei, 53--08004 Barcelona--Spain",https://tapsipintxos.wordpress…
+136,Sagardi BCN Gòtic,4,125,€€,Basque,"Sant Pere, Santa Caterina i la Ribera-Born","Carrer de la Palma de Sant Just, 7--08002 Barcelona--Spain",http://www.bodegalapalma.com/
+137,Mastica,5,6,,Pizza,El Raval,"Passeig de Gracia, 68--08007 Barcelona--Spain",http://www.hotelmajestic.es/es
+138,Bar Rubí,4.5,38,€,Spanish,"Sant Pere, Santa Caterina i la Ribera-Born","Carrer d'Aribau, 137--08036 Barcelona--Spain",http://www.vietkitchenbcn.com
+139,Foc i Oli,5,91,€€,Sandwiches,L'Eixample,"Carrer de Provença, 237--08008 Barcelona--Spain",
+140,Bell e Buon,5,30,€€€,Pizza,Horta-Guinardó,"Rambla de Catalunya, 79--08007 Barcelona--Spain",http://www.maestrobcn.com/
+141,La Plata,4.5,126,€,Tapas/Small Plates,Barri Gòtic,,
+142,Roast Club Cafe,5,16,€€,Cafeteria,L'Eixample,"Carrer d'Entença, 2--08015 Barcelona--Spain",http://www.pulperiagudina.com
+143,Brasayleña,5,2,,Brazilian,Parc i Llacuna del Poblenou,"Calle del Carme, 19--08001 Barcelona--Spain",
+144,Somewhere,4.5,28,€,Breakfast & Brunch,L'Eixample,"Carrer de Pau Claris, 142--08009 Barcelona--Spain",http://www.cafe-emma.com/
+145,Can Ros,4.5,10,€,Tapas/Small Plates,Gràcia,"Carrer de la Marina, 19 - 21--08005 Barcelona--Spain",http://www.monchos.com
+146,The Fish & Chips Shop,4.5,44,€,Fish & Chips,L'Eixample,"Carrer dels Sombrerers, 7--08003 Barcelona--Spain",
+147,Tabarlot,4.5,44,€€,Catalan,El Raval,"Carrer de l'Almirall Churruca, 4--08003 Barcelona--Spain",
+148,Bar But,4.5,11,€€,Bars,Gràcia,"Carrer Carders, 6--08003 Barcelona--Spain",
+149,Bacaro,4.5,19,€€,Italian,El Raval,"Carrer de la Llibreteria, 10--08002 Barcelona--Spain",
+150,Zarautz,4.5,122,€€,Basque,Sants,"Carrer de la Plata, 4--08002 Barcelona--Spain",http://hoteltheserrasbarcelona…
+151,Sol Soler,4,56,€,Tapas Bars,Gràcia,Carrer de Verdaguer i Callís 9--08003 Barcelona--Spain,http://www.elbitxo.com
+152,Amarre 69,4.5,14,€€,Tapas Bars,Barceloneta,"Rambla de  Catalunya, 91--08008 Barcelona--Spain",https://www.cincojotas.es
+153,Uma,5,16,,Signature Cuisine,L'Eixample,"Carrer de Doctor Fleming, 10--08017 Barcelona--Spain",http://www.ribs.es
+154,Brunch & Cake,4.5,54,€€,Desserts,L'Eixample,"Carrer del Parlament, 54--08015 Barcelona--Spain",http://agustbarcelona.com
+155,TAPS,5,31,€,Tapas Bars,El Poble-sec,"Gran Via de les Corts Catalanes, 688--08010 Barcelona--Spain",http://tavernadeleixamplevenez…
+156,Bodega La Palma,4.5,37,€€,Wine Bars,Barri Gòtic,"Carrer de València, 267--08007 Barcelona--Spain",http://www.nuevereinas.com
+157,El Brunch del Majestic,4,1,,Mediterranean,L'Eixample,,
+158,Rosat’s,4.5,2,€,Spanish,Sants,"Rambla de Catalunya, 3--08007 Barcelona--Spain",
+159,Viet Kitchen,4.5,5,,Vietnamese,L'Eixample,"Carrer de Sant Antoni dels Sombrerers, 3--08003 Barcelona--Spain",http://www.restaurantestimar.c…
+160,Hänsel,4.5,73,€,Breakfast & Brunch,L'Eixample,"Passeig Marítim de la Barceloneta, 32--08003 Barcelona--Spain",http://www.cdlcbarcelona.com/
+161,Maestró,4,33,€€,Beer Bar,L'Eixample,"Avinguda de Rius i Taulet, 1-3--08004 Barcelona--Spain",http://www.crowneplazabarcelon…
+162,210 Grammi,5,2,,Italian,Parc i Llacuna del Poblenou,"Gran Via de les Corts Catalanes, 618--08007 Barcelona--Spain",http://www.mazah.es
+163,Pulpería A Gudiña,4,46,€€,Spanish,L'Eixample,"La Rambla del Estudis, 115--08002 Barcelona--Spain",http://www.viena.es
+164,Miño,4,194,€€,Seafood,El Raval,"Carrer d'Aragó, 214--08011 Barcelona--Spain",http://www.anglebarcelona.com
+165,Café Emma,4,30,€€,French,L'Eixample,"Carrer del Baluard, 56--08003 Barcelona--Spain",https://www.lacovafumada.com
+166,Marina Bay,4,35,€€,Seafood,La Vila Olímpica,"Carrer de Mallorca, 251--08008 Barcelona--Spain",http://www.restaurantesolomill…
+167,El Chigre 1769,4.5,25,€€€,Tapas/Small Plates,"Sant Pere, Santa Caterina i la Ribera-Born","Plaça Santa Caterina, 1--08003 Barcelona--Spain",http://www.oberestaurant.com/
+168,Macchina,4.5,82,€,Italian,Gràcia,"Carrer de Viladomat, 131--08015 Barcelona--Spain",http://www.thaizaap.restaurant
+169,Taverna Iberia,4.5,20,€,Spanish,Barceloneta,"Carrer del Parlament, 53--08015 Barcelona--Spain",
+170,Maccaroni,4.5,57,€€,Italian,"Sant Pere, Santa Caterina i la Ribera-Born","Carrer dels Tiradors, 3-5--08003 Barcelona--Spain",http://www.mosquitotapas.com/r…
+171,Pizzeria Da Nanni,5,22,,Pizza,Barri Gòtic,"Passeig de Gràcia, 73--08008 Barcelona--Spain",http://www.condesdebarcelona.c…
+172,Informal,5,27,€€€,Catalan,Barri Gòtic,"Carrer d'Aribau, 125--08036 Barcelona--Spain",https://seasonrestaurante.com
+173,El Bitxo,4.5,44,€€,Tapas/Small Plates,"Sant Pere, Santa Caterina i la Ribera-Born","Carrer del Consell de Cent, 465--08013 Barcelona--Spain",http://www.kamasot.es
+174,Cinco Jotas,4,15,€€,Spanish,L'Eixample,"Carrer Minerva, 8--08006 Barcelona--Spain",
+175,Ribs,4.5,3,€€,American (Traditional),Sarrià - Sant Gervasi,"Carrer de Jaume I, 8-10--08002 Barcelona--Spain",http://www.familialonja.com
+176,Agust,4.5,44,€€,Mediterranean,L'Eixample,"Carrer del Consolat de Mar, 15--08003 Barcelona--Spain",http://porkboigpertu.com
+177,La Taverna de L’Eixample,4,12,€,Mediterranean,L'Eixample,"Carrer de la Diputació, 321--08009 Barcelona--Spain",http://www.norterestaurante.co…
+178,9 Reinas,4.5,53,€€€,Argentine,L'Eixample,,
+179,Sintonia,4.5,2,,Cocktail Bars,L'Eixample,"Carrer de València, 352--08009 Barcelona--Spain",
+180,Honest Greens,5,22,,Vegetarian,L'Eixample,"Carrer del Comte Borrell, 81--08015 Barcelona--Spain",http://barramon.dudaone.com
+181,Estimar,4.5,19,€€€€,Seafood,"Sant Pere, Santa Caterina i la Ribera-Born","Carrer de Viladomat, 138--08015 Barcelona--Spain",http://www.ugotbruncherie.com
+182,CDLC,4,87,€€€,Asian Fusion,Barceloneta,"Carrer d'Entença, 57--08015 Barcelona--Spain",http://cruixrestaurant.com
+183,173,5,4,,Cocktail Bars,El Poble-sec,"Carrer de Balmes, 106--08008 Barcelona--Spain",http://www.petitbangkok.com
+184,Mazah,4,10,,Lebanese,L'Eixample,"Carrer d'Avinyó, 30--08002 Barcelona--Spain",http://www.gruposantelmo.com/e…
+185,Viena,4.5,72,€,Coffee & Tea,El Raval,"Carrer de Montcada, 2--08003 Barcelona--Spain",http://www.bardelpla.cat
+186,Angle,4.5,15,€€€€,Catalan,L'Eixample,"Carrer d'Elisabets, 2--08001 Barcelona--Spain",
+187,La Cova Fumada,4.5,118,€€,Tapas/Small Plates,Barceloneta,"Passeig de Joan de Borbó, 101--08039 Barcelona--Spain",http://mana75.es
+188,Solomillo,4.5,10,€€€€,Spanish,L'Eixample,"Carrer de Consell de Cent, 308--08007 Barcelona--Spain",http://www.lacuinadengarriga.c…
+189,Obe Restaurant,5,35,€€,Italian,"Sant Pere, Santa Caterina i la Ribera-Born","Carrer de la Princesa, 23--08003 Barcelona--Spain",
+190,Thai Zaap,5,7,,Thai,L'Eixample,"Carrer de Valencia, 227--08007 Barcelona--Spain",
+191,Els Sortidors del Parlament,4.5,18,€€,Tapas Bars,L'Eixample,"Carrer del Comte Borrell, 119--08015 Barcelona--Spain",https://slowandlowbcn.com
+192,Red Ant,4,66,€,Thai,"Sant Pere, Santa Caterina i la Ribera-Born","Carrer de Sant Pau, 110--08001 Barcelona--Spain",
+193,Alaire,4.5,6,€€,Tapas Bars,L'Eixample,"Gran Via de les Corts Catalanes, 667--08010 Barcelona--Spain",http://barvenezia.com/
+194,Season Tapas Restaurante,5,5,,Spanish,L'Eixample,"Carrer Nou de la Rambla, 105--08001 Barcelona--Spain",
+195,Kamasot,4.5,9,€€,Korean,L'Eixample,"Rambla de Catalunya, 12--08007 Barcelona--Spain",
+196,Modu Korean Bowl,4.5,7,,Korean,Gràcia,"Carrer de Pau Claris, 190--08037 Barcelona--Spain",http://www.pauclaris190.com
+197,Lonja de Tapas,4,23,€,Spanish,Barri Gòtic,"Avinguda Diagonal, 465--08036 Barcelona--Spain",
+198,PORK… boig per tu,4.5,34,€€,Spanish,"Sant Pere, Santa Caterina i la Ribera-Born","Carrer de la Diputació, 375--08013 Barcelona--Spain",
+199,Norte,4,9,€,Spanish,L'Eixample,"Carrer de la Diputació, 269--08007 Barcelona--Spain",http://www.bodegracia.com
+200,Honest Greens,5,22,,Vegetarian,L'Eixample,"Carrer del Rosselló, 253--08008 Barcelona--Spain",http://www.ristorantemargherit…
+201,Taco Alto,4.5,50,€,Mexican,"Sant Pere, Santa Caterina i la Ribera-Born","Carrer del Consell de Cent, 339--08007 Barcelona--Spain",http://www.grupnolla.com/bar-n…
+202,Els Sortidors del Parlament,4.5,18,€€,Tapas Bars,L'Eixample,"Carrer de Tamarit, 142--08015 Barcelona--Spain",http://casadorita.com
+203,Equilibrium Cafè,4.5,10,€,Coffee & Tea,L'Eixample,"Carrer de Ramon Trias Fargas, 2--08005 Barcelona--Spain",http://www.encompaniadelobos.c…
+204,Marina Bay,4,35,€€,Seafood,La Vila Olímpica,"Via Laietana, 32--08003 Barcelona--Spain",
+205,Norte,4,9,€,Spanish,L'Eixample,"Carrer de València, 163--08011 Barcelona--Spain",
+206,Bar Ramón,4.5,44,€€,Spanish,L'Eixample,"Carrer de Muntaner, 66--08011 Barcelona--Spain",
