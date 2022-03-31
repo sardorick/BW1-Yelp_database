@@ -1,8 +1,11 @@
+from calendar import c
+from sys import maxsize
 import streamlit as st
 from streamlit_option_menu import option_menu
 
-# Load data
+import pandas as pd
 
+import plotly.express as px
 
 
 
@@ -25,3 +28,21 @@ if menu == 'Home':
 
 elif menu == 'Restaurant':
     st.sidebar.radio('Plots', ['plot1', 'plot2'])
+
+
+elif menu == 'Hotels':
+    graph = st.sidebar.radio('Graph', ['Reviews/Rating distributions', 'Price range', 'Location'])
+
+    # load data
+    hotel = pd.read_csv('hotel_dataset.csv')
+
+    if graph == 'Location':
+        
+        hotel = hotel[hotel.reviews.notnull()]
+
+        px.set_mapbox_access_token(open(".mapbox_token").read())
+        fig = px.scatter_mapbox(hotel, lat="Latitude", lon="Longitude",zoom=12, size = 'reviews', color='rating', 
+        width=900, height=600, opacity=1, template="plotly_dark")
+        st.plotly_chart(fig)
+ 
+        # st.map(hotel[['lat', 'lon']])
