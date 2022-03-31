@@ -1,14 +1,27 @@
 import streamlit as st
+from streamlit_option_menu import option_menu
 
 # Load data
 
-st.title('Which Business to run in Barcelona')
-selected_task = st.sidebar.selectbox('Menu instead!!!!', ['Restaurant', 'Hotels', 'Pubs', 'Business comparison', 'Recommendation'])
-
-st.write('Photo of Barcola in the background')
-
-
-st.write('Some text about the project and key facts about barcelona')
 
 
 
+
+# menu
+with st.sidebar:
+    menu = option_menu(None, ['Home', 'Restaurant', 'Hotels', 'Pubs', 
+    'Business comparison', 'Recommendation'], icons =['house', 'shop', 'building', 'cup-straw', 'graph-up-arrow', 'info-circle '] )
+
+# house, people, building, cup-straw, graph-up-arrow, geo-alt, info-circle
+
+if menu == 'Home':
+    st.title('Which Business to run in Barcelona?')
+    st.markdown(""" Home content here!!!  
+    Photo of Barcelona in the background.
+    Some text about the project and key facts about Barcelona  
+
+    
+    """)
+
+elif menu == 'Restaurant':
+    st.sidebar.radio('Plots', ['plot1', 'plot2'])
