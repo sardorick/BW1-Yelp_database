@@ -7,17 +7,18 @@ import numpy as np
 import plotly.express as px
 # Load data
 
-resto_df = pd.read_csv(r"C:\Users\Lenovo\OneDrive\Documents\Strive repos\BW1-Yelp_database\Resto_df_cleaned.csv")
-pub_df = pd.read_csv(r"C:\Users\Lenovo\OneDrive\Documents\Strive repos\BW1-Yelp_database\pub_df_cleaned3.csv")
-hotel_df = pd.read_csv(r"C:\Users\Lenovo\OneDrive\Documents\Strive repos\BW1-Yelp_database\hotel_df_cleaned.csv")
+# resto_df = pd.read_csv(r"C:\Users\Lenovo\OneDrive\Documents\Strive repos\BW1-Yelp_database\Resto_df_cleaned.csv")
+# pub_df = pd.read_csv(r"C:\Users\Lenovo\OneDrive\Documents\Strive repos\BW1-Yelp_database\pub_df_cleaned3.csv")
+# hotel_df = pd.read_csv(r"C:\Users\Lenovo\OneDrive\Documents\Strive repos\BW1-Yelp_database\hotel_df_cleaned.csv")
 
-
+resto_df = pd.read_csv("Resto_df_cleaned.csv")
+pub_df = pd.read_csv("pub_df_cleaned3.csv")
+hotel_df = pd.read_csv("hotel_df_cleaned.csv")
 # menu
 with st.sidebar:
-    menu = option_menu(None, ['Home', 'Restaurant', 'Hotels', 'Pubs', 
-    'Recommendation'], icons =['house', 'shop', 'building', 'cup-straw', 'graph-up-arrow', 'info-circle '] )
+    menu = option_menu(None, ['Home','Hotels', 'Restaurant', 'Pubs', 'Recommendation'], 
+    icons =['house', 'building','shop', 'cup-straw', 'graph-up-arrow', 'info-circle '] )
 
-# house, people, building, cup-straw, graph-up-arrow, geo-alt, info-circle
 
 if menu == 'Home':
     st.title('Market Analysis for Barcelona hospitality industry using Yelp database')
@@ -45,13 +46,13 @@ if menu == 'Home':
     st.markdown("Team members: _Theophile Ishimwe, Sardorbek Zokirov_")
 
 elif menu == 'Restaurant':
-    sidebar_select = st.sidebar.radio('Plots', ['Neighborhood', 'Price range', 'Category'])
+    sidebar_select = st.sidebar.radio('GRAPH', ['Neighborhood', 'Price range', 'Category'])
     if sidebar_select == 'Neighborhood':
         fig=px.bar(resto_df['Neighbourhood'].value_counts(ascending=True), orientation='h', template='ggplot2', height=600, width=800, labels={
             "value": "Number of restaurants per neighbourhood",
             "index": "Neighbourhoods"
         }, 
-        title='In which neighbourhood most restaurants are located?')
+        title='In which neighbourhood most restaurants are located?',)
         st.write(fig)
 
     elif sidebar_select == 'Price range':
@@ -73,7 +74,9 @@ elif menu == 'Restaurant':
 # Pubs sidemenu and plots
  
 elif menu == 'Pubs':
-    sidebar_select = st.sidebar.radio('Plots', ['Neighborhood', 'Price range', 'Category'])
+    sidebar_select = st.sidebar.radio('GRAPH', ['Neighborhood', 'Price range', 'Category'])
+
+
     if sidebar_select == 'Neighborhood':
         fig=px.bar(pub_df['neighbourhood'].value_counts(ascending=True), orientation='h', template='ggplot2', height=600, width=800, labels={
             "value": "Number of pubs per neighbourhood",
@@ -100,20 +103,55 @@ elif menu == 'Pubs':
 
 # Hotel sidemenu and plots
 elif menu == 'Hotels':
-    sidebar_select = st.sidebar.radio('Plots', ['Neighborhood', 'Price range'])
+    hotel = pd.read_csv('theo/hotel_dataset.csv')
+
+
+
+    sidebar_select = st.sidebar.selectbox('GRAPH', ['Distribution_reviews_rating', 'Neighborhood', 'Price range','median_reviews_price', 'Location'])
     if sidebar_select == 'Neighborhood':
-        fig=px.bar(hotel_df['neighbourhood'].value_counts(ascending=True), orientation='h', template='ggplot2', height=600, width=800, labels={
-            "value": "Number of hotels per neighbourhood",
-            "index": "Neighbourhoods"
+        fig=px.bar(y = hotel_df['neighbourhood'].value_counts(ascending=True).index, 
+        x = hotel_df['neighbourhood'].value_counts(ascending=True).values, template='ggplot2', height=600, width=800, labels={
+            "x": "Number of hotels per neighbourhood",
+            "y": "Neighbourhoods"
         }, 
         title='In which neighbourhood most hotels are located?')
         st.write(fig)
 
     elif sidebar_select == 'Price range':
-        fig = px.bar(hotel_df['price_range'].value_counts(ascending=True), orientation='h', template='ggplot2', height=600, width=800, labels={
-            "value": "Number of hotels with respective price range",
-            "index": "Price range (in euros)"
+        fig = px.bar(y = hotel_df['price_range'].value_counts(ascending=True).index, 
+        x = hotel_df['price_range'].value_counts(ascending=True).values, template='ggplot2', height=600, width=800, labels={
+                "x": "Number of hotels with respective price range",
+                "y": "Price range (in euros)"
         },
         title='Price range of hotels in Barcelona')
         st.write(fig)
-    
+
+
+    elif sidebar_select == 'Location':
+        hotel = hotel[hotel.reviews.notnull()]
+        px.set_mapbox_access_token(open("theo/.mapbox_token").read())
+        fig = px.scatter_mapbox(hotel, lat="Latitude", lon="Longitude",zoom=12, size = 'reviews', color='rating', 
+        width=900, height=600, opacity=1, template="plotly_dark",
+        hover_name='name',
+        hover_data={'Latitude':False, 'Longitude': False, 'price_range': True},
+        title= 'Location of hotels with respect to rating and number of reviews')
+        st.plotly_chart(fig)
+
+
+    elif sidebar_select == 'Distribution_reviews_rating':
+        fig = px.box(data_frame=hotel, x = 'rating', y = 'reviews', template='ggplot2', height=600, width=800)
+
+        st.plotly_chart(fig)
+
+    elif sidebar_select == 'median_reviews_price':
+        fig = px.bar(x = hotel.groupby('price_range')['reviews'].agg('median').sort_values().values, 
+        y = hotel.groupby('price_range')['reviews'].agg('median').sort_values().index,
+        template='ggplot2', height=600, width=800, 
+        labels={
+                "x": "Average (median) number of reviews",
+                "y": "Price range (in euros)"
+        },
+        title='Average rating with respect to price range per person')
+        
+
+        st.plotly_chart(fig)
