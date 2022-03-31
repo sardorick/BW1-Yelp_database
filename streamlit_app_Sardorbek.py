@@ -46,60 +46,68 @@ if menu == 'Home':
     st.markdown("Team members: _Theophile Ishimwe, Sardorbek Zokirov_")
 
 elif menu == 'Restaurant':
-    sidebar_select = st.sidebar.radio('GRAPH', ['Neighborhood', 'Price range', 'Category'])
+    sidebar_select = st.sidebar.radio('GRAPH', ['Neighborhood', 'Price range', 'Category', 'Distribution reviews rating'])
     if sidebar_select == 'Neighborhood':
-        fig=px.bar(resto_df['Neighbourhood'].value_counts(ascending=True), orientation='h', template='ggplot2', height=600, width=800, labels={
-            "value": "Number of restaurants per neighbourhood",
-            "index": "Neighbourhoods"
+        fig=px.bar(x = resto_df['Neighbourhood'].value_counts(ascending=True).values, y = resto_df['Neighbourhood'].value_counts(ascending=True).index, orientation='h', template='ggplot2', height=600, width=800, labels={
+            "x": "Number of restaurants per neighbourhood",
+            "y": "Neighbourhoods"
         }, 
         title='In which neighbourhood most restaurants are located?',)
         st.write(fig)
 
     elif sidebar_select == 'Price range':
-        fig = px.bar(resto_df['Price range'].value_counts(ascending=True), orientation='h', template='ggplot2', height=600, width=800, labels={
-            "value": "Number of Restaurants with respective price range",
-            "index": "Price range (in euros)"
+        fig = px.bar(x = resto_df['Price range'].value_counts(ascending=True).values, y = resto_df['Price range'].value_counts(ascending=True).index, orientation='h', template='ggplot2', height=600, width=800, labels={
+            "x": "Number of Restaurants with respective price range",
+            "y": "Price range (in euros)"
         },
         title='Price range of restaurants in Barcelona')
         st.write(fig)
     
     elif sidebar_select == 'Category':
-        fig = px.bar(resto_df['Category'].value_counts(ascending=True).nlargest(20), orientation='h', template='ggplot2', height=600, width=800, labels={
-            "value": "Number of Restaurants per category",
-            "index": "Categories"
+        fig = px.bar(x = resto_df['Category'].value_counts(ascending=True).nlargest(20).values, y = resto_df['Category'].value_counts(ascending=True).nlargest(20).index, orientation='h', template='ggplot2', height=600, width=800, labels={
+            "x": "Number of Restaurants per category",
+            "y": "Categories"
         },
         title='Most popular categories of restaurants')
         st.write(fig)
+    elif sidebar_select == 'Distribution reviews rating':
+        fig = px.box(data_frame=resto_df, x = 'Rating', y = 'Review count', template='ggplot2', height=600, width=800, title='Distribution of the number of reviews and rating')
+
+        st.plotly_chart(fig)
 
 # Pubs sidemenu and plots
  
 elif menu == 'Pubs':
-    sidebar_select = st.sidebar.radio('GRAPH', ['Neighborhood', 'Price range', 'Category'])
+    sidebar_select = st.sidebar.radio('Graphs', ['Neighborhood', 'Price range', 'Category', 'Distribution reviews rating'])
 
 
     if sidebar_select == 'Neighborhood':
-        fig=px.bar(pub_df['neighbourhood'].value_counts(ascending=True), orientation='h', template='ggplot2', height=600, width=800, labels={
-            "value": "Number of pubs per neighbourhood",
-            "index": "Neighbourhoods"
+        fig=px.bar(x = pub_df['neighbourhood'].value_counts(ascending=True).values, y = pub_df['neighbourhood'].value_counts(ascending=True).index, orientation='h', template='ggplot2', height=600, width=800, labels={
+            "x": "Number of pubs per neighbourhood",
+            "y": "Neighbourhoods"
         }, 
         title='In which neighbourhood most pubs are located?')
         st.write(fig)
 
     elif sidebar_select == 'Price range':
-        fig = px.bar(pub_df['price_range'].value_counts(ascending=True), orientation='h', template='ggplot2', height=600, width=800, labels={
-            "value": "Number of pubs with respective price range",
-            "index": "Price range (in euros)"
+        fig = px.bar(x = pub_df['price_range'].value_counts(ascending=True).values, y = pub_df['price_range'].value_counts(ascending=True).index, orientation='h', template='ggplot2', height=600, width=800, labels={
+            "x": "Number of pubs with respective price range",
+            "y": "Price range (in euros)"
         },
         title='Price range of pubs in Barcelona')
         st.write(fig)
     
     elif sidebar_select == 'Category':
-        fig = px.bar(pub_df['category'].value_counts(ascending=True).nlargest(20), orientation='h', template='ggplot2', height=600, width=800, labels={
-            "value": "Number of pubs per category",
-            "index": "Categories"
+        fig = px.bar(x = pub_df['category'].value_counts(ascending=True).nlargest(20).values, y = pub_df['category'].value_counts(ascending=True).nlargest(20).index, orientation='h', template='ggplot2', height=600, width=800, labels={
+            "x": "Number of pubs per category",
+            "y": "Categories"
         },
         title='Most popular categories of pubs')
         st.write(fig)
+    elif sidebar_select == 'Distribution reviews rating':
+        fig = px.box(data_frame=pub_df, x = 'rating', y = 'reviews', template='ggplot2', height=600, width=800, title='Distribution of the number of reviews and rating')
+
+        st.plotly_chart(fig)
 
 # Hotel sidemenu and plots
 elif menu == 'Hotels':
@@ -107,7 +115,7 @@ elif menu == 'Hotels':
 
 
 
-    sidebar_select = st.sidebar.selectbox('GRAPH', ['Distribution_reviews_rating', 'Neighborhood', 'Price range','median_reviews_price', 'Location'])
+    sidebar_select = st.sidebar.selectbox('Graphs', ['Distribution reviews rating', 'Neighborhood', 'Price range','Median reviews relative to price', 'Location'])
     if sidebar_select == 'Neighborhood':
         fig=px.bar(y = hotel_df['neighbourhood'].value_counts(ascending=True).index, 
         x = hotel_df['neighbourhood'].value_counts(ascending=True).values, template='ggplot2', height=600, width=800, labels={
@@ -138,12 +146,12 @@ elif menu == 'Hotels':
         st.plotly_chart(fig)
 
 
-    elif sidebar_select == 'Distribution_reviews_rating':
-        fig = px.box(data_frame=hotel, x = 'rating', y = 'reviews', template='ggplot2', height=600, width=800)
+    elif sidebar_select == 'Distribution reviews rating':
+        fig = px.box(data_frame=hotel, x = 'rating', y = 'reviews', template='ggplot2', height=600, width=800, title='Distribution of the number of reviews and rating')
 
         st.plotly_chart(fig)
 
-    elif sidebar_select == 'median_reviews_price':
+    elif sidebar_select == 'Median reviews relative to price':
         fig = px.bar(x = hotel.groupby('price_range')['reviews'].agg('median').sort_values().values, 
         y = hotel.groupby('price_range')['reviews'].agg('median').sort_values().index,
         template='ggplot2', height=600, width=800, 
