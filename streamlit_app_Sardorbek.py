@@ -9,12 +9,13 @@ import plotly.express as px
 
 resto_df = pd.read_csv(r"C:\Users\Lenovo\OneDrive\Documents\Strive repos\BW1-Yelp_database\Resto_df_cleaned.csv")
 pub_df = pd.read_csv(r"C:\Users\Lenovo\OneDrive\Documents\Strive repos\BW1-Yelp_database\pub_df_cleaned3.csv")
+hotel_df = pd.read_csv(r"C:\Users\Lenovo\OneDrive\Documents\Strive repos\BW1-Yelp_database\hotel_df_cleaned.csv")
 
 
 # menu
 with st.sidebar:
     menu = option_menu(None, ['Home', 'Restaurant', 'Hotels', 'Pubs', 
-    'Business comparison', 'Recommendation'], icons =['house', 'shop', 'building', 'cup-straw', 'graph-up-arrow', 'info-circle '] )
+    'Recommendation'], icons =['house', 'shop', 'building', 'cup-straw', 'graph-up-arrow', 'info-circle '] )
 
 # house, people, building, cup-straw, graph-up-arrow, geo-alt, info-circle
 
@@ -96,3 +97,23 @@ elif menu == 'Pubs':
         },
         title='Most popular categories of pubs')
         st.write(fig)
+
+# Hotel sidemenu and plots
+elif menu == 'Hotels':
+    sidebar_select = st.sidebar.radio('Plots', ['Neighborhood', 'Price range'])
+    if sidebar_select == 'Neighborhood':
+        fig=px.bar(hotel_df['neighbourhood'].value_counts(ascending=True), orientation='h', template='ggplot2', height=600, width=800, labels={
+            "value": "Number of hotels per neighbourhood",
+            "index": "Neighbourhoods"
+        }, 
+        title='In which neighbourhood most hotels are located?')
+        st.write(fig)
+
+    elif sidebar_select == 'Price range':
+        fig = px.bar(hotel_df['price_range'].value_counts(ascending=True), orientation='h', template='ggplot2', height=600, width=800, labels={
+            "value": "Number of hotels with respective price range",
+            "index": "Price range (in euros)"
+        },
+        title='Price range of hotels in Barcelona')
+        st.write(fig)
+    
