@@ -46,7 +46,9 @@ if menu == 'Home':
     st.markdown("Team members: _Theophile Ishimwe, Sardorbek Zokirov_")
 
 elif menu == 'Restaurant':
-    sidebar_select = st.sidebar.radio('GRAPH', ['Neighborhood', 'Price range', 'Category', 'Distribution reviews rating'])
+    resto = pd.read_csv('theo/resto_dataset.csv')
+
+    sidebar_select = st.sidebar.radio('GRAPH', ['Distribution reviews rating', 'Neighborhood', 'Price range', 'Category', 'Location'])
     if sidebar_select == 'Neighborhood':
         fig=px.bar(x = resto_df['Neighbourhood'].value_counts(ascending=True).values, y = resto_df['Neighbourhood'].value_counts(ascending=True).index, orientation='h', template='ggplot2', height=600, width=800, labels={
             "x": "Number of restaurants per neighbourhood",
@@ -73,6 +75,17 @@ elif menu == 'Restaurant':
     elif sidebar_select == 'Distribution reviews rating':
         fig = px.box(data_frame=resto_df, x = 'Rating', y = 'Review count', template='ggplot2', height=600, width=800, title='Distribution of the number of reviews and rating')
 
+        st.plotly_chart(fig)
+
+
+    elif sidebar_select == 'Location':
+        resto = resto[resto.reviews.notnull()]
+        px.set_mapbox_access_token(open("theo/.mapbox_token").read())
+        fig = px.scatter_mapbox(resto, lat="Latitude", lon="Longitude",zoom=12, size = 'reviews', color='rating', 
+        width=900, height=600, opacity=1, template="plotly_dark",
+        hover_name='name',
+        hover_data={'Latitude':False, 'Longitude': False, 'price_range': True},
+        title= 'Location of restaurants with respect to rating and number of reviews')
         st.plotly_chart(fig)
 
 # Pubs sidemenu and plots
@@ -115,7 +128,7 @@ elif menu == 'Hotels':
 
 
 
-    sidebar_select = st.sidebar.selectbox('Graphs', ['Distribution reviews rating', 'Neighborhood', 'Price range','Median reviews relative to price', 'Location'])
+    sidebar_select = st.sidebar.radio('Graphs', ['Distribution reviews rating', 'Neighborhood', 'Price range','Median reviews relative to price', 'Location'])
     if sidebar_select == 'Neighborhood':
         fig=px.bar(y = hotel_df['neighbourhood'].value_counts(ascending=True).index, 
         x = hotel_df['neighbourhood'].value_counts(ascending=True).values, template='ggplot2', height=600, width=800, labels={
