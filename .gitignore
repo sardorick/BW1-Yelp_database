@@ -1,4 +1,10 @@
 # Byte-compiled / optimized / DLL files
+
+# Heavy files
+
+hotel_soup2.csv
+pub_soup2.csv
+restaurant_soup2.csv
 __pycache__/
 *.py[cod]
 *$py.class
