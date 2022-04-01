@@ -14,7 +14,7 @@ import plotly.express as px
 
 resto_df = pd.read_csv("Resto_df_cleaned.csv")
 pub_df = pd.read_csv("pub_df_cleaned4.csv")
-hotel_df = pd.read_csv("hotel_df_cleaned.csv")
+hotel_df = pd.read_csv("hotel_df_cleaned2.csv")
 
 
 
@@ -58,7 +58,7 @@ elif menu == 'Restaurant':
     resto = pd.read_csv('theo/resto_dataset.csv')
 
 
-    sidebar_select = st.sidebar.radio('GRAPH', ['Distribution reviews rating', 'Neighborhood', 'Price range', 'Category','Relationship between number of photos and reviews', 'Location'])
+    sidebar_select = st.sidebar.radio('Graphs', ['Distribution reviews rating', 'Neighborhood', 'Price range', 'Category','Relationship between number of photos and reviews', 'Location'])
 
 
 
@@ -117,7 +117,7 @@ elif menu == 'Pubs':
     pub = pd.read_csv('theo/pub_dataset.csv')
 
 
-    sidebar_select = st.sidebar.radio('Graphs', ['Neighborhood', 'Price range', 'Category', 'Distribution reviews rating', 'Relationship between the number of reviews and photos', 'Location'])
+    sidebar_select = st.sidebar.radio('Graphs', [ 'Distribution reviews rating', 'Neighborhood', 'Price range', 'Category', 'Relationship between the number of reviews and photos', 'Location'])
 
 
     if sidebar_select == 'Neighborhood':
