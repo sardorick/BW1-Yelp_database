@@ -1,0 +1,679 @@
+name,rating,reviews,price_range,street,postal_code,nb_photos,Latitude,Longitude,Business_type
+Cerveseria Catalana,4.5,1279.0,[12 - 33],"Carrer de Mallorca, 236",08008 Barcelona,3852,41.392402000000004,2.160929,restaurant
+My Fucking Restaurant,4.5,89.0,[34 - 66],"Carrer Nou de la Rambla, 35",08001 Barcelona,235,41.377764899999995,2.1731434,restaurant
+Ciutat Comtal,4.0,1120.0,[12 - 33],"Rambla de Catalunya, 18",08007 Barcelona,3450,41.388946000000004,2.1668409,restaurant
+Tapeo,4.5,451.0,[12 - 33],"Carrer de Montcada, 29",08003 Barcelona,1114,41.384580299999996,2.1817377999999996,restaurant
+Arume,4.5,633.0,[12 - 33],"Carrer d'En Botella, 11",08007 Barcelona,1600,41.378961700000005,2.1659756000000003,restaurant
+Taquerías Tamarindo,4.5,208.0,under 11,"Carrer de Aragón, 236",08007 Barcelona,326,41.389898200000005,2.162191,restaurant
+Vinitus,4.5,304.0,[12 - 33],"Carrer Del Consell de Cent, 333",08007 Barcelona,1075,41.3900278,2.1640349999999997,restaurant
+Somorrostro,4.5,368.0,[12 - 33],"Carrer de Sant Carles, 11",08003 Barcelona,905,41.3791445,2.1890522999999997,restaurant
+Cañete,4.5,392.0,[34 - 66],"Carrer de la Unió, 17",08001 Barcelona,1156,41.3790152,2.1732419999999997,restaurant
+Firebug,4.5,125.0,[12 - 33],"Passeig de Sant Joan, 23",08010 Barcelona,258,41.392737200000006,2.1778443,restaurant
+El Nacional,4.0,330.0,[12 - 33],"Passeig de Gracia, 24",08007 Barcelona,1326,41.3903065,2.1680629000000002,restaurant
+Tucco Real Food Born,4.5,618.0,under 11,"Carrer del Consolat de Mar, 23",08003 Barcelona,614,41.3823242,2.1819702999999997,restaurant
+Disfrutar,5.0,110.0,over 67,"Carrer de Villarroel, 163",08036 Barcelona,1340,41.3877605,2.1531960999999997,restaurant
+Tosca,4.5,240.0,[12 - 33],"Carrer de Sant Pere Més Alt, 8",08003 Barcelona,404,41.3873904,2.1756394,restaurant
+Brunch & Cake,4.0,852.0,[12 - 33],"Carrer d'Enric Granados, 145",08008 Barcelona,85,41.3942674,2.1536372000000004,restaurant
+Can Paixano,4.5,378.0,under 11,"Carrer de la Reina Cristina, 7",08003 Barcelona,419,41.381799,2.1834196,restaurant
+El Pintxo de Petritxol,4.5,109.0,[12 - 33],"Carrer de Petritxol, 9",08002 Barcelona,184,41.3827508,2.173148,restaurant
+Boa-Bao,4.5,6.0,,"Plaça del Dr. Letamendi, 1",08007 Barcelona,20,41.3885623,2.1606933999999995,restaurant
+El Asador de Aranda,4.5,28.0,[34 - 66],"Calle Pau Claris, 70",08010 Barcelona,105,41.389317299999995,2.1720615000000003,restaurant
+Restaurant La Tasqueta de Blai,4.5,230.0,under 11,"Carrer de Blai, 17",08004 Barcelona,576,41.373302200000005,2.1653446,restaurant
+Telefèric,4.0,178.0,[12 - 33],"Plaça Doctor Letamendi, 27",08007 Barcelona,416,41.389783,2.1607957000000004,restaurant
+Arcano,4.5,292.0,[34 - 66],,,,,,restaurant
+Tickets,4.5,195.0,over 67,"Avenida del Paral·lel, 164",08015 Barcelona,2292,41.375319399999995,2.1568267999999997,restaurant
+El Jardín del Edén,4.5,16.0,,"Carrer de Jovellanos, 3",08001 Barcelona,43,41.3851722,2.1678005000000002,restaurant
+Cera 23,4.5,555.0,[12 - 33],"Carrer de la Cera, 23",08001 Barcelona,1224,41.3788316,2.1663514999999998,restaurant
+A Tu Bola,4.5,79.0,under 11,Carrer Hospital 78,08001 Barcelona,132,41.3801216,2.1689582,restaurant
+Guell,4.5,64.0,[12 - 33],"Calle Nou de la Rambla, 20",08001 Barcelona,155,41.3786657,2.1737371,restaurant
+Bar Mut,4.5,149.0,[34 - 66],"Carrer de Pau Claris, 192",08037 Barcelona,294,41.3973097,2.1612477,restaurant
+Buenos Aires,4.5,55.0,[12 - 33],"Carrer Valencia, 189",08011 Barcelona,97,41.3894519,2.1586272999999996,restaurant
+Le Romane,5.0,12.0,,"Carrer de Muntaner, 103",08011 Barcelona,27,41.388789700000004,2.15636,restaurant
+La Pepita,4.5,514.0,[12 - 33],"Carrer de Còrsega, 343",08037 Barcelona,1065,41.397985399999996,2.1610264,restaurant
+Cachitos,4.0,98.0,[12 - 33],"Rambla Catalunya, 33",08007 Barcelona,237,41.3895111,2.1652823,restaurant
+2254,4.5,62.0,[34 - 66],"Consell de Cent, 335",08007 Barcelona,99,41.390097499999996,2.1641817999999997,restaurant
+Federal,4.5,55.0,under 11,"Passatge de la Pau, 11",08002 Barcelona,136,41.3779525,2.1777847,restaurant
+Lizarran,4.0,52.0,under 11,"Carrer de Mallorca, 257",08008 Barcelona,78,41.393454600000005,2.1618641,restaurant
+Momo,4.5,23.0,[12 - 33],"Carrer Arc de Sant Ramon del Call, 6",08002 Barcelona,46,41.3823578,2.1756189,restaurant
+Paradiso,4.5,105.0,[12 - 33],"Carrer de Rera Palau, 4",08003 Barcelona,280,41.3836305,2.1836644,restaurant
+Sensi,4.5,377.0,[12 - 33],,,,,,restaurant
+Alsur Café,4.0,325.0,under 11,"Carrer de Roger de Llúria, 23",08010 Barcelona,662,41.39115820000001,2.1711796000000003,restaurant
+Maitea,4.5,128.0,[12 - 33],"Carrer de Casanova, 155",08036 Barcelona,272,41.3909822,2.1510644,restaurant
+Betlem,4.5,61.0,[12 - 33],"Carrer de Girona, 70",08009 Barcelona,161,41.394992200000004,2.1712151,restaurant
+Llamber,4.5,133.0,[34 - 66],"Carrer Fusina, 5",08003 Barcelona,262,41.3863924,2.1829845000000003,restaurant
+Micu Maku,4.5,13.0,under 11,"Carrer d'Aribau, 22",08011 Barcelona,99,41.3868179,2.1616939,restaurant
+O’Toxo 3 Hermanos,4.5,92.0,[12 - 33],"Carrer del Carme, 59",08001 Barcelona,191,41.3809929,2.1681899,restaurant
+Bilbao Berria,4.0,152.0,[12 - 33],"Plaça Nova, 3",08002 Barcelona,288,41.3841913,2.174928,restaurant
+La Cuina de Laietana,4.5,23.0,[12 - 33],"Via Laietana, 71",08003 Barcelona,39,41.3882466,2.1728292999999996,restaurant
+Macchina,4.5,32.0,under 11,"Carrer d'Astúries, 17",08012 Barcelona,126,41.403042299999996,2.1535234,restaurant
+Bo de Boqueria,5.0,15.0,,"Carrer Petxina, 5-7",08001 Barcelona,22,41.38140679999999,2.1724294,restaurant
+Caravelle,4.5,223.0,[12 - 33],"Carrer del Pintor Fortuny, 31",08001 Barcelona,444,41.3822909,2.1688275000000004,restaurant
+La Bodegueta,4.0,36.0,[34 - 66],"Rambla de Catalunya, 100",08002 Barcelona,71,41.3936518,2.1604148,restaurant
+Raó,4.5,32.0,,"Carrer de les Sitges, 3",08001 Barcelona,146,41.38429,2.1695717,restaurant
+Terrace la Isabela,4.5,2.0,[34 - 66],"Les Rambles, 109",08002 Barcelona,17,41.38346729999999,2.1712016,restaurant
+El Vaso de Oro,4.5,178.0,[12 - 33],"Carrer de Balboa, 6",08003 Barcelona,359,41.381854100000005,2.1873102,restaurant
+9 Nine,5.0,45.0,[34 - 66],"Carrer València, 334",08009 Barcelona,146,41.3962877,2.168549,restaurant
+Paco Alcalde,4.5,41.0,[12 - 33],"Carrer de l'Almirall Aixada, 12",08003 Barcelona,120,41.377634,2.1884023999999997,restaurant
+Xian,4.5,11.0,,"Carrer de Ferran, 39",,32,,,restaurant
+Casa Alfonso,4.0,108.0,[12 - 33],"Carrer de Roger de Llúria, 6",08010 Barcelona,166,41.3901179,2.1731748,restaurant
+La Caravana,5.0,15.0,under 11,"Carrer de Mozart, 15",08012 Barcelona,15,41.3993011,2.1582299,restaurant
+Mosquito,4.0,144.0,under 11,"Carrer dels Carders, 46",08003 Barcelona,172,41.3873789,2.1805806,restaurant
+Nubar,4.5,4.0,,"Passeig de Gràcia, 53",08007 Barcelona,30,41.39230739999999,2.1638662,restaurant
+Quimet & Quimet,4.5,454.0,[12 - 33],"Carrer del Poeta Cabanyes, 25",08004 Barcelona,1380,41.3738961,2.1655838,restaurant
+La Bombeta,4.5,84.0,[12 - 33],"Carrer de la Maquinista, 3",08003 Barcelona,138,41.3805737,2.1877361,restaurant
+Billy Brunch,5.0,42.0,,"Carrer de Bailèn, 115",08009 Barcelona,104,41.39766229999999,2.1692976,restaurant
+Citizen Café,4.5,53.0,[12 - 33],"Plaça d'Urquinaona, 4",08010 Barcelona,124,41.38948,2.1727717,restaurant
+Pinotxo Bar,4.5,218.0,[12 - 33],"La Rambla, 91",08002 Barcelona,564,41.3821476,2.1720569,restaurant
+Gata Mala,5.0,140.0,under 11,"Carrer de Rabassa, 37",08024 Barcelona,146,41.4079093,2.1576823,restaurant
+Elsa y Fred,4.5,149.0,[12 - 33],"Carrer del Rec Comtal, 11",08003 Barcelona,332,41.389788200000005,2.1797687999999997,restaurant
+Flax & Kale,4.0,265.0,[12 - 33],"Carrer dels Tallers, 74",08001 Barcelona,756,41.3851739,2.165188,restaurant
+La Tagliatella,4.0,72.0,[12 - 33],"Carrer de Pau Claris, 118",08009 Barcelona,86,41.3922797,2.1679379,restaurant
+Milk Bar & Bistro,4.5,431.0,[12 - 33],"Carrer d'en Gignàs, 21",08002 Barcelona,649,41.380247,2.1792235,restaurant
+Eat My Trip,4.5,73.0,[12 - 33],"Carrer del Consell de Cent, 378",08009 Barcelona,193,41.3951185,2.1714472999999996,restaurant
+Chongqing Liuyishou Hotpot,4.5,5.0,,"Carrer del Consell de Cent, 303",08007 Barcelona,13,41.388909600000005,2.1624021,restaurant
+Benzina,4.5,13.0,,"Passatge de Pere Calders, 6",08015 Barcelona,87,41.376169700000005,2.1627853999999997,restaurant
+El Arbol Brunch,4.5,39.0,[12 - 33],"Carrer d' Aribau, 36",08011 Barcelona,77,41.3873145,2.1610887,restaurant
+Las Sorrentinas,4.5,44.0,under 11,"Plaça de Sant Pere, 5",08003 Barcelona,84,41.389255299999995,2.1794272,restaurant
+Luigi,4.5,43.0,[12 - 33],"Carrer de Roger de Llúria, 50",08009 Barcelona,38,41.3929049,2.1695471,restaurant
+Chen Ji,4.0,98.0,under 11,"Carrer d'Ali Bei, 65",08013 Barcelona,139,41.393713700000006,2.1806039,restaurant
+El Quim de la Boqueria,4.5,253.0,[12 - 33],"La Rambla, 91",,1114,,,restaurant
+Rosa Negra,4.0,230.0,[12 - 33],"Via Laietana, 46",08003 Barcelona,254,41.3864448,2.1756405,restaurant
+La Paradeta,4.5,44.0,[34 - 66],"Passatge de Simó, 18",08025 Barcelona,534,41.4044826,2.1734207999999997,restaurant
+Babula,5.0,2.0,,"Carrer de Pau Claris, 139",08009 Barcelona,11,41.3934507,2.1654782000000004,restaurant
+La Paradeta,4.5,155.0,[12 - 33],"Passatge de Simó, 18",08025 Barcelona,534,41.4044826,2.1734207999999997,restaurant
+Batuar,4.5,8.0,over 67,Cotton House,,46,,,restaurant
+La Alcoba Azul,4.5,132.0,[12 - 33],"Carrer de Sant Domenec del Call, 14",08002 Barcelona,188,41.3829285,2.1755621,restaurant
+Doña Rosa,4.5,2.0,,,,,,,restaurant
+Lasarte,4.5,67.0,over 67,,,,,,restaurant
+Paella Bar,4.0,44.0,[12 - 33],"Pòrtics de la Boqueria, s/n",,132,,,restaurant
+La Lluna,4.5,28.0,[12 - 33],"Carrer de Santa Anna, 20",08002 Barcelona,52,41.3852956,2.171631,restaurant
+Tantarantana,4.5,63.0,[12 - 33],"Carrer Tantarantana, 24",08003 Barcelona,194,41.3867328,2.1815041,restaurant
+Pepito,4.5,27.0,[34 - 66],"Passatge de Domingo, 3",08007 Barcelona,118,41.3926526,2.162492,restaurant
+Tandoori Nights,4.5,48.0,under 11,"Carrer de les Carretes, 44",08001 Barcelona,148,41.3775223,2.1671694,restaurant
+Eden,4.5,118.0,[12 - 33],,,,,,restaurant
+Botafumeiro,4.0,169.0,over 67,"Carrer Gran de Gràcia, 81",08012 Barcelona,525,41.4003249,2.1545210999999997,restaurant
+L’Amfora Barcelona,4.5,30.0,[34 - 66],"Avinguda del Paraŀlel, 184",08015 Barcelona,107,41.3752526,2.1534956000000003,restaurant
+Los Pergaminos,4.5,84.0,[12 - 33],,,,,,restaurant
+La Pineda,4.5,24.0,[12 - 33],"Carrer del Pi, 16",08002 Barcelona,90,41.383598799999994,2.1740152000000004,restaurant
+Restaurante Bodega Joan,4.0,35.0,[12 - 33],"Carrer del Rosselló, 164",08036 Barcelona,130,41.391701399999995,2.1554805,restaurant
+Els Pollos de Llull,4.5,21.0,[12 - 33],"Carrer de Ramon Turró, 13",08005 Barcelona,41,41.3910248,2.1908749,restaurant
+Bella Italia,4.5,9.0,[12 - 33],"Carrer de Roger de Llúria, 87",08009 Barcelona,23,41.39510870000001,2.1660631,restaurant
+El Boliche del Gordo Cabrera,4.0,18.0,[12 - 33],"Carrer del Consell de Cent, 338",08009 Barcelona,47,41.3929342,2.1683407000000003,restaurant
+La Fermata,4.5,56.0,under 11,"Carrer de Provença, 243",08008 Barcelona,112,41.3940047,2.1603237,restaurant
+El Xampanyet,4.5,279.0,[12 - 33],"Carrer de Montcada, 22",08003 Barcelona,673,41.3844025,2.1816598,restaurant
+Salterio,4.5,66.0,[12 - 33],"Carrer de Sant Domènec del Call, 4",08002 Barcelona,115,41.382522200000004,2.1760829,restaurant
+Cremat 11,5.0,15.0,,"Carrer Cremat Gran, 11",08003 Barcelona,32,41.3856044,2.1810658,restaurant
+Cecconi’s,4.5,26.0,[34 - 66],"Passeig de Colom, 20",08002 Barcelona,98,41.3784789,2.1793752,restaurant
+Rosat’s,4.5,2.0,under 11,"Carrer Creu Coberta, 58",08014 Barcelona,11,41.3753239,2.1453898,restaurant
+Pirineu en Boca,4.5,14.0,[12 - 33],"Carrer de Girona, 17",08010 Barcelona,72,41.3915292,2.1750943,restaurant
+Gaudim,4.5,53.0,[34 - 66],"Carrer d'Aragó, 231",08007 Barcelona,168,41.390363,2.1619743,restaurant
+Le Cucine Mandarosso,4.5,73.0,[12 - 33],"Carrer de Verdaguer i Callís, 4",08003 Barcelona,96,41.3869211,2.1762173,restaurant
+Bella Istanbul,5.0,2.0,under 11,"Carrer del Consell de Cent, 313",08007 Barcelona,4,41.38931779999999,2.1631522999999997,restaurant
+Abirradero,4.5,27.0,[12 - 33],"Carrer Vila i Vila, 77",08004 Barcelona,52,41.3740854,2.1685298,restaurant
+Bodega La Puntual,4.5,57.0,[12 - 33],"Carrer de Montcada, 22",08003 Barcelona,185,41.3844025,2.1816598,restaurant
+The Ranch Smokehouse,4.0,9.0,,"Ronda de la Universitat, 20",08007 Barcelona,39,41.3868159,2.1676502999999996,restaurant
+Alsur Café & Backdoor Bar,5.0,20.0,under 11,"Carrer de la Ribera, 18",08003 Barcelona,55,41.385735700000005,2.1852047000000003,restaurant
+La Paradeta,4.5,206.0,[12 - 33],"Passatge de Simó, 18",08025 Barcelona,534,41.4044826,2.1734207999999997,restaurant
+Lluritu,5.0,5.0,,"Carrer del Torrent de les Flors, 71",08024 Barcelona,27,41.4066843,2.1595484000000003,restaurant
+Bonavida,4.5,10.0,under 11,"Carrer de Casp, 22",08010 Barcelona,31,41.3892607,2.1709098,restaurant
+Morryssom,4.0,54.0,under 11,"Carrer de Girona, 162",08037 Barcelona,67,41.399539399999995,2.165152,restaurant
+La Esquina,4.5,31.0,[12 - 33],,,,,,restaurant
+Sagardi BCN Gòtic,4.0,125.0,[12 - 33],"Carrer de l'Argenteria, 62",08003 Barcelona,208,41.3834589,2.180891,restaurant
+Mastica,5.0,6.0,,"Carrer del Carme, 40",08001 Barcelona,30,41.3820018,2.1696242000000003,restaurant
+Bar Rubí,4.5,38.0,under 11,"Carrer Banys Vells, 6",08003 Barcelona,71,41.3845481,2.1804156000000003,restaurant
+Foc i Oli,5.0,91.0,[12 - 33],"Carrer Aribau, 91",08036 Barcelona,131,41.3899194,2.157061,restaurant
+Bell e Buon,5.0,30.0,[34 - 66],"Travessera de Grácia, 441",08025 Barcelona,49,41.4113773,2.1731756,restaurant
+La Plata,4.5,126.0,under 11,"Carrer de la Mercè, 28",08002 Barcelona,201,41.3804545,2.1806229999999998,restaurant
+Roast Club Cafe,5.0,16.0,[12 - 33],"Carrer Valencia, 143",08011 Barcelona,28,41.3872855,2.1559084,restaurant
+Brasayleña,5.0,2.0,,C.C. les Glories,,11,,,restaurant
+Somewhere,4.5,28.0,under 11,"Carrer d'Aragó, 310",08009 Barcelona,41,41.3945865,2.1685298,restaurant
+Can Ros,4.5,10.0,under 11,"Carrer Roger de Flor, 303",08025 Barcelona,11,41.4050359,2.1640479,restaurant
+The Fish & Chips Shop,4.5,44.0,under 11,"Carrer de Rocafort, 70",08015 Barcelona,54,41.3786276,2.1544697999999998,restaurant
+Tabarlot,4.5,44.0,[12 - 33],"Carrer de San Pau, 4",08001 Barcelona,183,41.3807909,2.1730484,restaurant
+Bar But,4.5,11.0,[12 - 33],"Carrer de Bonavista, 8",08012 Barcelona,36,41.3979822,2.1593598999999997,restaurant
+Bacaro,4.5,19.0,[12 - 33],"Carrer de Jerusalem, 6",08001 Barcelona,65,41.381219,2.1715394,restaurant
+Zarautz,4.5,122.0,[12 - 33],"Carrer de l'Elisi, 13",08014 Barcelona,254,41.378102500000004,2.1433603,restaurant
+Sol Soler,4.0,56.0,under 11,"Plaça del Sol, 21",08012 Barcelona,83,41.401523,2.1563439,restaurant
+Amarre 69,4.5,14.0,[12 - 33],"Paseo Juan de Borbón, 69",08003 Barcelona,23,41.375930700000005,2.1892457999999997,restaurant
+Uma,5.0,16.0,,"Carrer de Mallorca, 275",08008 Barcelona,105,41.3948167,2.1635591,restaurant
+Brunch & Cake,4.5,54.0,[12 - 33],"Carrer d'Enric Granados, 145",08008 Barcelona,85,41.3942674,2.1536372000000004,restaurant
+TAPS,5.0,31.0,under 11,"Carrer de Mare de Deu del Remei, 53",08004 Barcelona,80,41.372819899999996,2.1556532,restaurant
+Bodega La Palma,4.5,37.0,[12 - 33],"Carrer de la Palma de Sant Just, 7",08002 Barcelona,66,41.382332,2.1785576,restaurant
+El Brunch del Majestic,4.0,1.0,,"Passeig de Gracia, 68",08007 Barcelona,21,41.3935221,2.163977,restaurant
+Viet Kitchen,4.5,5.0,,"Carrer d'Aribau, 137",08036 Barcelona,20,41.3919859,2.1542665000000003,restaurant
+Hänsel,4.5,73.0,under 11,"Carrer de Provença, 237",08008 Barcelona,131,41.3934525,2.1595886,restaurant
+Maestró,4.0,33.0,[12 - 33],"Rambla de Catalunya, 79",08007 Barcelona,119,41.391875399999996,2.1618703,restaurant
+210 Grammi,5.0,2.0,,,,,,,restaurant
+Pulpería A Gudiña,4.0,46.0,[12 - 33],"Carrer d'Entença, 2",08015 Barcelona,126,41.375487799999995,2.1562676,restaurant
+Miño,4.0,194.0,[12 - 33],"Calle del Carme, 19",08001 Barcelona,432,41.3823278,2.1708235,restaurant
+Café Emma,4.0,30.0,[12 - 33],"Carrer de Pau Claris, 142",08009 Barcelona,141,41.3939325,2.1659213999999998,restaurant
+Marina Bay,4.0,35.0,[12 - 33],"Carrer de la Marina, 19 - 21",08005 Barcelona,168,41.3867496,2.1970155,restaurant
+El Chigre 1769,4.5,25.0,[34 - 66],"Carrer dels Sombrerers, 7",08003 Barcelona,69,41.383878700000004,2.1820567000000004,restaurant
+Macchina,4.5,82.0,under 11,"Carrer d'Astúries, 17",08012 Barcelona,126,41.403042299999996,2.1535234,restaurant
+Taverna Iberia,4.5,20.0,under 11,"Carrer de l'Almirall Churruca, 4",08003 Barcelona,36,41.378983000000005,2.1895816000000003,restaurant
+Maccaroni,4.5,57.0,[12 - 33],"Carrer Carders, 6",08003 Barcelona,102,41.3859252,2.1800353,restaurant
+Pizzeria Da Nanni,5.0,22.0,,"Carrer de la Llibreteria, 10",08002 Barcelona,40,41.3831724,2.1773915,restaurant
+Informal,5.0,27.0,[34 - 66],"Carrer de la Plata, 4",08002 Barcelona,78,41.3801927,2.1806929,restaurant
+El Bitxo,4.5,44.0,[12 - 33],Carrer de Verdaguer i Callís 9,08003 Barcelona,36,41.3872287,2.1756873,restaurant
+Cinco Jotas,4.0,15.0,[12 - 33],"Rambla de  Catalunya, 91",08008 Barcelona,70,41.39286679999999,2.1607347000000003,restaurant
+Ribs,4.5,3.0,[12 - 33],"Carrer de Doctor Fleming, 10",08017 Barcelona,34,41.3934556,2.1357,restaurant
+Agust,4.5,44.0,[12 - 33],"Carrer del Parlament, 54",08015 Barcelona,134,41.3772598,2.1639537,restaurant
+La Taverna de L’Eixample,4.0,12.0,under 11,"Gran Via de les Corts Catalanes, 688",08010 Barcelona,46,41.3930619,2.1738039000000002,restaurant
+9 Reinas,4.5,53.0,[34 - 66],"Carrer de València, 267",08007 Barcelona,119,41.3940689,2.1648449,restaurant
+Sintonia,4.5,2.0,,,,,,,restaurant
+Honest Greens,5.0,22.0,,"Rambla de Catalunya, 3",08007 Barcelona,43,41.3874797,2.1678389,restaurant
+Estimar,4.5,19.0,over 67,"Carrer de Sant Antoni dels Sombrerers, 3",08003 Barcelona,144,41.3841894,2.1816436,restaurant
+CDLC,4.0,87.0,[34 - 66],"Passeig Marítim de la Barceloneta, 32",08003 Barcelona,151,41.384981200000006,2.1962771,restaurant
+173,5.0,4.0,,"Avinguda de Rius i Taulet, 1-3",08004 Barcelona,6,41.3724753,2.1550853,restaurant
+Mazah,4.0,10.0,,"Gran Via de les Corts Catalanes, 618",08007 Barcelona,26,41.3877176,2.1666298,restaurant
+Viena,4.5,72.0,under 11,"La Rambla del Estudis, 115",08002 Barcelona,102,41.3841697,2.1707127,restaurant
+Angle,4.5,15.0,over 67,"Carrer d'Aragó, 214",08011 Barcelona,134,41.388256,2.1599542,restaurant
+La Cova Fumada,4.5,118.0,[12 - 33],"Carrer del Baluard, 56",08003 Barcelona,301,41.3792719,2.1892177999999998,restaurant
+Solomillo,4.5,10.0,over 67,"Carrer de Mallorca, 251",08008 Barcelona,50,41.393208200000004,2.1614617999999997,restaurant
+Obe Restaurant,5.0,35.0,[12 - 33],"Plaça Santa Caterina, 1",08003 Barcelona,107,41.385616999999996,2.1785277,restaurant
+Thai Zaap,5.0,7.0,,"Carrer de Viladomat, 131",08015 Barcelona,14,41.380903700000005,2.1554963,restaurant
+Els Sortidors del Parlament,4.5,18.0,[12 - 33],"Carrer del Parlament, 53",08015 Barcelona,64,41.377658700000005,2.1636933999999997,restaurant
+Red Ant,4.0,66.0,under 11,"Carrer dels Tiradors, 3-5",08003 Barcelona,103,41.3879625,2.1806766,restaurant
+Alaire,4.5,6.0,[12 - 33],"Passeig de Gràcia, 73",08008 Barcelona,39,41.39343,2.1624077,restaurant
+Season Tapas Restaurante,5.0,5.0,,"Carrer d'Aribau, 125",08036 Barcelona,85,41.3913544,2.1552118,restaurant
+Kamasot,4.5,9.0,[12 - 33],"Carrer del Consell de Cent, 465",08013 Barcelona,24,41.3989092,2.1757854,restaurant
+Modu Korean Bowl,4.5,7.0,,"Carrer Minerva, 8",08006 Barcelona,5,41.3966759,2.1562957000000003,restaurant
+Lonja de Tapas,4.0,23.0,under 11,"Carrer de Jaume I, 8-10",08002 Barcelona,63,41.38322539999999,2.1779189999999997,restaurant
+PORK… boig per tu,4.5,34.0,[12 - 33],"Carrer del Consolat de Mar, 15",08003 Barcelona,129,41.382155299999994,2.1817794,restaurant
+Norte,4.0,9.0,under 11,"Carrer de la Diputació, 321",08009 Barcelona,14,41.3936613,2.170929,restaurant
+Taco Alto,4.5,50.0,under 11,,,,,,restaurant
+Equilibrium Cafè,4.5,10.0,under 11,"Carrer de València, 352",08009 Barcelona,19,41.397322499999994,2.1696482999999995,restaurant
+Bar Ramón,4.5,44.0,[12 - 33],"Carrer del Comte Borrell, 81",08015 Barcelona,37,41.3786903,2.1606507,restaurant
+Ugot Bruncherie,4.5,84.0,[12 - 33],"Carrer de Viladomat, 138",08015 Barcelona,163,41.3814111,2.1553718999999996,restaurant
+CruiX,5.0,11.0,[34 - 66],"Carrer d'Entença, 57",08015 Barcelona,65,41.37810220000001,2.1522517999999997,restaurant
+Petit Bangkok,4.5,7.0,[34 - 66],"Carrer de Balmes, 106",08008 Barcelona,19,41.3923418,2.158896,restaurant
+Palosanto,4.5,25.0,[34 - 66],"Carrer d'Avinyó, 30",08002 Barcelona,75,41.380751700000005,2.1772424999999997,restaurant
+Bar del Pla,4.0,133.0,[12 - 33],"Carrer de Montcada, 2",08003 Barcelona,375,41.385611,2.1800184,restaurant
+Elisabets,4.0,75.0,under 11,"Carrer d'Elisabets, 2",08001 Barcelona,122,41.383715,2.1691013,restaurant
+Maná 75,4.5,3.0,[34 - 66],"Passeig de Joan de Borbó, 101",08039 Barcelona,33,41.3688689,2.1882247,restaurant
+La Cuina d’ en Garriga,4.0,23.0,[34 - 66],"Carrer de Consell de Cent, 308",08007 Barcelona,52,41.3908105,2.1655172,restaurant
+La Hacienda,5.0,17.0,under 11,"Carrer de la Princesa, 23",08003 Barcelona,27,41.3853345,2.1803508,restaurant
+Hummus,4.5,30.0,[12 - 33],"Carrer de Valencia, 227",08007 Barcelona,25,41.3913406,2.1611795,restaurant
+Slow & Low,4.0,5.0,,"Carrer del Comte Borrell, 119",08015 Barcelona,45,41.3804239,2.1582305,restaurant
+El Pachuco,4.5,128.0,under 11,"Carrer de Sant Pau, 110",08001 Barcelona,172,41.3764929,2.1691511,restaurant
+El Venezia,4.0,9.0,under 11,"Gran Via de les Corts Catalanes, 667",08010 Barcelona,18,41.394242999999996,2.1737986,restaurant
+El Rincón del Artista,4.0,23.0,[12 - 33],"Carrer Nou de la Rambla, 105",08001 Barcelona,19,41.3752139,2.1704171000000003,restaurant
+Chalito,4.0,12.0,,"Rambla de Catalunya, 12",08007 Barcelona,13,41.388394399999996,2.1680884,restaurant
+Pau Claris 190,4.5,34.0,[34 - 66],"Carrer de Pau Claris, 190",08037 Barcelona,99,41.396622,2.1621966,restaurant
+Chez Cocó,4.5,23.0,[12 - 33],"Avinguda Diagonal, 465",08036 Barcelona,51,41.393179100000005,2.1472581,restaurant
+Portolés,4.5,12.0,under 11,"Carrer de la Diputació, 375",08013 Barcelona,16,41.3969984,2.1754782,restaurant
+Bo de Gracia,4.0,12.0,,"Carrer de la Diputació, 269",08007 Barcelona,11,41.3909063,2.1675218,restaurant
+Margherita,4.0,89.0,[12 - 33],"Carrer del Rosselló, 253",08008 Barcelona,111,41.3953467,2.1592797000000004,restaurant
+Bar Nolla,4.0,35.0,[34 - 66],"Carrer del Consell de Cent, 339",08007 Barcelona,178,41.3905679,2.1646678,restaurant
+Casa Dorita,4.5,16.0,,"Carrer de Tamarit, 142",08015 Barcelona,13,41.377879899999996,2.1602392000000004,restaurant
+Palmito Beach Bar,4.5,5.0,[12 - 33],"Carrer de Ramon Trias Fargas, 2",08005 Barcelona,8,41.3851321,2.1968292000000003,restaurant
+Takumi Sapporo Ramen Kitchen,4.5,3.0,,"Via Laietana, 32",08003 Barcelona,6,41.385504,2.1772765,restaurant
+Bosque Palermo,4.0,193.0,[12 - 33],"Carrer de València, 163",08011 Barcelona,363,41.388131099999995,2.1570433999999996,restaurant
+Son Hao,4.5,8.0,,"Carrer de Muntaner, 66",08011 Barcelona,9,41.3870859,2.1590225,restaurant
+Barceló Raval,4.5,56.0,[12 - 33],"Rambla del Raval, 17 - 21",08001 Barcelona,157,41.3790381,2.1695982999999996,hotel
+Hotel 1898,4.5,76.0,[34 - 66],"La Rambla, 109",08002 Barcelona,156,41.38346729999999,2.1712016,hotel
+W Barcelona,4.0,176.0,over 67,"Plaça de la Rosa dels Vents, 1",08039 Barcelona,464,41.3674464,2.1888016,hotel
+Hotel Continental Barcelona,4.5,12.0,under 11,"Paseo la Rambla, 138",08002 Barcelona,8,41.385168900000004,2.1708087000000003,hotel
+Pulitzer Barcelona,4.0,42.0,[12 - 33],"Carrer Bergara, 8",08002 Barcelona,100,41.3860816,2.1683428,hotel
+Le Méridien Barcelona,4.0,84.0,[34 - 66],La Rambla 111,,161,,,hotel
+Hotel Cotton House,4.5,47.0,[34 - 66],"Gran Via de les Corts Catalanes, 670",08010 Barcelona,151,41.391608399999996,2.1719271,hotel
+Hotel Ayre Roselon,4.5,7.0,under 11,Rossello 390,,16,,,hotel
+Hotel Majestic,4.0,40.0,[34 - 66],"Passeig de Gracia, 68",08007 Barcelona,129,41.3935221,2.163977,hotel
+Renaissance Barcelona Hotel,4.0,53.0,[34 - 66],"Pau Claris, 122",08009 Barcelona,197,41.3927888,2.1673975,hotel
+Villa Emilia,5.0,25.0,[12 - 33],"Carrer de Calàbria, 115",08015 Barcelona,94,41.380246899999996,2.1541148999999997,hotel
+Hotel Arts Barcelona,4.0,103.0,,Marina 19-21,08005 Barcelona,287,41.3977365,2.2015347000000003,hotel
+Mandarin Oriental,4.0,40.0,over 67,"Passeig de Gràcia, 38-40",08007 Barcelona,106,41.3912786,2.1667383,hotel
+Hotel Jazz,4.5,22.0,[12 - 33],"Pelai, 3, Eixample",08001 Barcelona,23,41.385951899999995,2.1658927,hotel
+K+K Hotel Picasso Barcelona,4.5,20.0,,"Passeig de Picasso, 26",08003 Barcelona,79,41.386608200000005,2.1839828999999997,hotel
+Hotel Europark,4.5,46.0,[12 - 33],"Carrer d'Arago, 323",08009 Barcelona,105,41.3963208,2.1699118,hotel
+Grand Hotel Central,4.0,38.0,,"Vía Laietana, 30",08003 Barcelona,151,41.384969500000004,2.1776631,hotel
+Hotel Barcelona 1882,4.5,6.0,,"Carrer de Còrsega, 482",08025 Barcelona,37,41.4039366,2.1694703,hotel
+Alma Barcelona,4.5,29.0,[34 - 66],"Carrer de Mallorca, 271",08008 Barcelona,75,41.3945549,2.1632686000000003,hotel
+Novotel Barcelona City,4.0,13.0,[12 - 33],"Avenida Diagonal, 201",08018 Barcelona,21,41.4038393,2.1912025,hotel
+Casa Fuster,4.5,24.0,over 67,"Passeig de Gràcia, 132",08008 Barcelona,49,41.3980162,2.1581229,hotel
+The Barcelona EDITION,4.0,21.0,[34 - 66],"Avinguda de Francesc Cambó, 14",08003 Barcelona,78,41.385944,2.1778103,hotel
+Hotel Barcelona Universal,4.0,41.0,[12 - 33],"Avinguda Paral-lel, 76",08001 Barcelona,63,41.375237,2.1684058,hotel
+Hotel NH Collection Barcelona Gran Hotel Calderón,4.0,24.0,[34 - 66],"Rambla de Catalunya, 26",08007 Barcelona,62,41.3893349,2.1662721,hotel
+H10 Madison,5.0,16.0,,"Carrer del Dr. Joaquim Pou, 2-4-6",08002 Barcelona,62,41.3861216,2.1753536,hotel
+Claris,4.0,31.0,[34 - 66],"Carrer Pau Claris, 150",08009 Barcelona,56,41.3944721,2.1652479,hotel
+Alexandra Barcelona Hotel,4.0,45.0,[34 - 66],"Carrer de Mallorca, 251",08008 Barcelona,159,41.393208200000004,2.1614617999999997,hotel
+Hilton Barcelona Hotel,3.5,46.0,[34 - 66],"Avinguda Diagonal, 589-591",08014 Barcelona,157,41.388784,2.1315914,hotel
+Hotel Duquesa de Cardona,4.5,32.0,[34 - 66],"Passeig de Colom, 12",08002 Barcelona,84,41.3798064,2.1804648999999996,hotel
+Hotel Mercer,4.5,12.0,[34 - 66],"Carrer dels Lledó, 7",08002 Barcelona,16,41.3826336,2.1789912,hotel
+Casa Bonay,4.5,15.0,[12 - 33],"Gran Via de Les Corts Catalanes, 700",08010 Barcelona,34,41.3934981,2.1744033,hotel
+El Palace,4.5,20.0,over 67,"Gran Via de les Corts Catalanes, 668",08010 Barcelona,71,41.3916211,2.1716444,hotel
+Hotel Praktik,4.5,18.0,[12 - 33],"Carrer de Provença, 279",08037 Barcelona,34,41.3962911,2.1631561,hotel
+Hotel U232,4.5,29.0,[12 - 33],"Carrer del Comte d'Urgell, 232",08036 Barcelona,54,41.3896906,2.1489764,hotel
+Soho House,5.0,5.0,over 67,"Plaça del Duc de Medinaceli, 4",08002 Barcelona,,41.3784473,2.1793251000000002,hotel
+Hotel Catalonia Born,4.0,11.0,[12 - 33],"Calle Rec Comtal, 16",08003 Barcelona,6,41.389790600000005,2.1801623,hotel
+Hotel Condes de Barcelona,4.0,15.0,[34 - 66],"Passeig de Gràcia, 73",08008 Barcelona,35,41.39343,2.1624077,hotel
+Hotel Sofia,5.0,6.0,,"Plaça de Pius XII, 4",08028 Barcelona,14,41.385979299999995,2.1233146,hotel
+Olivia Balmes,4.5,28.0,[34 - 66],"Carrer de  Balmes, 117",08008 Barcelona,55,41.3921706,2.158473,hotel
+Colonial,3.5,4.0,[12 - 33],"Via Layetana, 3",08003 Barcelona,61,41.382292299999996,2.1807526000000004,hotel
+Best Western Premier Hotel Dante,4.0,9.0,[12 - 33],"Carrer de Mallorca, 181",08036 Barcelona,63,41.3894736,2.1564207000000004,hotel
+Arc la Rambla,4.0,9.0,[12 - 33],"La Rambla, 19",08002 Barcelona,14,41.3782064,2.1755468999999996,hotel
+Vividora,5.0,2.0,,"Carrer del Duc, 15",08002 Barcelona,,41.3846923,2.1728834999999997,hotel
+Hotel Colón,4.0,48.0,[34 - 66],"Avinguda Catedral, 7",08002 Barcelona,78,41.384962,2.1756662999999996,hotel
+H10 Port Vell,5.0,9.0,[12 - 33],"Carrer Pas de Sota Muralla, 9",08003 Barcelona,18,41.3815909,2.1837846,hotel
+Barcelona Airport Hotel,2.5,24.0,,,,,,,hotel
+Hotel España Ramblas,3.5,17.0,[12 - 33],"Carrer de San Pau, 9-11",08001 Barcelona,51,41.3799306,2.1728183999999997,hotel
+Hotel Ohla,4.0,20.0,[34 - 66],"Via Laietana, 49",08003 Barcelona,14,41.387027,2.1742305,hotel
+AC Hotel Diagonal L’iIlla,2.5,3.0,[34 - 66],"Avinguda Diagonal, 555",08029 Barcelona,25,41.3898509,2.1357526,hotel
+The Wittmore,4.5,10.0,[34 - 66],"Carrer de Riudarenes, 7",08002 Barcelona,115,41.380996,2.1796341,hotel
+Hilton Diagonal Mar,4.0,67.0,[34 - 66],"Passeig del Taulat, 262-264",08019 Barcelona,237,41.4085927,2.217611,hotel
+The One,3.0,2.0,,"Carrer de Provença, 277",08037 Barcelona,9,41.3961161,2.1630421,hotel
+Hotel Catalonia Port,4.0,10.0,[12 - 33],"Carrer Ample, 1",08002 Barcelona,13,41.378820399999995,2.1785506000000003,hotel
+Hotel Barcelona Catedral,4.5,15.0,over 67,"Carrer dels Capellans, 4",08002 Barcelona,23,41.384849100000004,2.1751236,hotel
+The Serras,5.0,14.0,over 67,"Passeig de Colom, 9",08002 Barcelona,44,41.3801834,2.1807974,hotel
+Sir Victor Hotel,4.0,25.0,[34 - 66],"Carrer del Rosselló, 265",08008 Barcelona,100,41.39621470000001,2.1609684,hotel
+Room Mate Carla Hotel,4.5,22.0,[12 - 33],"Carrer de Mallorca, 288",08037 Barcelona,45,41.3963324,2.1661692,hotel
+Gallery Hotel,4.5,23.0,[34 - 66],"Carrer del Roselló, 249",08008 Barcelona,14,41.3951333,2.1591838,hotel
+Iberostar Selection Paseo de Gracia,2.5,3.0,[34 - 66],"Plaça de Catalunya, 10",08002 Barcelona,4,41.3878658,2.1693861,hotel
+Hostal Grau Barcelona,4.5,15.0,under 11,"Carrer Ramelleres, 27",08001 Barcelona,36,41.3847169,2.1680884,hotel
+Renaissance Barcelona Fira Hotel,4.0,35.0,,"Plaza Europa, 50-52",08902 Barcelona,147,41.3564336,2.1231632,hotel
+Do,4.5,13.0,[12 - 33],"Plaça Reial, 1",08002 Barcelona,18,41.380330799999996,2.1757277000000004,hotel
+AC Hotel by Marriott Irla,4.0,12.0,[12 - 33],"Carrer Calvet, 40-42",08021 Barcelona,22,41.394841799999995,2.1435665,hotel
+Axel,3.0,32.0,[34 - 66],"Carrer d'Aribau, 33",08011 Barcelona,34,41.3872864,2.1604118999999997,hotel
+Hotel Sagrada Familia,3.5,11.0,[12 - 33],Calle Corsega 541,08029 Barcelona,17,41.405932799999995,2.1714665,hotel
+Hotel Turin,4.0,3.0,under 11,"Carrer del Pintor Fortuny, 9",08001 Barcelona,16,41.3830532,2.1702188,hotel
+Hotel NH Collection Barcelona Pódium,4.5,6.0,[12 - 33],"Carrer de Bailèn, 4-6",08010 Barcelona,55,41.391437700000004,2.1782103,hotel
+Eurostars Grand Marina,3.5,30.0,[34 - 66],"Moll de Barcelona, s/n",08039 Barcelona,57,41.3716088,2.1794827999999997,hotel
+Neri,4.0,21.0,[34 - 66],"Carrer de Sant Sever, 5",08002 Barcelona,28,41.3832269,2.1753423,hotel
+Millenni,4.0,4.0,[12 - 33],"Ronda Sant Pau, 14",08001 Barcelona,,41.375989600000004,2.167148,hotel
+Hotel Cram,4.5,12.0,[34 - 66],"Carrer d'Aribau, 54",08011 Barcelona,34,41.3880549,2.1599602000000004,hotel
+Sallés Hotel,3.5,14.0,,"Avinguda del Remolar, 46",08820 El Prat de Llobregat,26,41.325142,2.0870908999999997,hotel
+Hotel Catalonia Eixample 1864,4.0,4.0,[12 - 33],"Carrer de Roger de Llúria, 60",08009 Barcelona,5,41.3936086,2.1685298,hotel
+Hotel Sixty Two,4.5,15.0,[34 - 66],"Passeig de Gràcia, 62",08007 Barcelona,68,41.3929971,2.1646338,hotel
+Hotel Condal,2.0,6.0,under 11,"Carrer de la Boqueria, 23",08002 Barcelona,6,41.3815395,2.174258,hotel
+Rafaelhoteles Badalona,3.5,3.0,,Avinguda de Navarra 6-8,08911 Badalona,,41.4562401,2.2490516,hotel
+Ayre Hotel Rosellón,4.0,11.0,[12 - 33],"Carrer del Roselló, 390",08025 Barcelona,34,41.404738200000004,2.1727127,hotel
+Andante Hotel,4.5,16.0,[12 - 33],Av. de les Drassanes 23-25,08001 Barcelona,17,41.376603499999995,2.172713,hotel
+Gaudi Hotel Barcelona,2.5,15.0,,"Calle NOU de la Rambla, 12",08001 Barcelona,,41.3789033,2.1739175,hotel
+H10 Catalunya Plaza,3.5,9.0,[34 - 66],"Plaça de Catalunya, 7",08002 Barcelona,57,41.386815999999996,2.1685497000000002,hotel
+Siresa Europea,,,,"Calle Roger de Lluria, 118",08037 Barcelona,,41.3969971,2.1640965,hotel
+Gotico Hotel,3.5,11.0,[34 - 66],"Calle Jaume I, 14",08002 Barcelona,55,41.38344910000001,2.1782809,hotel
+Majestic Residence,4.0,2.0,[34 - 66],"Passeig de Gracia, 69",08008 Barcelona,36,41.393363799999996,2.1628107000000005,hotel
+Hotel Catalonia Park Guell,1.0,4.0,[34 - 66],"Paseo Mare de deu del Coll, 10",08023 Barcelona,8,41.408407399999994,2.150252,hotel
+Nobu Hotel Barcelona,4.0,1.0,,"Av. de Roma, 2-4",08014 Barcelona,14,41.3797146,2.1426221,hotel
+Royal Ramblas Hotel,4.0,14.0,[34 - 66],117 La Rambla,08002 Barcelona,6,41.3842824,2.1703916000000003,hotel
+H10 Casa Mimosa,5.0,9.0,[12 - 33],"Carrer de Pau Claris, 179",08037 Barcelona,4,41.396174,2.1621006,hotel
+Praktik Rambla,4.5,13.0,[12 - 33],"Rambla de Catalunya, 27",08007 Barcelona,20,41.3890045,2.1658044999999997,hotel
+Constanza,4.0,8.0,[34 - 66],"Carrer del Bruc, 42",08010 Barcelona,17,41.39183,2.173048,hotel
+Hotel Occidental Atenea Mar,3.0,7.0,[34 - 66],"Passeig García i Faria, 37-47",08019 Barcelona,27,41.3850494,2.1733247,hotel
+Olivia Plaza Hotel,4.5,19.0,[34 - 66],"Placa de Catalunya, 19",08002 Barcelona,42,41.386145899999995,2.1711593999999996,hotel
+Barcelona Nouvel Hotel,3.5,3.0,[34 - 66],Calle Santa Ana 18-20,08002 Barcelona,,41.3851769,2.171716,hotel
+Ayre Hotel Caspe,3.5,7.0,[12 - 33],Caspe 103,08013 Barcelona,6,41.3959771,2.1793415,hotel
+Avenida Palace,3.5,18.0,over 67,"Calle Gran Via de Les Corts Catalanes, 605",08007 Barcelona,26,41.3890576,2.167148,hotel
+The Mirror Hotel,4.0,17.0,[12 - 33],"Carrer de Còrsega, 255",08036 Barcelona,32,41.393189500000005,2.1543484,hotel
+Equity Point Centric,3.0,11.0,,"Passeig de Gracia, 33",08007 Barcelona,16,41.3908631,2.1657853,hotel
+Hotel Medium Prisma,3.5,3.0,[12 - 33],Avenida Josep Tarradellas 119-121,08029 Barcelona,23,41.3890596,2.1429652000000003,hotel
+Hotel Curious,4.5,15.0,[12 - 33],"Carrer Carme, 25",08001 Barcelona,13,41.3823175,2.1704775,hotel
+Hotel Lleó,4.0,7.0,[12 - 33],"Carrer de Pelai, 22",08001 Barcelona,,41.3856969,2.1664138,hotel
+Le Palacete,5.0,1.0,,"Carrer de la Legalitat, 10",08024 Barcelona,8,41.407621899999995,2.1596197999999998,hotel
+Hotel Catalonia 505,3.0,3.0,[12 - 33],"Carrer de Muntaner, 505",08022 Barcelona,24,41.403121399999996,2.1370638,hotel
+Ramblas 108,5.0,1.0,[12 - 33],"La Rambla, 108",08002 Barcelona,,41.3825813,2.1722943,hotel
+Hotel Regencia Colon,4.0,8.0,[12 - 33],"Carrer Sagristans, 13/17",08002 Barcelona,10,41.3853509,2.175647,hotel
+Hotel Del Mar,2.5,7.0,under 11,"Plaça Palau, 19",08002 Barcelona,54,41.3819916,2.1839828999999997,hotel
+Room Mate Pau Hotel,4.0,9.0,[12 - 33],"Carrer Fontanella, 7",08010 Barcelona,58,41.38768029999999,2.1717388,hotel
+Alimara,2.5,8.0,[12 - 33],"Carrer de Berruguete, 126",08035 Barcelona,,41.4339684,2.1474832000000004,hotel
+Hotel Catalonia Diagonal Centro,4.0,1.0,[12 - 33],"Carrer de Balmes, 142",08008 Barcelona,11,41.39400139999999,2.1569578999999997,hotel
+Park Hotel,4.5,4.0,over 67,"Avinguda del Marquès de l'Argentera, 11",08003 Barcelona,31,41.3842534,2.1843322999999994,hotel
+Hotel Crowne Plaza Fira Center,4.5,22.0,[34 - 66],"Avinguda Rius i Taulet, 1-3",08004 Barcelona,42,41.3724753,2.1550853,hotel
+AC Hotel by Marriott Barcelona Forum,3.0,25.0,[34 - 66],Paseo Taulat 278,08019 Barcelona,44,41.4099,2.2186,hotel
+Hotel 54 Barceloneta,3.5,4.0,[12 - 33],"Passeig Joan de Borbo, 54",08003 Barcelona,19,41.37706729999999,2.1888406000000002,hotel
+Hotel Balmes,4.5,8.0,[12 - 33],"Carrer de Mallorca, 216",08008 Barcelona,55,41.391062100000006,2.1593373,hotel
+Jorsu Catalana,,,,"Calle Ausias Marc, 109",08013 Barcelona,,41.3954631,2.1808837000000003,hotel
+Senator Barcelona,2.5,2.0,[34 - 66],"Carrer Cardenal Reig, 11",08028 Barcelona,16,41.3775885,2.1136138,hotel
+Gaudí,,,,12 Carrer Nou de la Rambla,08001 Barcelona,,41.3789033,2.1739175,hotel
+Ibis,4.5,7.0,[12 - 33],"Carrer de la Ciutat de Granada, 99",08018 Barcelona,8,41.4009989,2.1944154,hotel
+The Corner Hotel,4.5,17.0,[12 - 33],"Carrer de Mallorca, 178",08036 Barcelona,34,41.3890741,2.1565824,hotel
+Hotel Nouvel,3.5,16.0,[12 - 33],Santa Ana 20,08002 Barcelona,29,41.3852956,2.171631,hotel
+Motel One,4.0,7.0,[12 - 33],"Passeig de Pujades, 11",08018 Barcelona,30,41.3900682,2.1845157000000004,hotel
+Campanile Barcelona Sud-Cornella,4.0,2.0,,"Avenida del Maresme, 7",08940 Cornellà de Llobregat,,41.3482465,2.0827231,hotel
+Royal,4.0,7.0,[12 - 33],"Passeig de Gracia, 84",08008 Barcelona,33,41.3946531,2.1624779999999997,hotel
+Monument Hotel,3.5,3.0,,"Passeig de Gràcia, 75",08008 Barcelona,9,41.393908200000006,2.1622556,hotel
+Room Mate Anna Hotel,4.5,9.0,[12 - 33],"Carrer d'Aragó, 271",08007 Barcelona,18,41.3929045,2.1654014999999998,hotel
+Hotel Acta Splendid,3.0,3.0,[12 - 33],Calle Muntaner 2,08011 Barcelona,,41.3833294,2.1635413,hotel
+NH Constanza,3.0,7.0,[34 - 66],"Carrer de Deu i Mata, 69",08029 Barcelona,21,41.3888902,2.1362928,hotel
+AC Hotel by Marriott Sants,4.0,17.0,[12 - 33],"Passeig de Sant Antoni, 36-40",08014 Barcelona,47,41.377363,2.1385368,hotel
+hotels barcelona spain,4.5,3.0,under 11,Barcelona,08001 Barcelona,54,41.37958629999999,2.1683571,hotel
+Soho Barcelona,4.0,9.0,[12 - 33],"Gran Via de les Corts Catalanes, 543",08011 Barcelona,16,41.383412899999996,2.1598148999999998,hotel
+Hostalin Barcelona,3.0,2.0,,"Carrer de la Diputació, 346",08013 Barcelona,,41.396451500000005,2.1754398999999998,hotel
+Casa Marcelo,5.0,1.0,,"Carrer Reva Palau, 2",08003 Barcelona,4,41.3837515,2.1834724,hotel
+AC Hotel by Marriott Victoria Suites,4.5,4.0,[12 - 33],"Carrer Beltran i Rozpide, 7",08034 Barcelona,14,41.3893534,2.1209824,hotel
+Colors,2.0,1.0,,Campoamor 79,08031 Barcelona,,41.435140600000004,2.1536769000000002,hotel
+Hesperia Presidente,4.0,14.0,[34 - 66],Avinguda Diagonal 570,08021 Barcelona,10,41.3928822,2.1438566000000003,hotel
+Hotel Miramar,4.0,15.0,over 67,"Plaça Carlos Ibanez, 3",08038 Barcelona,37,41.3703336,2.1713897,hotel
+Hotel Medicis,4.0,2.0,[34 - 66],"Carrer de Castillejos, 340",08025 Barcelona,5,41.410652899999995,2.1731363999999997,hotel
+Hotel NH Porta Barcelona,4.0,1.0,,"Avinguda Generalitat de Catalunya, 2",08960 Sant Just Desvern,5,41.37727520000001,2.078967,hotel
+Hotel Ciutadella Barcelona,3.0,3.0,[12 - 33],"Avinguda del Marquès de l'Argentera, 4",08003 Barcelona,40,41.3837693,2.1846922,hotel
+St. Christopher’s Inn,4.0,20.0,,,,,,,hotel
+B Hotel,4.5,15.0,[12 - 33],"Gran Via de les Corts Catalanes, 389-391",08015 Barcelona,18,41.3765644,2.1505278999999997,hotel
+Catalonia Barcelona Golf,3.0,1.0,,,,,,,hotel
+Mihlton,5.0,1.0,,,,,,,hotel
+Ilunion Almirante,3.0,6.0,,,,,,,hotel
+Hotel Peninsular,4.0,8.0,,,,,,,hotel
+Banys Oriental,4.5,13.0,[12 - 33],,,,,,hotel
+Hotel Capri by Fraser,3.5,3.0,[12 - 33],,,,,,hotel
+Hotel Granados 83,4.0,25.0,[34 - 66],,,,,,hotel
+Hotel Oasis,4.0,8.0,[12 - 33],,,,,,hotel
+Ámister Art Hotel,4.0,8.0,[12 - 33],,,,,,hotel
+Hotel Regina,3.0,8.0,[34 - 66],,,,,,hotel
+Silken Concordia,4.0,10.0,[12 - 33],,,,,,hotel
+H10 Art Gallery,3.0,3.0,[12 - 33],,,,,,hotel
+Gran Hotel Havana,4.0,12.0,[12 - 33],,,,,,hotel
+AC Hotel by Marriott Som,3.0,6.0,,,,,,,hotel
+Hotel Ciutat Barcelona,3.5,13.0,[12 - 33],,,,,,hotel
+Tryp Apolo Hotel,3.0,35.0,[12 - 33],,,,,,hotel
+Franquesa Malaguti,,,,,,,,,hotel
+Petit Palace Boqueria Garden,3.5,21.0,[12 - 33],,,,,,hotel
+Hotel Casa Camper,4.5,30.0,[34 - 66],,,,,,hotel
+Holiday Inn Express,3.5,15.0,[12 - 33],,,,,,hotel
+Siete Cero DOS Limpiezas Gestionadas,,,,,,,,,hotel
+Hotel Apsis Porta Marina,4.0,1.0,[12 - 33],,,,,,hotel
+Hotel Catalonia,3.0,7.0,[34 - 66],,,,,,hotel
+Banquetes Reunidos,,,,,,,,,hotel
+Fonda Espanya,4.5,10.0,over 67,"Carrer de Sant Pau, 9",08001 Barcelona,28,41.3799896,2.1728541,hotel
+Exe Laietana Palace,2.5,7.0,[34 - 66],"Via Laietana, 17",08003 Barcelona,4,41.3832936,2.1792409,hotel
+Hotel H10,4.5,7.0,[12 - 33],"Plaça d'Urquinaona, 2",08010 Barcelona,23,41.389212799999996,2.1726015,hotel
+H10 Metropolitan,4.0,4.0,[34 - 66],"Rambla de Catalunya, 7-9",08007 Barcelona,67,41.3875467,2.1673975,hotel
+Hotel Ohla Eixample,4.0,5.0,[34 - 66],"Carrer de Còrsega, 289",08008 Barcelona,6,41.3945776,2.1564782000000005,hotel
+Well and Come,5.0,3.0,[34 - 66],"Carrer de Girona, 168",08037 Barcelona,5,41.399754200000004,2.1647762999999998,hotel
+Hotel La Casa del Sol,5.0,2.0,[12 - 33],"Plaça del Sol, 23",08012 Barcelona,,41.4014072,2.156544,hotel
+Meliá Barcelona,4.0,19.0,[34 - 66],"Avinguda de Sarrià, 50",08029 Barcelona,53,41.391058,2.141706,hotel
+Hotel Del Compte,4.0,2.0,under 11,"Calle Diputacio, 142 - 144",08015 Barcelona,10,41.3826532,2.1571114,hotel
+NH Eixample,3.0,7.0,under 11,"Carrer de València, 105-107",08011 Barcelona,7,41.3860105,2.1542331000000003,hotel
+HCC Montblanc,3.0,12.0,[12 - 33],"Via Laietana, 61",08003 Barcelona,11,41.3877322,2.1731363999999997,hotel
+Hotel Bagués,5.0,8.0,over 67,"La Rambla, 105",08002 Barcelona,22,41.3827894,2.1715636000000003,hotel
+Hotel Porta Fira,4.0,27.0,,"Plaza Europa, 45",08908 Hospitalet de Llobregat,73,41.354890000000005,2.12554,hotel
+Santa Marta,5.0,2.0,[12 - 33],"Carrer del General Castaños, 14",08003 Barcelona,,41.3836481,2.1851828999999996,hotel
+Petit Palace Museum,3.5,5.0,[34 - 66],"Carrer de la Diputació, 250",08007 Barcelona,9,41.3887977,2.1653631,hotel
+Two Hotel,4.5,17.0,[12 - 33],"Carrer de Calàbria, 90-92",08015 Barcelona,13,41.379129999999996,2.1560836,hotel
+Ibis Barcelona Centro,4.0,6.0,,"Carrer Napoles, 230",08013 Barcelona,6,41.400769,2.1724972,hotel
+Ficfrei,,,,"Paseo Pujades, 17",08018 Barcelona,,41.3927773,2.1883414,hotel
+H10 Cubik,4.0,16.0,[34 - 66],"Via Laietana, 69",08003 Barcelona,49,41.3878251,2.1729455,hotel
+Fedasosa,,,,"Calle Maladeta, 51",08950 Esplugues De Llobregat,,41.372186299999996,2.0999539,hotel
+Hotel Advance,5.0,4.0,[12 - 33],Calle de Sepúlveda 180,08011 Barcelona,12,41.3832309,2.1629669,hotel
+Praktik Garden,3.5,13.0,[12 - 33],"Carrer de la Diputació, 325",08009 Barcelona,14,41.39395,2.1711785,hotel
+Hotel Barcelona House,2.0,13.0,[12 - 33],"Carrer Escudellers, 19",08002 Barcelona,7,41.379461799999994,2.1760157,hotel
+Hotel NH Barcelona Les Corts,3.5,2.0,,"Travessera de les Corts, 292",08029 Barcelona,33,41.3874135,2.1366292999999996,hotel
+Four Points by Sheraton Barcelona Diagonal,4.0,26.0,[12 - 33],"Avenida Diagonal, 161",08018 Barcelona,46,41.4052879,2.1961972000000003,hotel
+Hotel Apsis Sant Angelo,5.0,1.0,under 11,Consejo de Ciento 74,08015 Barcelona,11,41.3791995,2.1503384999999997,hotel
+ABaC Hotel,5.0,4.0,over 67,"Avinguda del Tibidabo, 1",08022 Barcelona,40,41.4107156,2.1362588,hotel
+"Hotel Nuñez Urgel Comte D’urgell, 232",,,,"C Comte D'urgell, 232",08036 Barcelona,,41.3896906,2.1489764,hotel
+Silken Sant Gervasi,4.0,5.0,[12 - 33],"Carrer Sant Gervasi de Cassoles, 26",08022 Barcelona,9,41.4047427,2.1388848,hotel
+Wilson,5.0,10.0,[12 - 33],"Avinguda Diagonal, 568",08021 Barcelona,12,41.39443320000001,2.1500603,hotel
+Hostemplo,,,,"Paseo Mallorca, 362",08013 Barcelona,,41.400701,2.1720231,hotel
+Gestion Hotelera Ballester,,,,"C Valencia, 154",08011 Barcelona,,41.386118599999996,2.1548665000000002,hotel
+Hotel Pelayo,4.0,1.0,under 11,"Calle Pelai, 9 - 1 1",08001 Barcelona,,41.3859194,2.166553,hotel
+Sunotel BCN,1.0,2.0,[12 - 33],"Calle Gran VIA de LES Corts Catalanes, 570",08011 Barcelona,,41.3841429,2.1616896,hotel
+Acta Mimic,3.0,7.0,,C/ Arc del Teatre 58,08001 Barcelona,11,41.375411799999995,2.1728702999999996,hotel
+Marin Gonzalez Gabriel,,,,"Calle Corsega, 200",08036 Barcelona,,41.3909778,2.1523338,hotel
+Hotel America,4.5,7.0,[12 - 33],Calle ProvenÇa 195,08008 Barcelona,10,41.3918818,2.1573417,hotel
+Hotel Abba Garden,3.5,3.0,,"Carrer de Santa Rosa, 33",08950 Barcelona,30,41.385480799999996,2.1018838,hotel
+Hotel Catalonia Portal de l’Angel,4.0,5.0,[34 - 66],"Portal de l'Àngel,17",08002 Barcelona,9,41.385488099999996,2.1728485,hotel
+City Park Hotel Sant Just,,,,Carretera Reial A 0,08960 Sant Just Desvern,,41.379679100000004,2.0665186,hotel
+Mercer Hoteles,5.0,1.0,[34 - 66],"Calle Boria, 24",08003 Barcelona,,41.384686,2.1790825000000003,hotel
+Hotel Reding,4.0,10.0,[12 - 33],"Calle Gravina, 5",08001 Barcelona,,41.385324600000004,2.1656601,hotel
+Acta BCN 40,5.0,2.0,,c/ Joaquin Costa 40,08001 Barcelona,,41.3827157,2.165901,hotel
+OD Barcelona,5.0,5.0,,"Carrer d'Aragó, 300",08009 Barcelona,11,41.39380379999999,2.1676127,hotel
+Pullman,4.0,22.0,[34 - 66],"Avinguda del Litoral, 10",08005 Barcelona,103,41.385698600000005,2.1948128,hotel
+Hotel NH Barcelona Entenza,4.5,3.0,under 11,"Carrer de l'Equador, 20",08029 Barcelona,29,41.385758100000004,2.1405935,hotel
+Hoteles Solvasa,1.0,1.0,,Plaza Dr. Letamendi 37,08007 Barcelona,,41.388741499999995,2.1616405,hotel
+Hotel Ibis,3.0,2.0,,"Avinguda de la Pallaresa, 73",08921 Santa Coloma de Gramenet,16,41.4525932,2.201993,hotel
+Fairmont Rey Juan Carlos I,4.0,29.0,[34 - 66],"Avinguda Diagonal, 661",08028 Barcelona,71,41.3830227,2.1095883,hotel
+Intown Europe,,,,"Calle Carders, 6",08003 Barcelona,,41.3859252,2.1800353,hotel
+Rey Don Jaime I,1.5,3.0,under 11,"C Jaume I, 11",08002 Barcelona,,41.383336299999996,2.1778807000000002,hotel
+Vincci Gala 4,4.5,7.0,[12 - 33],"Ronda Sant Pere, 32",08010 Barcelona,21,41.389441999999995,2.1747102000000003,hotel
+H10 Montcada,4.0,19.0,[34 - 66],"Via Laietana, 24",08003 Barcelona,20,41.3844474,2.1783805,hotel
+Almanac,5.0,7.0,,"Gran Via de les Corts Catalanes, 619",08007 Barcelona,17,41.390542100000005,2.1692957,hotel
+Hotel Denit,3.5,17.0,[12 - 33],"Carrer d'Estruc, 24 - 26",08002 Barcelona,43,41.387037400000004,2.1726373,hotel
+Hotel Midmost,3.5,9.0,[12 - 33],"Carrer Pelai, 14",08001 Barcelona,17,41.385637100000004,2.1659580000000003,hotel
+Hotel Front Maritim,3.0,4.0,[12 - 33],"Passeig García i Faria, 69-71",08019 Barcelona,6,41.3850494,2.1733247,hotel
+Hotel Granvía,4.0,22.0,[12 - 33],"Gran Vía de les Corts Catalanes, 642",08007 Barcelona,53,41.3900159,2.1695056,hotel
+"roig cerrudo,ana 000950091r slne",,,,"Calle Salva, 78",08004 Barcelona,,41.3715273,2.1647985,hotel
+Sabor Intens,,,,"Plaza Llibertat, 1",08012 Barcelona,,41.399874600000004,2.1539571,hotel
+Aparthotel Silver,4.5,11.0,[12 - 33],"Carrer de Bretón de los Herreros, 26",08012 Barcelona,37,41.402100700000005,2.1511812999999997,hotel
+Chic&Basic Velvet,1.0,1.0,,"Carrer del Consell de Cent, 74",08015 Barcelona,19,41.3791995,2.1503384999999997,hotel
+Hotel Catalonia Plaza Catalunya,4.5,5.0,[12 - 33],"Carrer de Bergara, 11",08002 Barcelona,8,41.3865706,2.1683379,hotel
+Omnium,4.0,3.0,,"Carrer del Bruc, 42",08010 Barcelona,13,41.39183,2.173048,hotel
+Ibis Styles,,,[12 - 33],"Carrer de Provença, 340",08037 Barcelona,,41.3976887,2.1658044999999997,hotel
+Patacolls,,,,"RO San Pere, 0024",08010 Barcelona,,41.3919671,2.1757277999999998,hotel
+Hotel Fira Congress,3.0,11.0,,"Carrer de Jose Augustin Goytisolo, 9-11",08908 Hospitalet de Llobregat,5,41.3522876,2.1273413,hotel
+ANBA Bed And Breakfast,5.0,4.0,,"Ronda de Sant Pere, 27",08010 Barcelona,9,41.3899693,2.174795,hotel
+Chic & Basic Lemon Boutique,,,,"Carrer de Pelai, 6",08001 Barcelona,9,41.3856473,2.1651295,hotel
+Tres Torres Atiram,3.0,1.0,[12 - 33],"Carrer de Calatrava, 32",08017 Barcelona,11,41.3999345,2.1300938,hotel
+Abba Rambla,4.0,5.0,[12 - 33],"Rambla del Raval, 4C",08001 Barcelona,5,41.3790252,2.1683756,hotel
+Scobies Irish Pub,4.5,26.0,under 11,"Ronda de la Universidad, 8",08007 Barcelona,17,41.3863435,2.1661604,pub
+H1898 Rooftopbar,4.0,7.0,[12 - 33],"Les Rambles, 109",08002 Barcelona,14,41.38346729999999,2.1712016,pub
+L’Ovella Negra,4.0,78.0,under 11,"Carrer de les Sitges, 5",08001 Barcelona,50,41.3844287,2.1694758,pub
+Bobby’s Free,4.5,21.0,under 11,"Carrer de Pau Claris, 85",08010 Barcelona,42,41.3898349,2.1705451,pub
+Madame George,5.0,4.0,under 11,"Carrer de Pujades, 179",08005 Barcelona,35,41.40210820000001,2.2009777,pub
+Nevermind,4.5,15.0,under 11,"Carrer dels Tallers, 68",08001 Barcelona,26,41.3851398,2.1663995,pub
+The Michael Collins,4.0,40.0,[12 - 33],"Plaça de la Sagrada Família, 4",08013 Barcelona,47,41.401990000000005,2.17234,pub
+Bar Rubí,4.5,38.0,under 11,"Carrer Banys Vells, 6",08003 Barcelona,71,41.3845481,2.1804156000000003,pub
+Old Fashioned,5.0,108.0,[12 - 33],"Carrer de Santa Teresa, 1",08012 Barcelona,218,41.398107700000004,2.1597236,pub
+The Bollocks,4.0,18.0,under 11,"Carrer Ample, 46",08002 Barcelona,22,41.3810215,2.1804715,pub
+Biercab,4.5,124.0,under 11,"Carrer de Muntaner, 55",08011 Barcelona,215,41.386198799999995,2.1597926,pub
+Flaherty’s,4.0,41.0,under 11,"Plaça de Joaquim Xirau, s/n",08002 Barcelona,69,41.3784414,2.1763168999999998,pub
+Dow Jones,3.5,47.0,[12 - 33],"Carrer del Bruc, 97",08009 Barcelona,56,41.3954605,2.1675681,pub
+El Bosc de les Fades,4.0,121.0,[12 - 33],"Passatge de la Banca, 5",08002 Barcelona,100,41.3773416,2.1771159,pub
+Obama,3.5,40.0,[12 - 33],"Gran Via de les Corts Catalanes, 603",08007 Barcelona,66,41.388971500000004,2.1670423999999997,pub
+Tandem,5.0,28.0,[12 - 33],"Carrer d'Aribau, 86",08036 Barcelona,53,41.389659,2.1580133,pub
+Hemingway,5.0,18.0,[34 - 66],"Carrer de Muntaner, 114",08036 Barcelona,45,41.3894012,2.1561128,pub
+Samba Brasil,4.0,8.0,[12 - 33],"Carrer de Lepant, 297",08025 Barcelona,4,41.4056928,2.1747612000000003,pub
+The George Payne,3.5,61.0,[12 - 33],"Plaça d'Urquinaona, 5",08010 Barcelona,40,41.3895989,2.1728273999999996,pub
+Snooker,4.0,2.0,[12 - 33],"Carrer de Roger de Llúria, 42",08009 Barcelona,9,41.3921849,2.1703916000000003,pub
+Limerick,4.0,2.0,,"Carrer del Bruc, 55",08009 Barcelona,6,41.3930354,2.170929,pub
+Otto Zutz,3.5,50.0,[12 - 33],"Carrer de Lincoln, 15",08006 Barcelona,18,41.4002949,2.1498397000000002,pub
+My Bar,4.5,7.0,[12 - 33],"Carrer de Ferran, 8",08002 Barcelona,6,41.3807055,2.1747465,pub
+McCarthy’s,4.0,4.0,,"Via Laietana, 44",08002 Barcelona,,41.3862145,2.175957,pub
+Garage Beer Co,4.5,43.0,under 11,,,,,,pub
+Chill Bar,4.5,142.0,under 11,"Carrer Provença, 424",08025 Barcelona,213,41.402229299999995,2.1718695,pub
+JazzMan,4.5,13.0,[12 - 33],"Carrer de Roger de Flor, 238",08025 Barcelona,32,41.4015026,2.1692699,pub
+Polaroid,4.0,31.0,under 11,"Carrer dels Còdols, 29",08002 Barcelona,36,41.3793706,2.1787801,pub
+George & Dragon,3.5,2.0,[34 - 66],,,,,,pub
+La Cinemateca,4.0,6.0,[12 - 33],"Carrer de Pau Claris, 120",08009 Barcelona,5,41.3923875,2.1679348999999997,pub
+La Pepita,4.5,514.0,[12 - 33],"Carrer de Còrsega, 343",08037 Barcelona,1065,41.397985399999996,2.1610264,pub
+London Bar,4.0,14.0,under 11,"Carrer Nou de la Ramba, 34",08001 Barcelona,56,41.3782501,2.1730057,pub
+Marsella,4.0,51.0,under 11,"Carrer de Sant Pau, 65",08001 Barcelona,55,41.3783036,2.1712542999999997,pub
+The Black Horse,4.0,6.0,[12 - 33],"Carrer de l'Allada-Vermell, 16",08003 Barcelona,8,41.3864899,2.1809302,pub
+The Philharmonic,4.0,14.0,[12 - 33],"Carrer de Mallorca, 204",08036 Barcelona,6,41.3903205,2.1582052000000003,pub
+Elephanta,4.5,32.0,[12 - 33],"Carrer del Torrent d'en Vidalet, 37",08012 Barcelona,41,41.404681599999996,2.1585587999999998,pub
+La Birreria,4.5,3.0,under 11,"Carrer de la Riera de Sant Miquel, 70",08006 Barcelona,5,41.3987163,2.1547897000000003,pub
+First Bar,4.5,7.0,under 11,"Carrer d'en Rauric, 9",08002 Barcelona,21,41.381013700000004,2.1753292,pub
+Hogan’s Australian Pub,4.0,5.0,[12 - 33],"La Rambla, 81",08001 Barcelona,34,41.3815068,2.172747,pub
+The Black Lion,3.5,6.0,under 11,"Carrer d'Evarist Arnús, 70",08014 Barcelona,23,41.3837447,2.1368532000000005,pub
+The Lime House,4.0,13.0,[12 - 33],"Carrer dels Carders, 31",08003 Barcelona,11,41.38697979999999,2.1802789000000002,pub
+Bonavida,4.5,10.0,under 11,"Carrer de Casp, 22",08010 Barcelona,31,41.3892607,2.1709098,pub
+Dublin Sports,3.5,9.0,[12 - 33],"Plaça de Joan Llongueras, 5",08021 Barcelona,7,41.3925701,2.1412169,pub
+Musical María,4.5,8.0,[12 - 33],"Carrer de Maria, 5",08012 Barcelona,5,41.3991196,2.1570649,pub
+Dunne’s Irish Bar,3.5,36.0,[12 - 33],"Via Laietana, 19-21",08003 Barcelona,17,41.3836284,2.1788112999999996,pub
+Xixbar,4.5,26.0,[12 - 33],"Carrer de Rocafort, 19",08015 Barcelona,199,41.375862899999994,2.1575806,pub
+Gato Negro,4.5,5.0,under 11,"Carrer de Sant Lluís,47",08012 Barcelona,20,41.405544299999995,2.1602661,pub
+Lennox,4.0,4.0,,"Pla de Palau, 9",08003 Barcelona,9,41.38343,2.182974,pub
+Le Standard,4.5,3.0,,"Carrer del Topazi, 24",08012 Barcelona,,41.405041,2.1548844,pub
+Belushi’s,3.5,20.0,under 11,"Carrer de Bergara, 3",08001 Barcelona,26,41.3862122,2.1676278,pub
+Craft Barcelona,4.0,20.0,under 11,"Carrer del Paradis, 4",08002 Barcelona,45,41.383127200000004,2.1770162999999996,pub
+Stoke Bar,4.0,31.0,[12 - 33],"Carrer dels Banys Nous, 8",08002 Barcelona,36,41.382205299999995,2.1751533,pub
+Fizz Barcelona,4.5,3.0,,"Carrer de Balmes, 83",08008 Barcelona,,41.3909588,2.1601461,pub
+Bloomsday Irish Pub,5.0,3.0,,"Carrer La Rambla, 21",08002 Barcelona,4,41.3782693,2.1735967,pub
+Barna Brew,4.5,5.0,under 11,"Carrer del Parlament, 45",08015 Barcelona,14,41.3773201,2.1634919,pub
+Pippermint,3.0,11.0,[12 - 33],"Carrer de Borí i Fonestà, 20",08021 Barcelona,31,41.393204299999994,2.1388967,pub
+Obama Gastropub,3.5,13.0,,"Carrer Bruniquer, 30",08012 Barcelona,8,41.4046854,2.1608417999999996,pub
+Oviso,4.0,64.0,under 11,"Carrer d'Arai, 5",08002 Barcelona,70,41.3806737,2.177006,pub
+Touch Music Karaoke,4.5,8.0,[12 - 33],"Carrer de Joan Miró, 8",08005 Barcelona,38,41.389351899999994,2.1966186000000003,pub
+Sor Rita,4.5,22.0,under 11,"Carrer de La Mercé, 27",08002 Barcelona,51,41.3809662,2.1808584,pub
+La Barrica,3.0,1.0,under 11,"Carrer Concell de Cent, 313",08007 Barcelona,15,41.38931779999999,2.1631522999999997,pub
+Arcano,4.5,292.0,[34 - 66],"Carrer dels Mercaders, 10",08003 Barcelona,555,41.3849882,2.1787213,pub
+Bar Zodiaco,4.0,19.0,under 11,"Carrer de Margarit, 17",08004 Barcelona,25,41.3738717,2.1637896,pub
+Big Bang Bar,4.0,10.0,under 11,"Carrer Botella, 7",08001 Barcelona,43,41.3791394,2.1661116000000002,pub
+Maestró,4.0,33.0,[12 - 33],"Rambla de Catalunya, 79",08007 Barcelona,119,41.391875399999996,2.1618703,pub
+Belchica,3.5,8.0,[12 - 33],"Carrer de Villarroel, 60",08011 Barcelona,23,41.383618799999994,2.1592604,pub
+Xpressing Underground Club,4.0,1.0,[12 - 33],"Carrer de Balmes, 69",08007 Barcelona,9,41.3901884,2.1610836,pub
+Lunatic,4.5,5.0,[12 - 33],"Carrer Regent Mendieta, 38",08028 Barcelona,9,41.3773903,2.1235993,pub
+Temple Bar,3.5,21.0,under 11,"Carrer de Ferran, 6",08002 Barcelona,29,41.380461100000005,2.1745261,pub
+Ina,4.5,6.0,under 11,"Carrer dels Carders, 44",08003 Barcelona,10,41.3872992,2.1805519,pub
+Espai d’Art Tinta Roja,3.5,9.0,[12 - 33],"Carrer de la Creu dels  Molers, 17",,11,,,pub
+Flann O’Brien,3.5,3.0,under 11,"Carrer de Casanova, 264",08021 Barcelona,,41.3941973,2.1474992000000004,pub
+Mojito Rock,4.0,11.0,under 11,"Carrer Valldonzella, 30",08001 Barcelona,5,41.383731899999994,2.1652883999999997,pub
+Never More,5.0,1.0,,"Carrer de la Cera, 17",08001 Barcelona,7,41.3790167,2.1663843999999997,pub
+Mingus,4.0,15.0,[12 - 33],"Carrer de la Comtessa de Sobradel, 9",08002 Barcelona,15,41.381336100000006,2.1782909,pub
+Black Lab,4.0,83.0,[12 - 33],"Plaça Pau Vila, 1",08039 Barcelona,172,41.380834899999996,2.1856482999999995,pub
+Pepe Bar,5.0,1.0,,"Calle Pelai, 40",08001 Barcelona,,41.3855094,2.167551,pub
+La Concha Barcelona,4.5,8.0,under 11,"Carrer de Guàrdia, 14",08001 Barcelona,10,41.3774997,2.1740696,pub
+Stereo,4.5,2.0,under 11,"Calle Nou de la Rambla, 119",08004 Barcelona,11,41.3738672,2.1690888999999998,pub
+Vicente Emilio Barcelona Villen,5.0,1.0,,Calle de la Marina 261,08025 Barcelona,,41.40475,2.1739535,pub
+Ryans Beach,4.0,1.0,,"Carrer del Judici, 15",08003 Barcelona,,41.376751899999995,2.190342,pub
+Bar Ardevol,4.0,8.0,[12 - 33],,,,,,pub
+Two Schmucks,5.0,17.0,[12 - 33],"Carrer de Joaquin Costa, 52",08001 Barcelona,29,41.3831899,2.1652514,pub
+Bernie’s,4.0,40.0,[12 - 33],"Via Laietana, 20",08003 Barcelona,121,41.384036200000004,2.1791261000000004,pub
+Bonobo,4.0,4.0,,"Carrer de Santa Rosa, 14",08012 Barcelona,5,41.4030864,2.1532548,pub
+Veronica Griselda Villafan Zea,5.0,1.0,,Calle Comtes de Bell Lloc 172,08014 Barcelona,,41.3828107,2.1359043,pub
+cactus bar,4.0,1.0,[34 - 66],jaume1,08002 Barcelona,,41.3833362,2.1779731,pub
+absentha,4.0,3.0,,carrer de sant carles,Barcelona,7,41.3793049,2.1900166000000003,pub
+Bodega,5.0,5.0,under 11,"Carrer dels Mirallers, 15",08003 Barcelona,11,41.3838512,2.181632,pub
+El Vaso de Oro,4.5,178.0,[12 - 33],"Carrer de Balboa, 6",08003 Barcelona,359,41.381854100000005,2.1873102,pub
+La Catedra,4.5,3.0,[12 - 33],Gran Via de les Corts Catalanes 578,,9,,,pub
+Cheers,3.0,16.0,under 11,"Carrer Santa Mónica, 2",08001 Barcelona,4,41.3775376,2.1753737999999996,pub
+Belice Cocktail Bar,5.0,2.0,[12 - 33],"Carrer de Santaló, 36",08021 Barcelona,8,41.3956564,2.1459474999999997,pub
+Bodega Saltó,4.0,15.0,under 11,"Carrer de Blesa, 36",08004 Barcelona,11,41.37278010000001,2.1671862999999996,pub
+La Cervesera Artesana,4.0,37.0,[12 - 33],"Carrer de Sant Agustí, 14",08012 Barcelona,34,41.398154299999995,2.1608245,pub
+Ale&Hop,4.5,43.0,under 11,"Carrer de les Basses de Sant Pere, 10",08003 Barcelona,106,41.3885955,2.1801379,pub
+Hendrix,4.5,2.0,under 11,"Travessera de Gràcia, 86",08006 Barcelona,9,41.3977625,2.1523596,pub
+Sonora,3.0,20.0,under 11,"Carrer de Pamplona, 96",08018 Barcelona,21,41.3979343,2.1901080000000004,pub
+Ya lo sabes,4.0,1.0,,Diputació  340,08011 Barcelona,,41.3961842,2.1750943,pub
+The Cottage,5.0,1.0,,,,,,,pub
+Kentucky,4.0,13.0,[12 - 33],"Carrer de l'Arc del Teatre, 11",08001 Barcelona,15,41.377696500000006,2.1747397,pub
+Hell Awaits,4.0,2.0,,"Carrer de les Tàpies, 21",08001 Barcelona,8,41.3756323,2.1702974999999998,pub
+Pepe’s Bar,3.5,4.0,under 11,"Carrer de Pamplona, 91",08018 Barcelona,,41.3967448,2.1909528999999996,pub
+New York Café,4.0,1.0,under 11,"Carrer de Diputacio, 88",08015 Barcelona,,41.3806826,2.1543452000000003,pub
+Enigma,4.0,1.0,,"Carrer del Taquígraf Garriga, 106",08029 Barcelona,,41.388436999999996,2.1364981,pub
+El Pony,4.0,7.0,,"Carrer del Portal Nou, 23",08003 Barcelona,,41.388755100000004,2.1806134999999998,pub
+Dirty Dick’s,2.5,2.0,,,,,,,pub
+Irish Sailing Pub,3.5,2.0,[12 - 33],Moll de Mestral 26,08005 Barcelona,,41.38687720000001,2.1981182,pub
+Bloody Mary,4.5,9.0,[12 - 33],"Carrer de Ferrer de Blanes, 3",08012 Barcelona,54,41.3983223,2.1591262,pub
+Paspartú,5.0,10.0,[12 - 33],"Carrer de les Basses de Sant Pere, 12-14",08003 Barcelona,8,41.388673600000004,2.1799797,pub
+Kahiki,2.5,7.0,[34 - 66],"Gran Via de les Corts Catalanes, 581",08011 Barcelona,7,41.3855248,2.1623904,pub
+Zim,4.5,10.0,[12 - 33],"Carrer de la Dagueria, 20",08002 Barcelona,5,41.38305689999999,2.1783083999999997,pub
+Cervecería Jazz,4.5,10.0,[34 - 66],"Carrer de Margarit, 43",08004 Barcelona,13,41.3722673,2.1632328999999997,pub
+Bubblic,4.0,5.0,[12 - 33],"Carrer de Marià Cubí, 183",08021 Barcelona,8,41.395345,2.1448593,pub
+Elephant,4.0,8.0,[34 - 66],"Carrer de Pau Claris, 92",08010 Barcelona,,41.390243100000006,2.1706795,pub
+Rocksound,4.5,2.0,[12 - 33],"Carrer de Almogàvers, 116",08018 Barcelona,,41.397068,2.1904152000000003,pub
+Koitton Club,4.5,2.0,[12 - 33],"Carrer de Rossend Arús, 9",08014 Barcelona,4,41.3737059,2.1374671000000003,pub
+Bobby Gin,4.5,54.0,[12 - 33],"Carrer de Francisco Giner, 47",08012 Barcelona,77,41.3996972,2.1582915000000003,pub
+Filomena,4.5,7.0,[12 - 33],"Carrer d'Aldana, 8",08015 Barcelona,36,41.37561420000001,2.1663035,pub
+Woody Bar,4.0,5.0,,"Plaça del Sol, 7-8",08012 Barcelona,,41.4017726,2.1570201,pub
+The End,4.0,1.0,,"Carrer de Santaló, 34",08021 Barcelona,,41.39559620000001,2.1460055000000002,pub
+La Principal,3.5,16.0,under 11,"Carrer de Sepúlveda, 186",08011 Barcelona,41,41.383578,2.1631779,pub
+Tequila 44,4.0,12.0,[12 - 33],"Carrer dels Escudellers, 28",08002 Barcelona,23,41.379928799999995,2.1767621,pub
+Insòlita Gea,4.5,18.0,,"Carrer Sant Antoni Maria Claret, 220",08025 Barcelona,62,41.4111936,2.1746214,pub
+Blondie,5.0,1.0,[12 - 33],"Carrer d'en Roca, 14",08002 Barcelona,,41.3823851,2.1729732000000004,pub
+Set Barcelona,5.0,1.0,,"Calle Enamorats, 90",08026 Barcelona,8,41.406341499999996,2.1833251000000002,pub
+Coctelería Cooler,4.0,12.0,[12 - 33],"Carrer de Mallorca, 196",08036 Barcelona,40,41.390014,2.1578597999999998,pub
+El Rouge,4.0,4.0,[34 - 66],"Carrer del Poeta Cabanyes, 21",08004 Barcelona,9,41.3740988,2.1657277,pub
+Inch Bar,4.5,11.0,under 11,"Carrer de I'Escorial, 117",08024 Barcelona,11,41.4083746,2.1601789,pub
+Bar International Beer,2.5,16.0,under 11,"Carrer del Cardenal Casanas, 4",08002 Barcelona,30,41.3815434,2.1735203,pub
+Bongo’s,5.0,1.0,,"Moll del Gregal, 1-3",08005 Barcelona,,41.389156899999996,2.2005147000000003,pub
+Marula Café,4.0,18.0,[12 - 33],"Carrer dels Escudellers, 49",08002 Barcelona,17,41.3801125,2.1767965,pub
+Pub Fiction,4.5,3.0,[12 - 33],"Carrer de Casanova, 96",08011 Barcelona,,41.3870852,2.1568939,pub
+Le Cyrano,4.0,9.0,under 11,"Carrer d'Aribau, 154",08036 Barcelona,4,41.392207299999995,2.154464,pub
+Rare,4.0,1.0,,"Carrer de Casp, 55",08010 Barcelona,12,41.3929766,2.1750943,pub
+La Beata,4.5,3.0,,"Carrer de Jesús, 16",08012 Barcelona,4,41.3991638,2.1580517,pub
+Barcelona Pipa Club,5.0,2.0,,"Carrer Santa Eulàlia , 21",08012 Barcelona,,41.4012834,2.1639237000000002,pub
+Velcro Bar,4.0,6.0,[34 - 66],"Carrer de Vallfogona, 10",08012 Barcelona,,41.402778000000005,2.1572074,pub
+Bar Fidel,4.5,17.0,under 11,"Carrer de Ferlandina, 24",08001 Barcelona,18,41.3819549,2.1653742,pub
+DiSapore Bar,4.5,2.0,,"Carrer del Pintor Fortuny, 15",08001 Barcelona,15,41.3829589,2.1699834,pub
+Ballbreaker,4.0,5.0,,"Carrer Matilde, 7",08012 Barcelona,8,41.4004473,2.1568716,pub
+Kimera,4.0,3.0,,"Carrer de Mozart, 16",08012 Barcelona,,41.3993537,2.1583587000000004,pub
+La Gorda,4.0,1.0,[12 - 33],"Carrer de Riego, 29",08014 Barcelona,5,41.376721999999994,2.1382922000000004,pub
+La República,4.0,16.0,[12 - 33],"Carrer de la Mercè, 13",08002 Barcelona,64,41.3801215,2.1802772,pub
+Marmalade,4.0,68.0,[12 - 33],"Carrer de la Riera Alta, 4-6",08001 Barcelona,125,41.3807434,2.1671671000000003,pub
+A Viva Voz,3.0,3.0,,Carrer d'Aribau 103,08036 Barcelona,18,41.3902745,2.1564782000000005,pub
+Colombo,4.0,7.0,[12 - 33],"Calle L'escar, 4",08039 Barcelona,11,41.3756604,2.188616,pub
+Versailles,4.5,4.0,under 11,"Pasaje Valeri Serra, 3",08011 Barcelona,17,41.384666100000004,2.1607825000000003,pub
+Garage 442,,,under 11,"Avinguda Diagonal, 442",08037 Barcelona,,41.3971083,2.1607054,pub
+Living Barcelona 1925,4.0,20.0,,"Ramblas, 122",08002 Barcelona,43,41.383823,2.1714665,pub
+Ginger,4.0,9.0,[12 - 33],"Carrer de la Palma de Sant Just, 1",08002 Barcelona,21,41.3827818,2.1783961,pub
+Milk Bar & Bistro,4.5,431.0,[12 - 33],"Carrer d'en Gignàs, 21",08002 Barcelona,649,41.380247,2.1792235,pub
+Exterior,5.0,1.0,,Playa de Ocata ---,Barcelona,,41.4786087,2.3203009,pub
+Butyklan,3.5,7.0,[12 - 33],"Carrer d'Aragó, 343",08009 Barcelona,6,41.39712279999999,2.1709482,pub
+Bar Do,,,,Rogen 45,08026 Barcelona,,41.4118532,2.1830997,pub
+The Fastnet,3.5,8.0,under 11,"Passeig de Joan de Borbó, 22",08003 Barcelona,6,41.3795951,2.18781,pub
+Bar Prasoa,3.5,4.0,under 11,Calle Sardenya 317,08025 Barcelona,,41.4037423,2.1725222,pub
+El Jardinet d’Aribau,2.0,4.0,[12 - 33],"Carrer d'Aribau, 133",08036 Barcelona,58,41.3918684,2.1545514999999997,pub
+Alpaca´s,,,[12 - 33],"Carrer dels Sombrerers, 7",08003 Barcelona,,41.383878700000004,2.1820567000000004,pub
+Síncopa,3.5,9.0,[12 - 33],"Carrer d'Avinyó, 35",08002 Barcelona,12,41.3803469,2.1790755,pub
+Alfa Bar,4.0,6.0,[12 - 33],"Carrer Gran de Gràcia, 36",08012 Barcelona,11,41.3988625,2.15691,pub
+Ende,4.0,2.0,[12 - 33],Carrer de Casanova 210,08036 Barcelona,,41.391915399999995,2.1503352000000002,pub
+Kioto,5.0,1.0,,"Calle Guinardo, 200",08041 Barcelona,,41.4161788,2.1813015,pub
+Botanic,3.5,2.0,,"Carrer de Muntaner, 64",08011 Barcelona,76,41.387054,2.1592414,pub
+El Zoo,3.0,1.0,,"Carrer del Torrent de l'Olla, 145",08012 Barcelona,,41.4036721,2.1554037,pub
+Sensi,4.5,377.0,[12 - 33],"Carrer Ample, 26",08002 Barcelona,681,41.3803248,2.1800471000000003,pub
+Rabipelao,3.5,9.0,under 11,"Carrer de la Mercè, 26",08002 Barcelona,17,41.3801932,2.1805383,pub
+La Bodeguita Bright,4.5,4.0,under 11,"Carrer del Comte Borrell, 18",08015 Barcelona,48,41.376356099999995,2.1641459,pub
+Victor Gomez Hidalgo,5.0,1.0,,Calle Sicilia 125,08013 Barcelona,,41.3968544,2.179574,pub
+Bar Mut,4.5,149.0,[34 - 66],"Carrer de Pau Claris, 192",08037 Barcelona,294,41.3973097,2.1612477,pub
+Bodegon del Norte - Marzan,3.0,3.0,[12 - 33],Calle Valencia 207,08007 Barcelona,,41.3903792,2.1597623,pub
+Soho,,,,"Calle Aribau, 195",08021 Barcelona,,41.3952263,2.1497071,pub
+Caribbean Club,5.0,11.0,[34 - 66],"Carrer de les Sitges, 5",08001 Barcelona,18,41.3844287,2.1694758,pub
+Grill Room Bar Thonet,5.0,8.0,,"Carrer dels Escudellers, 8",08002 Barcelona,21,41.3792525,2.1760605,pub
+Gracia Latina,3.5,4.0,[12 - 33],"Carrer De L'Or,19",08012 Barcelona,13,41.4045451,2.1568236,pub
+33/45,4.0,17.0,under 11,"Carrer de Joaquín Costa, 4",08001 Barcelona,11,41.3810676,2.1675065,pub
+Mil Estones,4.0,1.0,,"Carrer de Saragossa, 89",08006 Barcelona,,41.4034688,2.1469442,pub
+Pesca Salada,4.5,12.0,[12 - 33],"Carrer de la Cera, 32",08001 Barcelona,10,41.3784082,2.1654591,pub
+Bar Dúrcal,5.0,1.0,,"Carrer de Càceres, 34",08028 Barcelona,,41.3747532,2.1312811000000003,pub
+Nello’s,2.0,5.0,[12 - 33],"Rosselló, 255",08008 Barcelona,14,41.395523,2.1592606,pub
+Armony Cocktails Gintonics,,,[12 - 33],"Calle Indústria, 135",08025 Barcelona,5,41.4085785,2.1729341,pub
+"3011 Hosteleria y Restauracion, S.C.P.",3.0,1.0,,Calle Valencia 194,08011 Barcelona,,41.388332500000004,2.1578214,pub
+Kaizen Afterwork,5.0,1.0,[12 - 33],"Carrer de Castella, 1",08018 Barcelona,28,41.404493,2.1988202,pub
+Smoking Dog,3.0,1.0,,"Carrer de París, 191",08036 Barcelona,,41.393646999999994,2.1530682,pub
+La Guayra,3.0,2.0,,"Carrer de Provença, 243",08008 Barcelona,10,41.3940047,2.1603237,pub
+Manchester,3.5,9.0,under 11,"Carrer de Milans, 5",08002 Barcelona,6,41.3806965,2.1790104,pub
+Bar Malasang,4.5,10.0,[12 - 33],"Carrer de Comte Borrell, 148",08015 Barcelona,24,41.38286179999999,2.1555388,pub
+Mandri,4.0,12.0,[12 - 33],"Carrer de Mandri, 60",08022 Barcelona,10,41.40502120000001,2.1322505,pub
+No Sweat Bar,3.5,2.0,[12 - 33],"Carrer de Vic, 19",08006 Barcelona,,41.3989901,2.1547897000000003,pub
+Tropical,5.0,1.0,,Calle Paloma 19,08001 Barcelona,,41.3819032,2.1642596000000003,pub
+El Garaje Hermético,3.0,1.0,,"Avinguda Diagonal, 442",08037 Barcelona,,41.3971083,2.1607054,pub
+Mar de Copas,,,,"Carrer de Marià Cubí, 55",08006 Barcelona,6,41.398147200000004,2.1496478999999997,pub
+Bodega del Onze,4.0,3.0,,"Carrer de Blai, 8",08004 Barcelona,5,41.373193799999996,2.1659964,pub
+Els Tres Porquets,4.0,9.0,[34 - 66],"Rambla Poblenou, 165",08005 Barcelona,114,41.407180100000005,2.1930118,pub
+Quilombo,4.0,8.0,[12 - 33],"Carrer d'Aribau, 149",08036 Barcelona,5,41.3925507,2.1536432999999997,pub
+Pastís,3.5,6.0,[12 - 33],"Carrer de Santa Mónica, 4",08001 Barcelona,4,41.3773792,2.1750827,pub
+Bar Pastis,5.0,1.0,,"Rambla de Santa Mónica, 4",08002 Barcelona,,41.3771955,2.1765042,pub
+Coppelia Club,,,,"Carrer Rera Palau, 4",08003 Barcelona,9,41.3836305,2.1836644,pub
+Opera Samfaina,4.0,11.0,[12 - 33],"La Rambla, 51-59",08001 Barcelona,65,41.3802333,2.1736993,pub
+Black Velvet,4.0,1.0,[12 - 33],"Nou de la Rambla, 130",08004 Barcelona,10,41.373696200000005,2.1684147,pub
+Night and Day,,,,"Carrer dels Almogàvers, 62",08018 Barcelona,45,41.3939211,2.1862044999999997,pub
+Thales,3.5,8.0,under 11,"Carrer dels Templers, 16",08002 Barcelona,14,41.381764600000004,2.1783025,pub
+Homo Sibaris,4.0,27.0,under 11,"Plaça Osca, 4",08014 Barcelona,49,41.3762829,2.1388287999999998,pub
+El Circulo,5.0,1.0,[12 - 33],"Carrer Banys Vells, 11",08003 Barcelona,11,41.384405799999996,2.1808908,pub
+Um Que Rico,5.0,1.0,,Carrer Sant Joan de Malta 150,08018 Barcelona,,41.4043584,2.1983857,pub
+Gente de Pasta,5.0,1.0,,Calle Enric Granados 67,08008 Barcelona,,41.3910361,2.1575911,pub
+Gris,3.0,1.0,,"Passeig de Sant Antoni, 23",08014 Barcelona,,41.3772364,2.1371151000000004,pub
+Bar Manolo,4.0,4.0,,"Carrer de Lancaster, 3",08001 Barcelona,4,41.3785796,2.1741099,pub
+Foxy Bar,4.0,11.0,[12 - 33],"Carrer de la Riera Alta, 59",08001 Barcelona,9,41.3803272,2.1644064,pub
+BeeriVins,5.0,2.0,[12 - 33],"Carrer de Còrsega, 589-591",08025 Barcelona,4,41.4076526,2.1739318,pub
+Central 134,,,under 11,,,,,,pub
+Bar la Maquinista,4.0,1.0,,Calle Maquinista 13,08003 Barcelona,,41.3807601,2.1885779999999997,pub
+Aloha,4.0,8.0,,"Carrer de Provença, 159",08036 Barcelona,18,41.389821000000005,2.1545787,pub
+Pasapalo,5.0,15.0,[12 - 33],"Carrer del Poeta Cabanyes, 6",08004 Barcelona,52,41.374512,2.1657734,pub
+Mora,3.0,1.0,,"Carrer Rossello, 495",08025 Barcelona,,41.4078766,2.17633,pub
+Wild Rover Barcelona,2.0,3.0,[12 - 33],"Carrer de Santa Mònica, 2",08001 Barcelona,24,41.3775376,2.1753737999999996,pub
+Red Rocket,4.0,3.0,,"Carrer dels Còdols, 21",08002 Barcelona,,41.3795742,2.1783577000000003,pub
+Cheers,3.0,1.0,,"Carrer Santa Mónica, 2",08001 Barcelona,4,41.3775376,2.1753737999999996,pub
+Mexcla,4.0,29.0,under 11,"Carrer Ramón y Cajal, 35",08012 Barcelona,93,41.4029029,2.158896,pub
+La Abadiba,,,,"Carrer del Rosselló, 174",08036 Barcelona,,41.39205820000001,2.1560683,pub
+No Sé,4.0,8.0,[12 - 33],"Passeig del Born, 21",08003 Barcelona,10,41.3849739,2.1827941,pub
+Vic-Lor Scp,5.0,1.0,,Calle Poblenou 149,08018 Barcelona,,41.406425,2.194025,pub
+Bloomsday Literary Pub,2.5,2.0,,Rambla de Santa Mònica 23,08002 Barcelona,,41.3759516,2.1774821,pub
+Tripode,3.5,4.0,,Calle Born 17,08003 Barcelona,,41.3842701,2.1855572999999997,pub
+La Pubilla del Taulat,4.5,11.0,[12 - 33],"Carrer de Marià Aguiló, 131",08005 Barcelona,22,41.3998339,2.2055197,pub
+Piacere Caffe,3.5,6.0,under 11,"Plaça de la Sagrada Família, 6",08013 Barcelona,4,41.40217,2.17212,pub
+D9,4.0,12.0,under 11,"Carrer de Pallars, 122",08018 Barcelona,1497,41.3967333,2.1920213,pub
+Vanguard,4.0,6.0,[12 - 33],"Carrer de Llull, 155",08005 Barcelona,,41.399584399999995,2.200057,pub
+El Ciclista,4.0,10.0,[12 - 33],"Carrer Mozart , 18",08012 Barcelona,7,41.3994333,2.1582819,pub
+That’s the Way,,,,"Calle Entença, 85",08015 Barcelona,12,41.379428000000004,2.1507336,pub
+Pipa,4.0,1.0,,Calle Llull 159,08005 Barcelona,,41.3998553,2.2002107000000004,pub
+Sifó,4.0,14.0,under 11,"Carrer d'Espalter, 4",08001 Barcelona,5,41.378523200000004,2.1706223999999996,pub
+Kè?,3.5,11.0,under 11,"Carrer del Baluart, 54",08003 Barcelona,9,41.3793338,2.1891943,pub

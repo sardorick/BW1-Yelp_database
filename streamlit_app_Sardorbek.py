@@ -1,6 +1,5 @@
 from calendar import day_abbr
 from matplotlib.pyplot import xlabel
-from sklearn.tree import plot_tree
 import streamlit as st
 from streamlit_option_menu import option_menu
 from PIL import Image
@@ -254,5 +253,40 @@ elif menu == 'Hotels':
 
 # Recommendation part
 
-elif menu == 'Recommendation':
-    st.table(master_df.groupby('Business_type')['price_range'].value_counts())
+else:
+    sidebar_select = st.sidebar.radio('Graphs', ['Review per business', 'Rating per business', 'Price range per business'])
+
+    master_df = pd.read_csv('theo/master_df.csv')
+    grp_master_df = master_df.groupby('Business_type')["reviews", 'rating'].agg(["median"]).applymap(lambda x: np.round(x, 2))
+    grp2_master_df = master_df.groupby('Business_type')['price_range'].value_counts()
+
+    if sidebar_select == 'Review per business':
+        
+        # 1. How does the number of reviews compare on average between Restaurant, Hotel and Pub (median)
+        fig = px.bar(grp_master_df['reviews'], x = grp_master_df['reviews'].index, y = grp_master_df['reviews']['median'], template='ggplot2',
+        labels={'Business_type':'Business type', 'y':'Average (median) number of reviews'},height=600, width=800,
+        title = 'Average number of reviews per business type')
+
+        st.plotly_chart(fig)
+
+
+    elif sidebar_select == 'Rating per business':
+        # 2. What about the mean rating
+        fig = px.bar(grp_master_df['rating'], x = grp_master_df['rating'].index, y = grp_master_df['rating']['median'], template='ggplot2',
+        labels={'Business_type':'Business type', 'y':'Average (median) number of rating'},height=600, width=800,
+        title = 'Average rating per business type')
+
+        st.plotly_chart(fig)
+
+
+    else:
+        business = [el[0] for el in grp2_master_df.index]
+        price_range = [el[1] for el in grp2_master_df.index]
+
+        fig = px.bar(x = business, y = grp2_master_df.values, color = price_range,template='ggplot2',
+        labels={'x':'Business type', 'y':'Counts'},barmode='group',  
+        category_orders={"color":['under 11', '[12 - 33]', '[34 - 66]', '[over 67]']},
+        title = 'Price ranges within each Business' 
+        )
+        fig.update_layout(legend_title_text='Price range')
+        st.plotly_chart(fig)
