@@ -1,3 +1,4 @@
+from calendar import day_abbr
 from matplotlib.pyplot import xlabel
 import streamlit as st
 from streamlit_option_menu import option_menu
@@ -13,7 +14,7 @@ import plotly.express as px
 
 resto_df = pd.read_csv("Resto_df_cleaned.csv")
 pub_df = pd.read_csv("pub_df_cleaned3.csv")
-hotel_df = pd.read_csv("hotel_df_cleaned2.csv")
+hotel_df = pd.read_csv("hotel_df_cleaned.csv")
 
 
 
@@ -55,7 +56,11 @@ if menu == 'Home':
 # Restaurant
 elif menu == 'Restaurant':
     resto = pd.read_csv('theo/resto_dataset.csv')
-    sidebar_select = st.sidebar.radio('Graphs', ['Distribution reviews and rating', 'Neighborhood', 'Price range', 'Category', 'Location'])
+
+
+    sidebar_select = st.sidebar.radio('GRAPH', ['Distribution reviews rating', 'Neighborhood', 'Price range', 'Category','Photo_review_rating', 'Location'])
+
+
 
     if sidebar_select == 'Neighborhood':
         fig=px.bar(x = resto_df['Neighbourhood'].value_counts(ascending=True).values, y = resto_df['Neighbourhood'].value_counts(ascending=True).index, orientation='h', template='ggplot2', height=600, width=800, labels={
@@ -80,7 +85,8 @@ elif menu == 'Restaurant':
         },
         title='Most popular categories of restaurants')
         st.write(fig)
-    elif sidebar_select == 'Distribution reviews and rating':
+
+    elif sidebar_select == 'Distribution reviews rating':
         fig = px.box(data_frame=resto_df, x = 'Rating', y = 'Review count', template='ggplot2', height=600, width=800, title='Distribution of the number of reviews and rating')
 
         st.plotly_chart(fig)
@@ -90,39 +96,46 @@ elif menu == 'Restaurant':
         resto = resto[resto.reviews.notnull()]
         px.set_mapbox_access_token(open("theo/.mapbox_token").read())
         fig = px.scatter_mapbox(resto, lat="Latitude", lon="Longitude",zoom=12, size = 'reviews', color='rating', 
-        width=900, height=600, opacity=0.5, template="plotly_dark",
+        width=900, height=600, opacity=0.8, template="plotly_dark",
         hover_name='name',
         hover_data={'Latitude':False, 'Longitude': False, 'price_range': True},
-        title= 'Location of restaurants with respect to rating and number of reviews')
+        title= 'Location of restaurants with respect to rating and number of reviews', 
+        )
         st.plotly_chart(fig)
 
 
-
+    elif sidebar_select == 'Photo_review_rating':
+        fig = px.scatter(data_frame=resto_df, x = 'nb_photos', y = 'Review count', color='Rating', height=600, width=800, 
+        labels={'Review count': 'Number of reviews', 'nb_photos': 'Number of photos'}, 
+        title= 'Relationship between the number of reviews and photos')
+        st.plotly_chart(fig)
 
 
 # Pubs
  
 elif menu == 'Pubs':
     pub = pd.read_csv('theo/pub_dataset.csv')
-    sidebar_select = st.sidebar.radio('Graphs', ['Distribution reviews and rating', 'Neighborhood', 'Price range', 'Category',  'Location'])
-    if sidebar_select == 'Distribution reviews and rating':
-        fig = px.box(data_frame=pub_df, x = 'rating', y = 'reviews', template='ggplot2', height=600, width=800, title='Distribution of the number of reviews and rating')
-        st.plotly_chart(fig)
 
-    elif sidebar_select == 'Neighborhood':
+
+    sidebar_select = st.sidebar.radio('Graphs', ['Neighborhood', 'Price range', 'Category', 'Distribution reviews rating', 'Location'])
+
+
+    if sidebar_select == 'Neighborhood':
         fig=px.bar(x = pub_df['neighbourhood'].value_counts(ascending=True).values, y = pub_df['neighbourhood'].value_counts(ascending=True).index, orientation='h', template='ggplot2', height=600, width=800, labels={
             "x": "Number of pubs per neighbourhood",
             "y": "Neighbourhoods"
         }, 
         title='In which neighbourhood most pubs are located?')
         st.write(fig)
+
     elif sidebar_select == 'Price range':
         fig = px.bar(x = pub_df['price_range'].value_counts(ascending=True).values, y = pub_df['price_range'].value_counts(ascending=True).index, orientation='h', template='ggplot2', height=600, width=800, labels={
             "x": "Number of pubs with respective price range",
             "y": "Price range (in euros)"
         },
         title='Price range of pubs in Barcelona')
-        st.write(fig)  
+        st.write(fig)
+    
     elif sidebar_select == 'Category':
         fig = px.bar(x = pub_df['category'].value_counts(ascending=True).nlargest(20).values, y = pub_df['category'].value_counts(ascending=True).nlargest(20).index, orientation='h', template='ggplot2', height=600, width=800, labels={
             "x": "Number of pubs per category",
@@ -130,14 +143,17 @@ elif menu == 'Pubs':
         },
         title='Most popular categories of pubs')
         st.write(fig)
+    elif sidebar_select == 'Distribution reviews rating':
+        fig = px.box(data_frame=pub_df, x = 'rating', y = 'reviews', template='ggplot2', height=600, width=800, title='Distribution of the number of reviews and rating')
 
+        st.plotly_chart(fig)
 
 
     elif sidebar_select == 'Location':
         pub = pub[pub.reviews.notnull()]
         px.set_mapbox_access_token(open("theo/.mapbox_token").read())
-        fig = px.scatter_mapbox(pub, lat="Latitude", lon="Longitude",zoom=12, size = 'reviews', color='rating', 
-        width=900, height=600, opacity=0.5, template="plotly_dark",
+        fig = px.scatter_mapbox(pub, lat="Latitude", lon="Longitude",zoom=12, size = 'reviews', color='rating', size_max= 20, 
+        width=900, height=600, opacity=0.8, template="plotly_dark",
         hover_name='name',
         hover_data={'Latitude':False, 'Longitude': False, 'price_range': True},
         title= 'Location of pubs with respect to rating and number of reviews')
@@ -151,7 +167,9 @@ elif menu == 'Pubs':
 elif menu == 'Hotels':
     hotel = pd.read_csv('theo/hotel_dataset.csv')
 
-    sidebar_select = st.sidebar.radio('Graphs', ['Distribution reviews and rating', 'Neighborhood', 'Price range','Median reviews relative to price', 'Location'])      
+    sidebar_select = st.sidebar.radio('Graphs', ['Distribution reviews rating', 'Neighborhood', 'Price range','Median reviews relative to price', 'Location'])
+    
+    
     if sidebar_select == 'Neighborhood':
         fig=px.bar(y = hotel_df['neighbourhood'].value_counts(ascending=True).index, 
         x = hotel_df['neighbourhood'].value_counts(ascending=True).values, template='ggplot2', height=600, width=800, labels={
@@ -175,14 +193,14 @@ elif menu == 'Hotels':
         hotel = hotel[hotel.reviews.notnull()]
         px.set_mapbox_access_token(open("theo/.mapbox_token").read())
         fig = px.scatter_mapbox(hotel, lat="Latitude", lon="Longitude",zoom=12, size = 'reviews', color='rating', 
-        width=900, height=600, opacity=0.5, template="plotly_dark",
+        width=900, height=600, opacity=0.8, template="plotly_dark",
         hover_name='name',
         hover_data={'Latitude':False, 'Longitude': False, 'price_range': True},
         title= 'Location of hotels with respect to rating and number of reviews')
         st.plotly_chart(fig)
 
 
-    elif sidebar_select == 'Distribution reviews and rating':
+    elif sidebar_select == 'Distribution reviews rating':
         fig = px.box(data_frame=hotel, x = 'rating', y = 'reviews', template='ggplot2', height=600, width=800, title='Distribution of the number of reviews and rating')
 
         st.plotly_chart(fig)
@@ -196,6 +214,7 @@ elif menu == 'Hotels':
                 "y": "Price range (in euros)"
         },
         title='Average rating with respect to price range per person')
+
         
 
         st.plotly_chart(fig)
