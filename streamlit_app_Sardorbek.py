@@ -14,12 +14,16 @@ import plotly.express as px
 resto_df = pd.read_csv("Resto_df_cleaned.csv")
 pub_df = pd.read_csv("pub_df_cleaned3.csv")
 hotel_df = pd.read_csv("hotel_df_cleaned.csv")
-# menu
+
+
+
+# Menu
 with st.sidebar:
     menu = option_menu(None, ['Home','Hotels', 'Restaurant', 'Pubs', 'Recommendation'], 
     icons =['house', 'building','shop', 'cup-straw', 'graph-up-arrow', 'info-circle '] )
 
 
+# Home page
 if menu == 'Home':
     st.title('Market Analysis for Barcelona hospitality industry using Yelp database')
 
@@ -45,10 +49,18 @@ if menu == 'Home':
     st.markdown("We will present the data and will make a recommendation of the business type that we believe will succeed in Barcelona and support it with our findings. ")
     st.markdown("Team members: _Theophile Ishimwe, Sardorbek Zokirov_")
 
+
+
+
+# Restaurant
 elif menu == 'Restaurant':
     resto = pd.read_csv('theo/resto_dataset.csv')
 
+
     sidebar_select = st.sidebar.radio('GRAPH', ['Distribution reviews rating', 'Neighborhood', 'Price range', 'Category', 'Location'])
+
+
+
     if sidebar_select == 'Neighborhood':
         fig=px.bar(x = resto_df['Neighbourhood'].value_counts(ascending=True).values, y = resto_df['Neighbourhood'].value_counts(ascending=True).index, orientation='h', template='ggplot2', height=600, width=800, labels={
             "x": "Number of restaurants per neighbourhood",
@@ -82,16 +94,23 @@ elif menu == 'Restaurant':
         resto = resto[resto.reviews.notnull()]
         px.set_mapbox_access_token(open("theo/.mapbox_token").read())
         fig = px.scatter_mapbox(resto, lat="Latitude", lon="Longitude",zoom=12, size = 'reviews', color='rating', 
-        width=900, height=600, opacity=1, template="plotly_dark",
+        width=900, height=600, opacity=0.5, template="plotly_dark",
         hover_name='name',
         hover_data={'Latitude':False, 'Longitude': False, 'price_range': True},
         title= 'Location of restaurants with respect to rating and number of reviews')
         st.plotly_chart(fig)
 
-# Pubs sidemenu and plots
+
+
+
+
+# Pubs
  
 elif menu == 'Pubs':
-    sidebar_select = st.sidebar.radio('Graphs', ['Neighborhood', 'Price range', 'Category', 'Distribution reviews rating'])
+    pub = pd.read_csv('theo/pub_dataset.csv')
+
+
+    sidebar_select = st.sidebar.radio('Graphs', ['Neighborhood', 'Price range', 'Category', 'Distribution reviews rating', 'Location'])
 
 
     if sidebar_select == 'Neighborhood':
@@ -122,13 +141,28 @@ elif menu == 'Pubs':
 
         st.plotly_chart(fig)
 
-# Hotel sidemenu and plots
+
+    elif sidebar_select == 'Location':
+        pub = pub[pub.reviews.notnull()]
+        px.set_mapbox_access_token(open("theo/.mapbox_token").read())
+        fig = px.scatter_mapbox(pub, lat="Latitude", lon="Longitude",zoom=12, size = 'reviews', color='rating', 
+        width=900, height=600, opacity=0.5, template="plotly_dark",
+        hover_name='name',
+        hover_data={'Latitude':False, 'Longitude': False, 'price_range': True},
+        title= 'Location of pubs with respect to rating and number of reviews')
+        st.plotly_chart(fig)
+
+
+
+
+
+# Hotels
 elif menu == 'Hotels':
     hotel = pd.read_csv('theo/hotel_dataset.csv')
 
-
-
     sidebar_select = st.sidebar.radio('Graphs', ['Distribution reviews rating', 'Neighborhood', 'Price range','Median reviews relative to price', 'Location'])
+    
+    
     if sidebar_select == 'Neighborhood':
         fig=px.bar(y = hotel_df['neighbourhood'].value_counts(ascending=True).index, 
         x = hotel_df['neighbourhood'].value_counts(ascending=True).values, template='ggplot2', height=600, width=800, labels={
@@ -152,7 +186,7 @@ elif menu == 'Hotels':
         hotel = hotel[hotel.reviews.notnull()]
         px.set_mapbox_access_token(open("theo/.mapbox_token").read())
         fig = px.scatter_mapbox(hotel, lat="Latitude", lon="Longitude",zoom=12, size = 'reviews', color='rating', 
-        width=900, height=600, opacity=1, template="plotly_dark",
+        width=900, height=600, opacity=0.5, template="plotly_dark",
         hover_name='name',
         hover_data={'Latitude':False, 'Longitude': False, 'price_range': True},
         title= 'Location of hotels with respect to rating and number of reviews')
