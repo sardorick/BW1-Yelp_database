@@ -1,3 +1,4 @@
+from calendar import day_abbr
 from matplotlib.pyplot import xlabel
 import streamlit as st
 from streamlit_option_menu import option_menu
@@ -57,7 +58,7 @@ elif menu == 'Restaurant':
     resto = pd.read_csv('theo/resto_dataset.csv')
 
 
-    sidebar_select = st.sidebar.radio('GRAPH', ['Distribution reviews rating', 'Neighborhood', 'Price range', 'Category', 'Location'])
+    sidebar_select = st.sidebar.radio('GRAPH', ['Distribution reviews rating', 'Neighborhood', 'Price range', 'Category','Photo_review_rating', 'Location'])
 
 
 
@@ -84,6 +85,7 @@ elif menu == 'Restaurant':
         },
         title='Most popular categories of restaurants')
         st.write(fig)
+
     elif sidebar_select == 'Distribution reviews rating':
         fig = px.box(data_frame=resto_df, x = 'Rating', y = 'Review count', template='ggplot2', height=600, width=800, title='Distribution of the number of reviews and rating')
 
@@ -101,7 +103,11 @@ elif menu == 'Restaurant':
         st.plotly_chart(fig)
 
 
-
+    elif sidebar_select == 'Photo_review_rating':
+        fig = px.scatter(data_frame=resto_df, x = 'nb_photos', y = 'Review count', color='Rating', height=600, width=800, 
+        labels={'Review count': 'Number of reviews', 'nb_photos': 'Number of photos'}, 
+        title= 'Relationship between the number of reviews and photos')
+        st.plotly_chart(fig)
 
 
 # Pubs
