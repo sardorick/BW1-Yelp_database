@@ -96,10 +96,11 @@ elif menu == 'Restaurant':
         resto = resto[resto.reviews.notnull()]
         px.set_mapbox_access_token(open("theo/.mapbox_token").read())
         fig = px.scatter_mapbox(resto, lat="Latitude", lon="Longitude",zoom=12, size = 'reviews', color='rating', 
-        width=900, height=600, opacity=0.5, template="plotly_dark",
+        width=900, height=600, opacity=0.8, template="plotly_dark",
         hover_name='name',
         hover_data={'Latitude':False, 'Longitude': False, 'price_range': True},
-        title= 'Location of restaurants with respect to rating and number of reviews')
+        title= 'Location of restaurants with respect to rating and number of reviews', 
+        )
         st.plotly_chart(fig)
 
 
@@ -151,8 +152,8 @@ elif menu == 'Pubs':
     elif sidebar_select == 'Location':
         pub = pub[pub.reviews.notnull()]
         px.set_mapbox_access_token(open("theo/.mapbox_token").read())
-        fig = px.scatter_mapbox(pub, lat="Latitude", lon="Longitude",zoom=12, size = 'reviews', color='rating', 
-        width=900, height=600, opacity=0.5, template="plotly_dark",
+        fig = px.scatter_mapbox(pub, lat="Latitude", lon="Longitude",zoom=12, size = 'reviews', color='rating', size_max= 20, 
+        width=900, height=600, opacity=0.8, template="plotly_dark",
         hover_name='name',
         hover_data={'Latitude':False, 'Longitude': False, 'price_range': True},
         title= 'Location of pubs with respect to rating and number of reviews')
@@ -192,7 +193,7 @@ elif menu == 'Hotels':
         hotel = hotel[hotel.reviews.notnull()]
         px.set_mapbox_access_token(open("theo/.mapbox_token").read())
         fig = px.scatter_mapbox(hotel, lat="Latitude", lon="Longitude",zoom=12, size = 'reviews', color='rating', 
-        width=900, height=600, opacity=0.5, template="plotly_dark",
+        width=900, height=600, opacity=0.8, template="plotly_dark",
         hover_name='name',
         hover_data={'Latitude':False, 'Longitude': False, 'price_range': True},
         title= 'Location of hotels with respect to rating and number of reviews')
@@ -213,6 +214,7 @@ elif menu == 'Hotels':
                 "y": "Price range (in euros)"
         },
         title='Average rating with respect to price range per person')
+
         
 
         st.plotly_chart(fig)
