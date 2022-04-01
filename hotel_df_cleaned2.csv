@@ -1,0 +1,227 @@
+,name,rating,reviews,neighbourhood,price_range,street,postal_code,number_of_photos
+0,Barceló Raval,4.5,56,El Raval,[12 - 33],"Rambla del Raval, 17 - 21",08001 Barcelona,157
+1,Hotel 1898,4.5,76,El Raval,[34 - 66],"La Rambla, 109",08002 Barcelona,156
+2,W Barcelona,4,176,Barceloneta,over 67,"Plaça de la Rosa dels Vents, 1",08039 Barcelona,464
+3,Hotel Continental Barcelona,4.5,12,Barri Gòtic,under 11,"Paseo la Rambla, 138",08002 Barcelona,8
+4,Pulitzer Barcelona,4,42,L'Eixample,[12 - 33],"Carrer Bergara, 8",08002 Barcelona,100
+5,Le Méridien Barcelona,4,84,El Raval,[34 - 66],La Rambla 111,,161
+6,Hotel Cotton House,4.5,47,L'Eixample,[34 - 66],"Gran Via de les Corts Catalanes, 670",08010 Barcelona,151
+7,Hotel Ayre Roselon,4.5,7,L'Eixample,under 11,Rossello 390,,16
+8,Hotel Majestic,4,40,L'Eixample,[34 - 66],"Passeig de Gracia, 68",08007 Barcelona,129
+9,Renaissance Barcelona Hotel,4,53,L'Eixample,[34 - 66],"Pau Claris, 122",08009 Barcelona,197
+10,Villa Emilia,5,25,L'Eixample,[12 - 33],"Carrer de Calàbria, 115",08015 Barcelona,94
+11,Mandarin Oriental,4,40,L'Eixample,over 67,"Passeig de Gràcia, 38-40",08007 Barcelona,106
+12,Hotel Jazz,4.5,22,L'Eixample,[12 - 33],"Pelai, 3, Eixample",08001 Barcelona,23
+13,Hotel Europark,4.5,46,L'Eixample,[12 - 33],"Carrer d'Arago, 323",08009 Barcelona,105
+14,Hotel Barcelona 1882,4.5,6,Gràcia,,"Carrer de Còrsega, 482",08025 Barcelona,37
+15,Alma Barcelona,4.5,29,L'Eixample,[34 - 66],"Carrer de Mallorca, 271",08008 Barcelona,75
+16,Novotel Barcelona City,4,13,Parc i Llacuna del Poblenou,[12 - 33],"Avenida Diagonal, 201",08018 Barcelona,21
+17,Casa Fuster,4.5,24,Gràcia,over 67,"Passeig de Gràcia, 132",08008 Barcelona,49
+18,The Barcelona EDITION,4,21,"Sant Pere, Santa Caterina i la Ribera-Born",[34 - 66],"Avinguda de Francesc Cambó, 14",08003 Barcelona,78
+19,Hotel Barcelona Universal,4,41,El Raval,[12 - 33],"Avinguda Paral-lel, 76",08001 Barcelona,63
+20,Hotel NH Collection Barcelona Gran Hotel Calderón,4,24,L'Eixample,[34 - 66],"Rambla de Catalunya, 26",08007 Barcelona,62
+21,H10 Madison,5,16,Barri Gòtic,,"Carrer del Dr. Joaquim Pou, 2-4-6",08002 Barcelona,62
+22,Claris,4,31,L'Eixample,[34 - 66],"Carrer Pau Claris, 150",08009 Barcelona,56
+23,Alexandra Barcelona Hotel,4,45,L'Eixample,[34 - 66],"Carrer de Mallorca, 251",08008 Barcelona,159
+24,Hilton Barcelona Hotel,3.5,46,Les Corts,[34 - 66],"Avinguda Diagonal, 589-591",08014 Barcelona,157
+25,Hotel Duquesa de Cardona,4.5,32,Barri Gòtic,[34 - 66],"Passeig de Colom, 12",08002 Barcelona,84
+26,Hotel Mercer,4.5,12,Barri Gòtic,[34 - 66],"Carrer dels Lledó, 7",08002 Barcelona,16
+27,Casa Bonay,4.5,15,L'Eixample,[12 - 33],"Gran Via de Les Corts Catalanes, 700",08010 Barcelona,34
+28,El Palace,4.5,20,L'Eixample,over 67,"Gran Via de les Corts Catalanes, 668",08010 Barcelona,71
+29,Hotel Praktik,4.5,18,L'Eixample,[12 - 33],"Carrer de Provença, 279",08037 Barcelona,34
+30,Hotel U232,4.5,29,L'Eixample,[12 - 33],"Carrer del Comte d'Urgell, 232",08036 Barcelona,54
+31,Soho House,5,5,Barri Gòtic,over 67,"Plaça del Duc de Medinaceli, 4",08002 Barcelona,
+32,Hotel Catalonia Born,4,11,"Sant Pere, Santa Caterina i la Ribera-Born",[12 - 33],"Calle Rec Comtal, 16",08003 Barcelona,6
+33,Hotel Condes de Barcelona,4,15,L'Eixample,[34 - 66],"Passeig de Gràcia, 73",08008 Barcelona,35
+34,Hotel Sofia,5,6,Les Corts,,"Plaça de Pius XII, 4",08028 Barcelona,14
+35,Olivia Balmes,4.5,28,L'Eixample,[34 - 66],"Carrer de  Balmes, 117",08008 Barcelona,55
+36,Colonial,3.5,4,Barri Gòtic,[12 - 33],"Via Layetana, 3",08003 Barcelona,61
+37,Best Western Premier Hotel Dante,4,9,L'Eixample,[12 - 33],"Carrer de Mallorca, 181",08036 Barcelona,63
+38,Arc la Rambla,4,9,El Raval,[12 - 33],"La Rambla, 19",08002 Barcelona,14
+39,Vividora,5,2,Barri Gòtic,,"Carrer del Duc, 15",08002 Barcelona,
+40,Hotel Colón,4,48,Barri Gòtic,[34 - 66],"Avinguda Catedral, 7",08002 Barcelona,78
+41,H10 Port Vell,5,9,"Sant Pere, Santa Caterina i la Ribera-Born",[12 - 33],"Carrer Pas de Sota Muralla, 9",08003 Barcelona,18
+42,Hotel España Ramblas,3.5,17,El Raval,[12 - 33],"Carrer de San Pau, 9-11",08001 Barcelona,51
+43,Hotel Ohla,4,20,Barri Gòtic,[34 - 66],"Via Laietana, 49",08003 Barcelona,14
+44,AC Hotel Diagonal L’iIlla,2.5,3,Les Corts,[34 - 66],"Avinguda Diagonal, 555",08029 Barcelona,25
+45,The Wittmore,4.5,10,Barri Gòtic,[34 - 66],"Carrer de Riudarenes, 7",08002 Barcelona,115
+46,Hilton Diagonal Mar,4,67,Diagonal Mar i Forum,[34 - 66],"Passeig del Taulat, 262-264",08019 Barcelona,237
+47,The One,3,2,L'Eixample,,"Carrer de Provença, 277",08037 Barcelona,9
+48,Hotel Catalonia Port,4,10,Barri Gòtic,[12 - 33],"Carrer Ample, 1",08002 Barcelona,13
+49,Hotel Barcelona Catedral,4.5,15,Barri Gòtic,over 67,"Carrer dels Capellans, 4",08002 Barcelona,23
+50,The Serras,5,14,Barri Gòtic,over 67,"Passeig de Colom, 9",08002 Barcelona,44
+51,Sir Victor Hotel,4,25,L'Eixample,[34 - 66],"Carrer del Rosselló, 265",08008 Barcelona,100
+52,Room Mate Carla Hotel,4.5,22,L'Eixample,[12 - 33],"Carrer de Mallorca, 288",08037 Barcelona,45
+53,Gallery Hotel,4.5,23,L'Eixample,[34 - 66],"Carrer del Roselló, 249",08008 Barcelona,14
+54,Iberostar Selection Paseo de Gracia,2.5,3,L'Eixample,[34 - 66],"Plaça de Catalunya, 10",08002 Barcelona,4
+55,Hostal Grau Barcelona,4.5,15,El Raval,under 11,"Carrer Ramelleres, 27",08001 Barcelona,36
+56,Do,4.5,13,Barri Gòtic,[12 - 33],"Plaça Reial, 1",08002 Barcelona,18
+57,AC Hotel by Marriott Irla,4,12,Sarrià - Sant Gervasi,[12 - 33],"Carrer Calvet, 40-42",08021 Barcelona,22
+58,Axel,3,32,L'Eixample,[34 - 66],"Carrer d'Aribau, 33",08011 Barcelona,34
+59,Hotel Sagrada Familia,3.5,11,L'Eixample,[12 - 33],Calle Corsega 541,08029 Barcelona,17
+60,Hotel Turin,4,3,El Raval,under 11,"Carrer del Pintor Fortuny, 9",08001 Barcelona,16
+61,Hotel NH Collection Barcelona Pódium,4.5,6,L'Eixample,[12 - 33],"Carrer de Bailèn, 4-6",08010 Barcelona,55
+62,Eurostars Grand Marina,3.5,30,Barceloneta,[34 - 66],"Moll de Barcelona, s/n",08039 Barcelona,57
+63,Neri,4,21,Barri Gòtic,[34 - 66],"Carrer de Sant Sever, 5",08002 Barcelona,28
+64,Millenni,4,4,El Raval,[12 - 33],"Ronda Sant Pau, 14",08001 Barcelona,
+65,Hotel Cram,4.5,12,L'Eixample,[34 - 66],"Carrer d'Aribau, 54",08011 Barcelona,34
+66,Hotel Catalonia Eixample 1864,4,4,L'Eixample,[12 - 33],"Carrer de Roger de Llúria, 60",08009 Barcelona,5
+67,Hotel Sixty Two,4.5,15,L'Eixample,[34 - 66],"Passeig de Gràcia, 62",08007 Barcelona,68
+68,Hotel Condal,2,6,Barri Gòtic,under 11,"Carrer de la Boqueria, 23",08002 Barcelona,6
+69,Ayre Hotel Rosellón,4,11,L'Eixample,[12 - 33],"Carrer del Roselló, 390",08025 Barcelona,34
+70,Andante Hotel,4.5,16,El Raval,[12 - 33],Av. de les Drassanes 23-25,08001 Barcelona,17
+71,Gaudi Hotel Barcelona,2.5,15,El Raval,,"Calle NOU de la Rambla, 12",08001 Barcelona,
+72,Gaudi Hotel Barcelona,2.5,15,El Raval,,"Calle NOU de la Rambla, 12",08001 Barcelona,
+73,H10 Catalunya Plaza,3.5,9,L'Eixample,[34 - 66],"Plaça de Catalunya, 7",08002 Barcelona,57
+74,Siresa Europea,,,L'Eixample,,"Calle Roger de Lluria, 118",08037 Barcelona,
+75,Gotico Hotel,3.5,11,Barri Gòtic,[34 - 66],"Calle Jaume I, 14",08002 Barcelona,55
+76,Majestic Residence,4,2,L'Eixample,[34 - 66],"Passeig de Gracia, 69",08008 Barcelona,36
+77,Hotel Catalonia Park Guell,1,4,Gràcia,[34 - 66],"Paseo Mare de deu del Coll, 10",08023 Barcelona,8
+78,Nobu Hotel Barcelona,4,1,Sants,,"Av. de Roma, 2-4",08014 Barcelona,14
+79,Royal Ramblas Hotel,4,14,El Raval,[34 - 66],117 La Rambla,08002 Barcelona,6
+80,H10 Casa Mimosa,5,9,L'Eixample,[12 - 33],"Carrer de Pau Claris, 179",08037 Barcelona,4
+81,Praktik Rambla,4.5,13,L'Eixample,[12 - 33],"Rambla de Catalunya, 27",08007 Barcelona,20
+82,Constanza,4,8,L'Eixample,[34 - 66],"Carrer del Bruc, 42",08010 Barcelona,17
+83,Hotel Occidental Atenea Mar,3,7,La Vila Olímpica,[34 - 66],"Passeig García i Faria, 37-47",08019 Barcelona,27
+84,Olivia Plaza Hotel,4.5,19,Barri Gòtic,[34 - 66],"Placa de Catalunya, 19",08002 Barcelona,42
+85,Barcelona Nouvel Hotel,3.5,3,Barri Gòtic,[34 - 66],Calle Santa Ana 18-20,08002 Barcelona,
+86,Ayre Hotel Caspe,3.5,7,L'Eixample,[12 - 33],Caspe 103,08013 Barcelona,6
+87,Avenida Palace,3.5,18,L'Eixample,over 67,"Calle Gran Via de Les Corts Catalanes, 605",08007 Barcelona,26
+88,The Mirror Hotel,4,17,L'Eixample,[12 - 33],"Carrer de Còrsega, 255",08036 Barcelona,32
+89,Equity Point Centric,3,11,L'Eixample,,"Passeig de Gracia, 33",08007 Barcelona,16
+90,Hotel Medium Prisma,3.5,3,Les Corts,[12 - 33],Avenida Josep Tarradellas 119-121,08029 Barcelona,23
+91,Hotel Curious,4.5,15,El Raval,[12 - 33],"Carrer Carme, 25",08001 Barcelona,13
+92,Hotel Lleó,4,7,El Raval,[12 - 33],"Carrer de Pelai, 22",08001 Barcelona,
+93,Le Palacete,5,1,Gràcia,,"Carrer de la Legalitat, 10",08024 Barcelona,8
+94,Hotel Catalonia 505,3,3,Sarrià - Sant Gervasi,[12 - 33],"Carrer de Muntaner, 505",08022 Barcelona,24
+95,Ramblas 108,5,1,El Raval,[12 - 33],"La Rambla, 108",08002 Barcelona,
+96,Hotel Regencia Colon,4,8,Barri Gòtic,[12 - 33],"Carrer Sagristans, 13/17",08002 Barcelona,10
+97,Hotel Del Mar,2.5,7,"Sant Pere, Santa Caterina i la Ribera-Born",under 11,"Plaça Palau, 19",08002 Barcelona,54
+98,Room Mate Pau Hotel,4,9,L'Eixample,[12 - 33],"Carrer Fontanella, 7",08010 Barcelona,58
+99,Alimara,2.5,8,Horta-Guinardó,[12 - 33],"Carrer de Berruguete, 126",08035 Barcelona,
+100,Hotel Catalonia Diagonal Centro,4,1,L'Eixample,[12 - 33],"Carrer de Balmes, 142",08008 Barcelona,11
+101,Park Hotel,4.5,4,"Sant Pere, Santa Caterina i la Ribera-Born",over 67,"Avinguda del Marquès de l'Argentera, 11",08003 Barcelona,31
+102,Hotel Crowne Plaza Fira Center,4.5,22,El Poble-sec,[34 - 66],"Avinguda Rius i Taulet, 1-3",08004 Barcelona,42
+103,AC Hotel by Marriott Barcelona Forum,3,25,Diagonal Mar i Forum,[34 - 66],Paseo Taulat 278,08019 Barcelona,44
+104,Hotel 54 Barceloneta,3.5,4,Barceloneta,[12 - 33],"Passeig Joan de Borbo, 54",08003 Barcelona,19
+105,Hotel Balmes,4.5,8,L'Eixample,[12 - 33],"Carrer de Mallorca, 216",08008 Barcelona,55
+106,Jorsu Catalana,,,L'Eixample,,"Calle Ausias Marc, 109",08013 Barcelona,
+107,Senator Barcelona,2.5,2,Les Corts,[34 - 66],"Carrer Cardenal Reig, 11",08028 Barcelona,16
+108,Gaudí,,,El Raval,,12 Carrer Nou de la Rambla,08001 Barcelona,
+109,Ibis,4.5,7,Parc i Llacuna del Poblenou,[12 - 33],"Carrer de la Ciutat de Granada, 99",08018 Barcelona,8
+110,The Corner Hotel,4.5,17,L'Eixample,[12 - 33],"Carrer de Mallorca, 178",08036 Barcelona,34
+111,Hotel Nouvel,3.5,16,Barri Gòtic,[12 - 33],Santa Ana 20,08002 Barcelona,29
+112,Motel One,4,7,Parc i Llacuna del Poblenou,[12 - 33],"Passeig de Pujades, 11",08018 Barcelona,30
+113,Royal,4,7,L'Eixample,[12 - 33],"Passeig de Gracia, 84",08008 Barcelona,33
+114,Monument Hotel,3.5,3,L'Eixample,,"Passeig de Gràcia, 75",08008 Barcelona,9
+115,Room Mate Anna Hotel,4.5,9,L'Eixample,[12 - 33],"Carrer d'Aragó, 271",08007 Barcelona,18
+116,Hotel Acta Splendid,3,3,L'Eixample,[12 - 33],Calle Muntaner 2,08011 Barcelona,
+117,NH Constanza,3,7,Les Corts,[34 - 66],"Carrer de Deu i Mata, 69",08029 Barcelona,21
+118,AC Hotel by Marriott Sants,4,17,Sants,[12 - 33],"Passeig de Sant Antoni, 36-40",08014 Barcelona,47
+119,hotels barcelona spain,4.5,3,El Raval,under 11,Barcelona,08001 Barcelona,54
+120,Soho Barcelona,4,9,L'Eixample,[12 - 33],"Gran Via de les Corts Catalanes, 543",08011 Barcelona,16
+121,Hostalin Barcelona,3,2,L'Eixample,,"Carrer de la Diputació, 346",08013 Barcelona,
+122,Casa Marcelo,5,1,"Sant Pere, Santa Caterina i la Ribera-Born",,"Carrer Reva Palau, 2",08003 Barcelona,4
+123,AC Hotel by Marriott Victoria Suites,4.5,4,Les Corts,[12 - 33],"Carrer Beltran i Rozpide, 7",08034 Barcelona,14
+124,Colors,2,1,Horta-Guinardó,,Campoamor 79,08031 Barcelona,
+125,Hesperia Presidente,4,14,Sarrià - Sant Gervasi,[34 - 66],Avinguda Diagonal 570,08021 Barcelona,10
+126,Hotel Miramar,4,15,Montjuïc,over 67,"Plaça Carlos Ibanez, 3",08038 Barcelona,37
+127,Hotel Medicis,4,2,Horta-Guinardó,[34 - 66],"Carrer de Castillejos, 340",08025 Barcelona,5
+128,Hotel Ciutadella Barcelona,3,3,"Sant Pere, Santa Caterina i la Ribera-Born",[12 - 33],"Avinguda del Marquès de l'Argentera, 4",08003 Barcelona,40
+129,St. Christopher’s Inn,4,20,L'Eixample,,,,
+130,St. Christopher’s Inn,4,20,L'Eixample,,,,
+131,B Hotel,4.5,15,L'Eixample,[12 - 33],"Gran Via de les Corts Catalanes, 389-391",08015 Barcelona,18
+132,Catalonia Barcelona Golf,3,1,Sarrià - Sant Gervasi,,,,
+133,Mihlton,5,1,L'Eixample,,,,
+134,Hotel Peninsular,4,8,El Raval,,,,
+135,Banys Oriental,4.5,13,"Sant Pere, Santa Caterina i la Ribera-Born",[12 - 33],,,
+136,Hotel Capri by Fraser,3.5,3,Parc i Llacuna del Poblenou,[12 - 33],,,
+137,Hotel Granados 83,4,25,L'Eixample,[34 - 66],,,
+138,Hotel Oasis,4,8,"Sant Pere, Santa Caterina i la Ribera-Born",[12 - 33],,,
+139,Ámister Art Hotel,4,8,L'Eixample,[12 - 33],,,
+140,Hotel Regina,3,8,L'Eixample,[34 - 66],,,
+141,Silken Concordia,4,10,El Poble-sec,[12 - 33],,,
+142,H10 Art Gallery,3,3,L'Eixample,[12 - 33],,,
+143,Gran Hotel Havana,4,12,L'Eixample,[12 - 33],,,
+144,AC Hotel by Marriott Som,3,6,Montjuïc,,,,
+145,Hotel Ciutat Barcelona,3.5,13,"Sant Pere, Santa Caterina i la Ribera-Born",[12 - 33],,,
+146,Tryp Apolo Hotel,3,35,El Poble-sec,[12 - 33],,,
+147,Franquesa Malaguti,,,L'Eixample,,,,
+148,Petit Palace Boqueria Garden,3.5,21,Barri Gòtic,[12 - 33],,,
+149,Hotel Casa Camper,4.5,30,El Raval,[34 - 66],,,
+150,Holiday Inn Express,3.5,15,Poblenou,[12 - 33],,,
+151,Siete Cero DOS Limpiezas Gestionadas,,,L'Eixample,,,,
+152,Hotel Apsis Porta Marina,4,1,Parc i Llacuna del Poblenou,[12 - 33],,,
+153,Hotel Catalonia,3,7,El Raval,[34 - 66],,,
+154,Banquetes Reunidos,,,Sarrià - Sant Gervasi,,,,
+155,Fonda Espanya,4.5,10,El Raval,over 67,"Carrer de Sant Pau, 9",08001 Barcelona,28
+156,Exe Laietana Palace,2.5,7,Barri Gòtic,[34 - 66],"Via Laietana, 17",08003 Barcelona,4
+157,Hotel H10,4.5,7,L'Eixample,[12 - 33],"Plaça d'Urquinaona, 2",08010 Barcelona,23
+158,H10 Metropolitan,4,4,L'Eixample,[34 - 66],"Rambla de Catalunya, 7-9",08007 Barcelona,67
+159,Hotel Ohla Eixample,4,5,L'Eixample,[34 - 66],"Carrer de Còrsega, 289",08008 Barcelona,6
+160,Well and Come,5,3,L'Eixample,[34 - 66],"Carrer de Girona, 168",08037 Barcelona,5
+161,Hotel La Casa del Sol,5,2,Gràcia,[12 - 33],"Plaça del Sol, 23",08012 Barcelona,
+162,Meliá Barcelona,4,19,Les Corts,[34 - 66],"Avinguda de Sarrià, 50",08029 Barcelona,53
+163,Hotel Del Compte,4,2,L'Eixample,under 11,"Calle Diputacio, 142 - 144",08015 Barcelona,10
+164,NH Eixample,3,7,L'Eixample,under 11,"Carrer de València, 105-107",08011 Barcelona,7
+165,HCC Montblanc,3,12,Barri Gòtic,[12 - 33],"Via Laietana, 61",08003 Barcelona,11
+166,Hotel Bagués,5,8,El Raval,over 67,"La Rambla, 105",08002 Barcelona,22
+167,Santa Marta,5,2,"Sant Pere, Santa Caterina i la Ribera-Born",[12 - 33],"Carrer del General Castaños, 14",08003 Barcelona,
+168,Petit Palace Museum,3.5,5,L'Eixample,[34 - 66],"Carrer de la Diputació, 250",08007 Barcelona,9
+169,Two Hotel,4.5,17,L'Eixample,[12 - 33],"Carrer de Calàbria, 90-92",08015 Barcelona,13
+170,Ibis Barcelona Centro,4,6,L'Eixample,,"Carrer Napoles, 230",08013 Barcelona,6
+171,Ficfrei,,,Parc i Llacuna del Poblenou,,"Paseo Pujades, 17",08018 Barcelona,
+172,H10 Cubik,4,16,Barri Gòtic,[34 - 66],"Via Laietana, 69",08003 Barcelona,49
+173,Fedasosa,,,,,"Calle Maladeta, 51",08950 Esplugues De Llobregat,
+174,Hotel Advance,5,4,L'Eixample,[12 - 33],Calle de Sepúlveda 180,08011 Barcelona,12
+175,Praktik Garden,3.5,13,L'Eixample,[12 - 33],"Carrer de la Diputació, 325",08009 Barcelona,14
+176,Hotel Barcelona House,2,13,Barri Gòtic,[12 - 33],"Carrer Escudellers, 19",08002 Barcelona,7
+177,Hotel NH Barcelona Les Corts,3.5,2,Les Corts,,"Travessera de les Corts, 292",08029 Barcelona,33
+178,Four Points by Sheraton Barcelona Diagonal,4,26,Poblenou,[12 - 33],"Avenida Diagonal, 161",08018 Barcelona,46
+179,Four Points by Sheraton Barcelona Diagonal,4,26,Poblenou,[12 - 33],"Avenida Diagonal, 161",08018 Barcelona,46
+180,Hotel Apsis Sant Angelo,5,1,L'Eixample,under 11,Consejo de Ciento 74,08015 Barcelona,11
+181,ABaC Hotel,5,4,Sarrià - Sant Gervasi,over 67,"Avinguda del Tibidabo, 1",08022 Barcelona,40
+182,"Hotel Nuñez Urgel Comte D’urgell, 232",,,L'Eixample,,"C Comte D'urgell, 232",08036 Barcelona,
+183,Silken Sant Gervasi,4,5,Sarrià - Sant Gervasi,[12 - 33],"Carrer Sant Gervasi de Cassoles, 26",08022 Barcelona,9
+184,Wilson,5,10,Sarrià - Sant Gervasi,[12 - 33],"Avinguda Diagonal, 568",08021 Barcelona,12
+185,Hostemplo,,,L'Eixample,,"Paseo Mallorca, 362",08013 Barcelona,
+186,Gestion Hotelera Ballester,,,L'Eixample,,"C Valencia, 154",08011 Barcelona,
+187,Hotel Pelayo,4,1,L'Eixample,under 11,"Calle Pelai, 9 - 1 1",08001 Barcelona,
+188,Sunotel BCN,1,2,L'Eixample,[12 - 33],"Calle Gran VIA de LES Corts Catalanes, 570",08011 Barcelona,
+189,Acta Mimic,3,7,El Raval,,C/ Arc del Teatre 58,08001 Barcelona,11
+190,Marin Gonzalez Gabriel,,,L'Eixample,,"Calle Corsega, 200",08036 Barcelona,
+191,Hotel America,4.5,7,L'Eixample,[12 - 33],Calle ProvenÇa 195,08008 Barcelona,10
+192,Hotel Catalonia Portal de l’Angel,4,5,Barri Gòtic,[34 - 66],"Portal de l'Àngel,17",08002 Barcelona,9
+193,City Park Hotel Sant Just,,,,,Carretera Reial A 0,08960 Sant Just Desvern,
+194,Mercer Hoteles,5,1,"Sant Pere, Santa Caterina i la Ribera-Born",[34 - 66],"Calle Boria, 24",08003 Barcelona,
+195,Hotel Reding,4,10,El Raval,[12 - 33],"Calle Gravina, 5",08001 Barcelona,
+196,Acta BCN 40,5,2,El Raval,,c/ Joaquin Costa 40,08001 Barcelona,
+197,Acta BCN 40,5,2,El Raval,,c/ Joaquin Costa 40,08001 Barcelona,
+198,OD Barcelona,5,5,L'Eixample,,"Carrer d'Aragó, 300",08009 Barcelona,11
+199,OD Barcelona,5,5,L'Eixample,,"Carrer d'Aragó, 300",08009 Barcelona,11
+200,Pullman,4,22,Barceloneta,[34 - 66],"Avinguda del Litoral, 10",08005 Barcelona,103
+201,Hotel NH Barcelona Entenza,4.5,3,Les Corts,under 11,"Carrer de l'Equador, 20",08029 Barcelona,29
+202,Hoteles Solvasa,1,1,L'Eixample,,Plaza Dr. Letamendi 37,08007 Barcelona,
+203,Fairmont Rey Juan Carlos I,4,29,Les Corts,[34 - 66],"Avinguda Diagonal, 661",08028 Barcelona,71
+204,Intown Europe,,,"Sant Pere, Santa Caterina i la Ribera-Born",,"Calle Carders, 6",08003 Barcelona,
+205,Rey Don Jaime I,1.5,3,Barri Gòtic,under 11,"C Jaume I, 11",08002 Barcelona,
+206,Vincci Gala 4,4.5,7,L'Eixample,[12 - 33],"Ronda Sant Pere, 32",08010 Barcelona,21
+207,H10 Montcada,4,19,"Sant Pere, Santa Caterina i la Ribera-Born",[34 - 66],"Via Laietana, 24",08003 Barcelona,20
+208,Almanac,5,7,L'Eixample,,"Gran Via de les Corts Catalanes, 619",08007 Barcelona,17
+209,Hotel Denit,3.5,17,Barri Gòtic,[12 - 33],"Carrer d'Estruc, 24 - 26",08002 Barcelona,43
+210,Hotel Midmost,3.5,9,El Raval,[12 - 33],"Carrer Pelai, 14",08001 Barcelona,17
+211,Hotel Front Maritim,3,4,La Vila Olímpica,[12 - 33],"Passeig García i Faria, 69-71",08019 Barcelona,6
+212,Hotel Granvía,4,22,L'Eixample,[12 - 33],"Gran Vía de les Corts Catalanes, 642",08007 Barcelona,53
+213,"roig cerrudo,ana 000950091r slne",,,El Poble-sec,,"Calle Salva, 78",08004 Barcelona,
+214,Sabor Intens,,,Gràcia,,"Plaza Llibertat, 1",08012 Barcelona,
+215,Aparthotel Silver,4.5,11,Gràcia,[12 - 33],"Carrer de Bretón de los Herreros, 26",08012 Barcelona,37
+216,Chic&Basic Velvet,1,1,L'Eixample,,"Carrer del Consell de Cent, 74",08015 Barcelona,19
+217,Chic&Basic Velvet,1,1,L'Eixample,,"Carrer del Consell de Cent, 74",08015 Barcelona,19
+218,Hotel Catalonia Plaza Catalunya,4.5,5,L'Eixample,[12 - 33],"Carrer de Bergara, 11",08002 Barcelona,8
+219,Omnium,4,3,L'Eixample,,"Carrer del Bruc, 42",08010 Barcelona,13
+220,Ibis Styles,,,L'Eixample,[12 - 33],"Carrer de Provença, 340",08037 Barcelona,
+221,Patacolls,,,L'Eixample,,"RO San Pere, 0024",08010 Barcelona,
+222,ANBA Bed And Breakfast,5,4,L'Eixample,,"Ronda de Sant Pere, 27",08010 Barcelona,9
+223,Chic & Basic Lemon Boutique,,,El Raval,,"Carrer de Pelai, 6",08001 Barcelona,9
+224,Tres Torres Atiram,3,1,Sarrià - Sant Gervasi,[12 - 33],"Carrer de Calatrava, 32",08017 Barcelona,11
+225,Abba Rambla,4,5,El Raval,[12 - 33],"Rambla del Raval, 4C",08001 Barcelona,5

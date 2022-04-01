@@ -13,7 +13,7 @@ import plotly.express as px
 
 resto_df = pd.read_csv("Resto_df_cleaned.csv")
 pub_df = pd.read_csv("pub_df_cleaned3.csv")
-hotel_df = pd.read_csv("hotel_df_cleaned.csv")
+hotel_df = pd.read_csv("hotel_df_cleaned2.csv")
 
 
 
