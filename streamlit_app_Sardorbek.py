@@ -1,11 +1,14 @@
 from calendar import day_abbr
 from matplotlib.pyplot import xlabel
+from sklearn.tree import plot_tree
 import streamlit as st
 from streamlit_option_menu import option_menu
 from PIL import Image
 import pandas as pd
 import numpy as np
 import plotly.express as px
+import seaborn as sns
+import matplotlib.pyplot as plt
 # Load data
 
 # resto_df = pd.read_csv(r"C:\Users\Lenovo\OneDrive\Documents\Strive repos\BW1-Yelp_database\Resto_df_cleaned.csv")
@@ -15,6 +18,7 @@ import plotly.express as px
 resto_df = pd.read_csv("Resto_df_cleaned.csv")
 pub_df = pd.read_csv("pub_df_cleaned4.csv")
 hotel_df = pd.read_csv("hotel_df_cleaned2.csv")
+master_df = pd.read_csv("master_df.csv")
 
 
 
@@ -58,7 +62,7 @@ elif menu == 'Restaurant':
     resto = pd.read_csv('theo/resto_dataset.csv')
 
 
-    sidebar_select = st.sidebar.radio('Graphs', ['Distribution reviews rating', 'Neighborhood', 'Price range', 'Category','Relationship between number of photos and reviews', 'Location'])
+    sidebar_select = st.sidebar.radio('Graphs', ['Distribution reviews rating', 'Neighborhood', 'Price range', 'Category','Relationship between the number of reviews and photos', 'Median reviews relative to price', 'Location'])
 
 
 
@@ -104,10 +108,21 @@ elif menu == 'Restaurant':
         st.plotly_chart(fig)
 
 
-    elif sidebar_select == 'Relationship between number of photos and reviews':
+    elif sidebar_select == 'Relationship between the number of reviews and photos':
         fig = px.scatter(data_frame=resto_df, x = 'nb_photos', y = 'Review count', color='Rating', height=600, width=800, 
         labels={'Review count': 'Number of reviews', 'nb_photos': 'Number of photos'}, 
         title= 'Relationship between the number of reviews and photos')
+        st.plotly_chart(fig)
+    elif sidebar_select == 'Median reviews relative to price':
+        fig = px.bar(x = resto_df.groupby('Price range')['Review count'].agg('median').sort_values().values, 
+        y = resto_df.groupby('Price range')['Review count'].agg('median').sort_values().index,
+        template='ggplot2', height=600, width=800, 
+        labels={
+                "x": "Average (median) number of reviews",
+                "y": "Price range (in euros)"
+        },
+        title='Average rating with respect to price range per person')  
+
         st.plotly_chart(fig)
 
 
@@ -117,7 +132,7 @@ elif menu == 'Pubs':
     pub = pd.read_csv('theo/pub_dataset.csv')
 
 
-    sidebar_select = st.sidebar.radio('Graphs', [ 'Distribution reviews rating', 'Neighborhood', 'Price range', 'Category', 'Relationship between the number of reviews and photos', 'Location'])
+    sidebar_select = st.sidebar.radio('Graphs', [ 'Distribution reviews rating', 'Neighborhood', 'Price range', 'Category', 'Relationship between the number of reviews and photos', 'Median reviews relative to price', 'Location'])
 
 
     if sidebar_select == 'Neighborhood':
@@ -147,10 +162,11 @@ elif menu == 'Pubs':
         fig = px.box(data_frame=pub_df, x = 'rating', y = 'reviews', template='ggplot2', height=600, width=800, title='Distribution of the number of reviews and rating')
 
         st.plotly_chart(fig)
-    elif sidebar_select == 'Relationship between number of photos and reviews':
-        fig = px.scatter(data_frame=pub_df, x = 'nb_photos', y = 'Review count', color='Rating', height=600, width=800, 
-        labels={'Review count': 'Number of reviews', 'nb_photos': 'Number of photos'}, 
-        title= 'Relationship between the number of reviews and photos')
+
+    elif sidebar_select == 'Relationship between the number of reviews and photos':
+        fig = px.scatter(data_frame = master_df[master_df.Business_type == 'pub'], x = 'nb_photos', y = 'reviews', color='rating', hover_name= 'name', height=600, width=800,
+        labels={'reviews': 'Number of reviews', 'nb_photos': 'Number of photos'}, 
+        title = 'Relationship between the number of reviews and photos')
         st.plotly_chart(fig)
 
     elif sidebar_select == 'Location':
@@ -162,7 +178,17 @@ elif menu == 'Pubs':
         hover_data={'Latitude':False, 'Longitude': False, 'price_range': True},
         title= 'Location of pubs with respect to rating and number of reviews')
         st.plotly_chart(fig)
+    elif sidebar_select == 'Median reviews relative to price':
+        fig = px.bar(x = pub_df.groupby('price_range')['reviews'].agg('median').sort_values().values, 
+        y = pub_df.groupby('price_range')['reviews'].agg('median').sort_values().index,
+        template='ggplot2', height=600, width=800, 
+        labels={
+                "x": "Average (median) number of reviews",
+                "y": "Price range (in euros)"
+        },
+        title='Average rating with respect to price range per person')  
 
+        st.plotly_chart(fig)
 
 
 
@@ -171,7 +197,7 @@ elif menu == 'Pubs':
 elif menu == 'Hotels':
     hotel = pd.read_csv('theo/hotel_dataset.csv')
 
-    sidebar_select = st.sidebar.radio('Graphs', ['Distribution reviews rating', 'Neighborhood', 'Price range','Median reviews relative to price', 'Location'])
+    sidebar_select = st.sidebar.radio('Graphs', ['Distribution reviews rating', 'Neighborhood', 'Price range','Median reviews relative to price', 'Relationship between the number of reviews and photos', 'Location'])
     
     
     if sidebar_select == 'Neighborhood':
@@ -192,6 +218,11 @@ elif menu == 'Hotels':
         title='Price range of hotels in Barcelona')
         st.write(fig)
 
+    elif sidebar_select == 'Relationship between the number of reviews and photos':
+        fig = px.scatter(data_frame = master_df[master_df.Business_type == 'hotel'], x = 'nb_photos', y = 'reviews', color='rating', hover_name= 'name', height=600, width=800,
+        labels={'reviews': 'Number of reviews', 'nb_photos': 'Number of photos'}, 
+        title = 'Relationship between the number of reviews and photos')
+        st.plotly_chart(fig)
 
     elif sidebar_select == 'Location':
         hotel = hotel[hotel.reviews.notnull()]
@@ -217,8 +248,11 @@ elif menu == 'Hotels':
                 "x": "Average (median) number of reviews",
                 "y": "Price range (in euros)"
         },
-        title='Average rating with respect to price range per person')
-
-        
+        title='Average rating with respect to price range per person')  
 
         st.plotly_chart(fig)
+
+# Recommendation part
+
+elif menu == 'Recommendation':
+    st.table(master_df.groupby('Business_type')['price_range'].value_counts())
