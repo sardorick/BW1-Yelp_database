@@ -1,0 +1,127 @@
+,name,rating,category,neighbourhood,reviews,price_range,number_of_photos,street,postal_code
+0,Scobies Irish Pub,4.5,Irish Pub,L'Eixample,26,under 11,17,"Carrer de Mallorca, 236",08008 Barcelona
+1,H1898 Rooftopbar,4,Pubs,El Raval,7,[12 - 33],14,"Carrer Nou de la Rambla, 35",08001 Barcelona
+2,L’Ovella Negra,4,Pubs,El Raval,78,under 11,50,"Rambla de Catalunya, 18",08007 Barcelona
+3,Bobby’s Free,4.5,Pubs,L'Eixample,21,under 11,42,"Carrer de Montcada, 29",08003 Barcelona
+4,Madame George,5,Lounges,Poblenou,4,under 11,35,"Carrer d'En Botella, 11",08007 Barcelona
+5,Nevermind,4.5,Beer Bar,El Raval,15,under 11,26,"Carrer de Aragón, 236",08007 Barcelona
+6,The Michael Collins,4,Irish Pub,L'Eixample,40,[12 - 33],47,"Carrer Del Consell de Cent, 333",08007 Barcelona
+7,Bar Rubí,4.5,Spanish,"Sant Pere, Santa Caterina i la Ribera-Born",38,under 11,71,"Carrer de Sant Carles, 11",08003 Barcelona
+8,Old Fashioned,5,Cocktail Bars,Gràcia,108,[12 - 33],218,"Carrer de la Unió, 17",08001 Barcelona
+9,The Bollocks,4,Pubs,Barri Gòtic,18,under 11,22,"Passeig de Sant Joan, 23",08010 Barcelona
+10,Biercab,4.5,Beer Bar,L'Eixample,124,under 11,215,"Passeig de Gracia, 24",08007 Barcelona
+11,Flaherty’s,4,Burgers,Barri Gòtic,41,under 11,69,"Carrer del Consolat de Mar, 23",08003 Barcelona
+12,Dow Jones,3.5,Pubs,L'Eixample,47,[12 - 33],56,"Carrer de Villarroel, 163",08036 Barcelona
+13,El Bosc de les Fades,4,Coffee & Tea,Barri Gòtic,121,[12 - 33],100,"Carrer de Sant Pere Més Alt, 8",08003 Barcelona
+14,Obama,3.5,Bars,L'Eixample,40,[12 - 33],66,"Carrer d'Enric Granados, 145",08008 Barcelona
+15,Tandem,5,Cocktail Bars,L'Eixample,28,[12 - 33],53,"Carrer de la Reina Cristina, 7",08003 Barcelona
+16,Hemingway,5,Cocktail Bars,L'Eixample,18,[34 - 66],45,"Carrer de Petritxol, 9",08002 Barcelona
+17,Samba Brasil,4,Cocktail Bars,L'Eixample,8,[12 - 33],4,"Plaça del Dr. Letamendi, 1",08007 Barcelona
+18,The George Payne,3.5,Irish Pub,L'Eixample,61,[12 - 33],40,"Calle Pau Claris, 70",08010 Barcelona
+19,Snooker,4,Pubs,L'Eixample,2,[12 - 33],9,"Carrer de Blai, 17",08004 Barcelona
+20,My Bar,4.5,Irish Pub,Barri Gòtic,7,[12 - 33],6,"Avenida del Paral·lel, 164",08015 Barcelona
+21,Chill Bar,4.5,Tapas Bars,L'Eixample,142,under 11,213,Carrer Hospital 78,08001 Barcelona
+22,JazzMan,4.5,Jazz & Blues,L'Eixample,13,[12 - 33],32,"Calle Nou de la Rambla, 20",08001 Barcelona
+23,Polaroid,4,Pubs,Barri Gòtic,31,under 11,36,"Carrer de Pau Claris, 192",08037 Barcelona
+24,La Cinemateca,4,Pubs,L'Eixample,6,[12 - 33],5,"Carrer de Muntaner, 103",08011 Barcelona
+25,La Pepita,4.5,Tapas Bars,Gràcia,514,[12 - 33],1065,"Carrer de Còrsega, 343",08037 Barcelona
+26,London Bar,4,Pubs,El Raval,14,under 11,56,"Rambla Catalunya, 33",08007 Barcelona
+27,Marsella,4,Pubs,El Raval,51,under 11,55,"Consell de Cent, 335",08007 Barcelona
+28,The Black Horse,4,Irish Pub,"Sant Pere, Santa Caterina i la Ribera-Born",6,[12 - 33],8,"Passatge de la Pau, 11",08002 Barcelona
+29,The Philharmonic,4,Pubs,L'Eixample,14,[12 - 33],6,"Carrer de Mallorca, 257",08008 Barcelona
+30,Elephanta,4.5,Pubs,Gràcia,32,[12 - 33],41,"Carrer Arc de Sant Ramon del Call, 6",08002 Barcelona
+31,La Birreria,4.5,Beer Bar,Gràcia,3,under 11,5,"Carrer de Rera Palau, 4",08003 Barcelona
+32,Hogan’s Australian Pub,4,Pubs,El Raval,5,[12 - 33],34,"Carrer de Roger de Llúria, 23",08010 Barcelona
+33,The Black Lion,3.5,Pubs,Les Corts,6,under 11,23,"Carrer de Casanova, 155",08036 Barcelona
+34,The Lime House,4,Pubs,"Sant Pere, Santa Caterina i la Ribera-Born",13,[12 - 33],11,"Carrer de Girona, 70",08009 Barcelona
+35,Bonavida,4.5,Pubs,L'Eixample,10,under 11,31,"Carrer Fusina, 5",08003 Barcelona
+36,Dublin Sports,3.5,Sports Bars,Sarrià - Sant Gervasi,9,[12 - 33],7,"Carrer d'Aribau, 22",08011 Barcelona
+37,Musical María,4.5,Pubs,Gràcia,8,[12 - 33],5,"Carrer del Carme, 59",08001 Barcelona
+38,Dunne’s Irish Bar,3.5,Irish,Barri Gòtic,36,[12 - 33],17,"Plaça Nova, 3",08002 Barcelona
+39,Xixbar,4.5,Cocktail Bars,L'Eixample,26,[12 - 33],199,"Via Laietana, 71",08003 Barcelona
+40,Gato Negro,4.5,Pubs,Gràcia,5,under 11,20,"Carrer d'Astúries, 17",08012 Barcelona
+41,Belushi’s,3.5,Pubs,L'Eixample,20,under 11,26,"Rambla de Catalunya, 100",08002 Barcelona
+42,Craft Barcelona,4,Tapas Bars,Barri Gòtic,20,under 11,45,"Carrer de les Sitges, 3",08001 Barcelona
+43,Stoke Bar,4,Pubs,Barri Gòtic,31,[12 - 33],36,"Les Rambles, 109",08002 Barcelona
+44,Barna Brew,4.5,Beer Bar,L'Eixample,5,under 11,14,"Carrer de l'Almirall Aixada, 12",08003 Barcelona
+45,Oviso,4,Pubs,Barri Gòtic,64,under 11,70,"Carrer de Mozart, 15",08012 Barcelona
+46,Touch Music Karaoke,4.5,Karaoke,La Vila Olímpica,8,[12 - 33],38,"Carrer dels Carders, 46",08003 Barcelona
+47,Sor Rita,4.5,Pubs,Barri Gòtic,22,under 11,51,"Passeig de Gràcia, 53",08007 Barcelona
+48,La Barrica,3,Pubs,L'Eixample,1,under 11,15,"Carrer del Poeta Cabanyes, 25",08004 Barcelona
+49,Arcano,4.5,Spanish,"Sant Pere, Santa Caterina i la Ribera-Born",292,[34 - 66],555,"Carrer de la Maquinista, 3",08003 Barcelona
+50,Bar Zodiaco,4,Tapas Bars,El Poble-sec,19,under 11,25,"Carrer de Bailèn, 115",08009 Barcelona
+51,Big Bang Bar,4,Pubs,El Raval,10,under 11,43,"Plaça d'Urquinaona, 4",08010 Barcelona
+52,Maestró,4,Beer Bar,L'Eixample,33,[12 - 33],119,"La Rambla, 91",08002 Barcelona
+53,Belchica,3.5,Pubs,L'Eixample,8,[12 - 33],23,"Carrer de Rabassa, 37",08024 Barcelona
+54,Xpressing Underground Club,4,Pubs,L'Eixample,1,[12 - 33],9,"Carrer del Rec Comtal, 11",08003 Barcelona
+55,Lunatic,4.5,Pubs,Les Corts,5,[12 - 33],9,"Carrer dels Tallers, 74",08001 Barcelona
+56,Temple Bar,3.5,Pubs,Barri Gòtic,21,under 11,29,"Carrer de Pau Claris, 118",08009 Barcelona
+57,Ina,4.5,Cocktail Bars,"Sant Pere, Santa Caterina i la Ribera-Born",6,under 11,10,"Carrer d'en Gignàs, 21",08002 Barcelona
+58,Espai d’Art Tinta Roja,3.5,Performing Arts,El Poble-sec,9,[12 - 33],11,"Carrer del Consell de Cent, 378",08009 Barcelona
+59,Mojito Rock,4,Music Venues,El Raval,11,under 11,5,"Passatge de Pere Calders, 6",08015 Barcelona
+60,Mingus,4,Dive Bars,Barri Gòtic,15,[12 - 33],15,"Plaça de Sant Pere, 5",08003 Barcelona
+61,Black Lab,4,Burgers,Barceloneta,83,[12 - 33],172,"Carrer de Roger de Llúria, 50",08009 Barcelona
+62,Stereo,4.5,Pubs,El Poble-sec,2,under 11,11,"Via Laietana, 46",08003 Barcelona
+63,Two Schmucks,5,Cocktail Bars,El Raval,17,[12 - 33],29,"Carrer de Sant Domenec del Call, 14",08002 Barcelona
+64,Bodega,5,Dive Bars,"Sant Pere, Santa Caterina i la Ribera-Born",5,under 11,11,"Passatge de Domingo, 3",08007 Barcelona
+65,El Vaso de Oro,4.5,Tapas Bars,Barceloneta,178,[12 - 33],359,"Carrer de les Carretes, 44",08001 Barcelona
+66,Cheers,3,Pubs,Barri Gòtic,16,under 11,4,"Carrer Gran de Gràcia, 81",08012 Barcelona
+67,Belice Cocktail Bar,5,Cocktail Bars,Sarrià - Sant Gervasi,2,[12 - 33],8,"Avinguda del Paraŀlel, 184",08015 Barcelona
+68,La Cervesera Artesana,4,Breweries,Gràcia,37,[12 - 33],34,"Carrer del Pi, 16",08002 Barcelona
+69,Ale&Hop,4.5,Vegan,"Sant Pere, Santa Caterina i la Ribera-Born",43,under 11,106,"Carrer del Rosselló, 164",08036 Barcelona
+70,Hendrix,4.5,Burgers,Sarrià - Sant Gervasi,2,under 11,9,"Carrer de Ramon Turró, 13",08005 Barcelona
+71,Sonora,3,Pubs,Parc i Llacuna del Poblenou,20,under 11,21,"Carrer de Roger de Llúria, 87",08009 Barcelona
+72,Kentucky,4,Pubs,El Raval,13,[12 - 33],15,"Carrer de Montcada, 22",08003 Barcelona
+73,Bloody Mary,4.5,Cocktail Bars,Gràcia,9,[12 - 33],54,"Carrer del Consell de Cent, 313",08007 Barcelona
+74,Paspartú,5,Pubs,"Sant Pere, Santa Caterina i la Ribera-Born",10,[12 - 33],8,"Carrer Vila i Vila, 77",08004 Barcelona
+75,Kahiki,2.5,Pubs,L'Eixample,7,[34 - 66],7,"Carrer de Montcada, 22",08003 Barcelona
+76,Zim,4.5,Wine Bars,Barri Gòtic,10,[12 - 33],5,"Ronda de la Universitat, 20",08007 Barcelona
+77,Cervecería Jazz,4.5,Tapas Bars,El Poble-sec,10,[34 - 66],13,"Carrer de la Ribera, 18",08003 Barcelona
+78,Bubblic,4,Pubs,Sarrià - Sant Gervasi,5,[12 - 33],8,"Carrer del Torrent de les Flors, 71",08024 Barcelona
+79,Bobby Gin,4.5,Cocktail Bars,Gràcia,54,[12 - 33],77,"Carrer de l'Argenteria, 62",08003 Barcelona
+80,Filomena,4.5,Gastropubs,L'Eixample,7,[12 - 33],36,"Carrer del Carme, 40",08001 Barcelona
+81,Filomena,4.5,Gastropubs,L'Eixample,7,[12 - 33],36,"Carrer del Carme, 40",08001 Barcelona
+82,La Principal,3.5,Breakfast & Brunch,L'Eixample,16,under 11,41,"Travessera de Grácia, 441",08025 Barcelona
+83,Tequila 44,4,Pubs,Barri Gòtic,12,[12 - 33],23,"Carrer de la Mercè, 28",08002 Barcelona
+84,Coctelería Cooler,4,Cocktail Bars,L'Eixample,12,[12 - 33],40,"Carrer Roger de Flor, 303",08025 Barcelona
+85,El Rouge,4,Pubs,El Poble-sec,4,[34 - 66],9,"Carrer de Rocafort, 70",08015 Barcelona
+86,El Rouge,4,Pubs,El Poble-sec,4,[34 - 66],9,"Carrer de Rocafort, 70",08015 Barcelona
+87,Inch Bar,4.5,Pubs,Gràcia,11,under 11,11,"Carrer de San Pau, 4",08001 Barcelona
+88,Bar International Beer,2.5,Spanish,Barri Gòtic,16,under 11,30,"Carrer de Bonavista, 8",08012 Barcelona
+89,Marula Café,4,Dance Clubs,Barri Gòtic,18,[12 - 33],17,"Carrer de l'Elisi, 13",08014 Barcelona
+90,Le Cyrano,4,Pubs,L'Eixample,9,under 11,4,"Paseo Juan de Borbón, 69",08003 Barcelona
+91,Bar Fidel,4.5,Bars,El Raval,17,under 11,18,"Carrer d'Aribau, 137",08036 Barcelona
+92,La Gorda,4,Beer Bar,Sants,1,[12 - 33],5,"Carrer d'Entença, 2",08015 Barcelona
+93,La República,4,Argentine,Barri Gòtic,16,[12 - 33],64,"Calle del Carme, 19",08001 Barcelona
+94,Marmalade,4,Lounges,El Raval,68,[12 - 33],125,"Carrer de Pau Claris, 142",08009 Barcelona
+95,Colombo,4,Pubs,Barceloneta,7,[12 - 33],11,"Carrer dels Sombrerers, 7",08003 Barcelona
+96,Versailles,4.5,Gay Bars,L'Eixample,4,under 11,17,"Carrer de l'Almirall Churruca, 4",08003 Barcelona
+97,Ginger,4,Cocktail Bars,Barri Gòtic,9,[12 - 33],21,"Carrer de la Plata, 4",08002 Barcelona
+98,Milk Bar & Bistro,4.5,American (Traditional),Barri Gòtic,431,[12 - 33],649,Carrer de Verdaguer i Callís 9,08003 Barcelona
+99,Butyklan,3.5,Pubs,L'Eixample,7,[12 - 33],6,"Carrer de Doctor Fleming, 10",08017 Barcelona
+100,The Fastnet,3.5,Gastropubs,Barceloneta,8,under 11,6,"Gran Via de les Corts Catalanes, 688",08010 Barcelona
+101,The Fastnet,3.5,Gastropubs,Barceloneta,8,under 11,6,"Gran Via de les Corts Catalanes, 688",08010 Barcelona
+102,Síncopa,3.5,Pubs,Barri Gòtic,9,[12 - 33],12,"Carrer de Sant Antoni dels Sombrerers, 3",08003 Barcelona
+103,Alfa Bar,4,Pubs,Gràcia,6,[12 - 33],11,"Passeig Marítim de la Barceloneta, 32",08003 Barcelona
+104,Sensi,4.5,Tapas/Small Plates,Barri Gòtic,377,[12 - 33],681,"Carrer del Baluard, 56",08003 Barcelona
+105,Rabipelao,3.5,Pubs,Barri Gòtic,9,under 11,17,"Carrer de Mallorca, 251",08008 Barcelona
+106,La Bodeguita Bright,4.5,Pubs,L'Eixample,4,under 11,48,"Plaça Santa Caterina, 1",08003 Barcelona
+107,Bar Mut,4.5,Wine Bars,L'Eixample,149,[34 - 66],294,"Carrer del Parlament, 53",08015 Barcelona
+108,Caribbean Club,5,Cocktail Bars,El Raval,11,[34 - 66],18,"Carrer d'Aribau, 125",08036 Barcelona
+109,Gracia Latina,3.5,Pubs,Gràcia,4,[12 - 33],13,"Carrer Minerva, 8",08006 Barcelona
+110,33/45,4,Pubs,El Raval,17,under 11,11,"Carrer de Jaume I, 8-10",08002 Barcelona
+111,33/45,4,Pubs,El Raval,17,under 11,11,"Carrer de Jaume I, 8-10",08002 Barcelona
+112,Pesca Salada,4.5,Cocktail Bars,El Raval,12,[12 - 33],10,"Carrer de la Diputació, 321",08009 Barcelona
+113,Nello’s,2,Burgers,L'Eixample,5,[12 - 33],14,"Carrer de València, 352",08009 Barcelona
+114,Kaizen Afterwork,5,Cocktail Bars,Poblenou,1,[12 - 33],28,"Carrer d'Entença, 57",08015 Barcelona
+115,Manchester,3.5,Music Venues,Barri Gòtic,9,under 11,6,"Carrer de Montcada, 2",08003 Barcelona
+116,Bar Malasang,4.5,Catalan,L'Eixample,10,[12 - 33],24,"Carrer d'Elisabets, 2",08001 Barcelona
+117,Mandri,4,Tapas Bars,Sarrià - Sant Gervasi,12,[12 - 33],10,"Passeig de Joan de Borbó, 101",08039 Barcelona
+118,Els Tres Porquets,4,Spanish,Sant Martí,9,[34 - 66],114,"Gran Via de les Corts Catalanes, 667",08010 Barcelona
+119,Quilombo,4,Karaoke,L'Eixample,8,[12 - 33],5,"Carrer Nou de la Rambla, 105",08001 Barcelona
+120,Pastís,3.5,Pubs,El Raval,6,[12 - 33],4,"Rambla de Catalunya, 12",08007 Barcelona
+121,Opera Samfaina,4,Pubs,El Raval,11,[12 - 33],65,"Carrer de la Diputació, 375",08013 Barcelona
+122,Black Velvet,4,Lounges,El Poble-sec,1,[12 - 33],10,"Carrer de la Diputació, 269",08007 Barcelona
+123,Thales,3.5,Dive Bars,Barri Gòtic,8,under 11,14,"Carrer del Consell de Cent, 339",08007 Barcelona
+124,Homo Sibaris,4,Spanish,Sants,27,under 11,49,"Carrer de Tamarit, 142",08015 Barcelona
+125,El Circulo,5,Pubs,"Sant Pere, Santa Caterina i la Ribera-Born",1,[12 - 33],11,"Carrer de Ramon Trias Fargas, 2",08005 Barcelona

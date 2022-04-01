@@ -13,7 +13,7 @@ import plotly.express as px
 # hotel_df = pd.read_csv(r"C:\Users\Lenovo\OneDrive\Documents\Strive repos\BW1-Yelp_database\hotel_df_cleaned.csv")
 
 resto_df = pd.read_csv("Resto_df_cleaned.csv")
-pub_df = pd.read_csv("pub_df_cleaned3.csv")
+pub_df = pd.read_csv("pub_df_cleaned4.csv")
 hotel_df = pd.read_csv("hotel_df_cleaned.csv")
 
 
@@ -58,7 +58,7 @@ elif menu == 'Restaurant':
     resto = pd.read_csv('theo/resto_dataset.csv')
 
 
-    sidebar_select = st.sidebar.radio('GRAPH', ['Distribution reviews rating', 'Neighborhood', 'Price range', 'Category','Photo_review_rating', 'Location'])
+    sidebar_select = st.sidebar.radio('GRAPH', ['Distribution reviews rating', 'Neighborhood', 'Price range', 'Category','Relationship between number of photos and reviews', 'Location'])
 
 
 
@@ -104,7 +104,7 @@ elif menu == 'Restaurant':
         st.plotly_chart(fig)
 
 
-    elif sidebar_select == 'Photo_review_rating':
+    elif sidebar_select == 'Relationship between number of photos and reviews':
         fig = px.scatter(data_frame=resto_df, x = 'nb_photos', y = 'Review count', color='Rating', height=600, width=800, 
         labels={'Review count': 'Number of reviews', 'nb_photos': 'Number of photos'}, 
         title= 'Relationship between the number of reviews and photos')
@@ -117,7 +117,7 @@ elif menu == 'Pubs':
     pub = pd.read_csv('theo/pub_dataset.csv')
 
 
-    sidebar_select = st.sidebar.radio('Graphs', ['Neighborhood', 'Price range', 'Category', 'Distribution reviews rating', 'Location'])
+    sidebar_select = st.sidebar.radio('Graphs', ['Neighborhood', 'Price range', 'Category', 'Distribution reviews rating', 'Relationship between the number of reviews and photos', 'Location'])
 
 
     if sidebar_select == 'Neighborhood':
@@ -147,7 +147,11 @@ elif menu == 'Pubs':
         fig = px.box(data_frame=pub_df, x = 'rating', y = 'reviews', template='ggplot2', height=600, width=800, title='Distribution of the number of reviews and rating')
 
         st.plotly_chart(fig)
-
+    elif sidebar_select == 'Relationship between number of photos and reviews':
+        fig = px.scatter(data_frame=pub_df, x = 'nb_photos', y = 'Review count', color='Rating', height=600, width=800, 
+        labels={'Review count': 'Number of reviews', 'nb_photos': 'Number of photos'}, 
+        title= 'Relationship between the number of reviews and photos')
+        st.plotly_chart(fig)
 
     elif sidebar_select == 'Location':
         pub = pub[pub.reviews.notnull()]
