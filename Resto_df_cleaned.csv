@@ -1,0 +1,208 @@
+,name,Rating,Review count,Price range,Category,Neighbourhood,nb_photos,street,postal_code
+0,Cerveseria Catalana,4.5,1279,[12 - 33],Spanish,L'Eixample,3852,"Carrer de Mallorca, 236",08008 Barcelona
+1,My Fucking Restaurant,4.5,89,[34 - 66],Catalan,El Raval,235,"Carrer Nou de la Rambla, 35",08001 Barcelona
+2,Ciutat Comtal,4.0,1120,[12 - 33],Tapas Bars,L'Eixample,3450,"Rambla de Catalunya, 18",08007 Barcelona
+3,Tapeo,4.5,451,[12 - 33],Tapas Bars,"Sant Pere, Santa Caterina i la Ribera-Born",1114,"Carrer de Montcada, 29",08003 Barcelona
+4,Arume,4.5,633,[12 - 33],Mediterranean,El Raval,1600,"Carrer d'En Botella, 11",08007 Barcelona
+5,Taquerías Tamarindo,4.5,208,under 11,Mexican,L'Eixample,326,"Carrer de Aragón, 236",08007 Barcelona
+6,Vinitus,4.5,304,[12 - 33],Tapas Bars,L'Eixample,1075,"Carrer Del Consell de Cent, 333",08007 Barcelona
+7,Somorrostro,4.5,368,[12 - 33],Catalan,Barceloneta,905,"Carrer de Sant Carles, 11",08003 Barcelona
+8,Cañete,4.5,392,[34 - 66],Tapas/Small Plates,El Raval,1156,"Carrer de la Unió, 17",08001 Barcelona
+9,Firebug,4.5,125,[12 - 33],Tapas Bars,L'Eixample,258,"Passeig de Sant Joan, 23",08010 Barcelona
+10,Firebug,4.5,125,[12 - 33],Tapas Bars,L'Eixample,614,"Passeig de Sant Joan, 23",08010 Barcelona
+11,El Nacional,4.0,330,[12 - 33],Seafood,L'Eixample,1326,"Passeig de Gracia, 24",08007 Barcelona
+12,Tucco Real Food Born,4.5,618,under 11,Argentine,"Sant Pere, Santa Caterina i la Ribera-Born",1340,"Carrer del Consolat de Mar, 23",08003 Barcelona
+13,Disfrutar,5.0,110,over 67,Modern European,L'Eixample,404,"Carrer de Villarroel, 163",08036 Barcelona
+14,Tosca,4.5,240,[12 - 33],Spanish,"Sant Pere, Santa Caterina i la Ribera-Born",85,"Carrer de Sant Pere Més Alt, 8",08003 Barcelona
+15,Brunch & Cake,4.0,852,[12 - 33],Breakfast & Brunch,L'Eixample,419,"Carrer d'Enric Granados, 145",08008 Barcelona
+16,Brunch & Cake,4.5,54,[12 - 33],Desserts,L'Eixample,134,"Carrer d'Enric Granados, 145",08008 Barcelona
+17,Can Paixano,4.5,378,under 11,Tapas/Small Plates,"Sant Pere, Santa Caterina i la Ribera-Born",184,"Carrer de la Reina Cristina, 7",08003 Barcelona
+18,El Pintxo de Petritxol,4.5,109,[12 - 33],Basque,Barri Gòtic,20,"Carrer de Petritxol, 9",08002 Barcelona
+19,Boa-Bao,4.5,6,,Cocktail Bars,L'Eixample,105,"Plaça del Dr. Letamendi, 1",08007 Barcelona
+20,El Asador de Aranda,4.5,28,[34 - 66],Steakhouses,L'Eixample,576,"Calle Pau Claris, 70",08010 Barcelona
+21,El Asador de Aranda,4.5,28,[34 - 66],Steakhouses,L'Eixample,416,"Calle Pau Claris, 70",08010 Barcelona
+22,Restaurant La Tasqueta de Blai,4.5,230,under 11,Tapas Bars,El Poble-sec,,"Carrer de Blai, 17",08004 Barcelona
+23,Telefèric,4.0,178,[12 - 33],Tapas/Small Plates,L'Eixample,2292,"Plaça Doctor Letamendi, 27",08007 Barcelona
+24,Arcano,4.5,292,[34 - 66],Spanish,"Sant Pere, Santa Caterina i la Ribera-Born",43,,
+25,Tickets,4.5,195,over 67,Tapas Bars,L'Eixample,1224,"Avenida del Paral·lel, 164",08015 Barcelona
+26,El Jardín del Edén,4.5,16,,Tapas Bars,El Raval,132,"Carrer de Jovellanos, 3",08001 Barcelona
+27,Cera 23,4.5,555,[12 - 33],Spanish,El Raval,155,"Carrer de la Cera, 23",08001 Barcelona
+28,A Tu Bola,4.5,79,under 11,Tapas/Small Plates,El Raval,294,Carrer Hospital 78,08001 Barcelona
+29,A Tu Bola,4.5,79,under 11,Tapas/Small Plates,El Raval,,Carrer Hospital 78,08001 Barcelona
+30,Guell,4.5,64,[12 - 33],Tapas/Small Plates,El Raval,97,"Calle Nou de la Rambla, 20",08001 Barcelona
+31,Bar Mut,4.5,149,[34 - 66],Wine Bars,L'Eixample,27,"Carrer de Pau Claris, 192",08037 Barcelona
+32,Bar Mut,4.5,149,[34 - 66],Wine Bars,L'Eixample,136,"Carrer de Pau Claris, 192",08037 Barcelona
+33,Buenos Aires,4.5,55,[12 - 33],Steakhouses,L'Eixample,1065,"Carrer Valencia, 189",08011 Barcelona
+34,Le Romane,5.0,12,,Italian,L'Eixample,237,"Carrer de Muntaner, 103",08011 Barcelona
+35,La Pepita,4.5,514,[12 - 33],Tapas Bars,Gràcia,99,"Carrer de Còrsega, 343",08037 Barcelona
+36,Cachitos,4.0,98,[12 - 33],Tapas Bars,L'Eixample,78,"Rambla Catalunya, 33",08007 Barcelona
+37,2254,4.5,62,[34 - 66],French,L'Eixample,46,"Consell de Cent, 335",08007 Barcelona
+38,2254,4.5,62,[34 - 66],French,L'Eixample,191,"Consell de Cent, 335",08007 Barcelona
+39,Federal,4.5,55,under 11,Cafeteria,Barri Gòtic,280,"Passatge de la Pau, 11",08002 Barcelona
+40,Federal,4.5,55,under 11,Cafeteria,Barri Gòtic,39,"Passatge de la Pau, 11",08002 Barcelona
+41,Lizarran,4.0,52,under 11,Tapas Bars,L'Eixample,662,"Carrer de Mallorca, 257",08008 Barcelona
+42,Momo,4.5,23,[12 - 33],Spanish,Barri Gòtic,272,"Carrer Arc de Sant Ramon del Call, 6",08002 Barcelona
+43,Paradiso,4.5,105,[12 - 33],Spanish,"Sant Pere, Santa Caterina i la Ribera-Born",161,"Carrer de Rera Palau, 4",08003 Barcelona
+44,Sensi,4.5,377,[12 - 33],Tapas/Small Plates,Barri Gòtic,262,,
+45,Alsur Café,4.0,325,under 11,Breakfast & Brunch,L'Eixample,99,"Carrer de Roger de Llúria, 23",08010 Barcelona
+46,Maitea,4.5,128,[12 - 33],Spanish,L'Eixample,288,"Carrer de Casanova, 155",08036 Barcelona
+47,Betlem,4.5,61,[12 - 33],Gastropubs,L'Eixample,126,"Carrer de Girona, 70",08009 Barcelona
+48,Llamber,4.5,133,[34 - 66],Spanish,"Sant Pere, Santa Caterina i la Ribera-Born",22,"Carrer Fusina, 5",08003 Barcelona
+49,Micu Maku,4.5,13,under 11,Arroceria / Paella,L'Eixample,444,"Carrer d'Aribau, 22",08011 Barcelona
+50,O’Toxo 3 Hermanos,4.5,92,[12 - 33],Spanish,El Raval,71,"Carrer del Carme, 59",08001 Barcelona
+51,Bilbao Berria,4.0,152,[12 - 33],Spanish,Barri Gòtic,146,"Plaça Nova, 3",08002 Barcelona
+52,La Cuina de Laietana,4.5,23,[12 - 33],Mediterranean,Barri Gòtic,17,"Via Laietana, 71",08003 Barcelona
+53,Macchina,4.5,32,under 11,Bars,L'Eixample,359,"Carrer d'Astúries, 17",08012 Barcelona
+54,Macchina,4.5,82,under 11,Italian,Gràcia,14,"Carrer d'Astúries, 17",08012 Barcelona
+55,Bo de Boqueria,5.0,15,,Spanish,El Raval,146,"Carrer Petxina, 5-7",08001 Barcelona
+56,Caravelle,4.5,223,[12 - 33],Breakfast & Brunch,El Raval,120,"Carrer del Pintor Fortuny, 31",08001 Barcelona
+57,La Bodegueta,4.0,36,[34 - 66],Spanish,L'Eixample,32,"Rambla de Catalunya, 100",08002 Barcelona
+58,Raó,4.5,32,,Mediterranean,El Raval,166,"Carrer de les Sitges, 3",08001 Barcelona
+59,Terrace la Isabela,4.5,2,[34 - 66],Spanish,El Raval,15,"Les Rambles, 109",08002 Barcelona
+60,El Vaso de Oro,4.5,178,[12 - 33],Tapas Bars,Barceloneta,172,"Carrer de Balboa, 6",08003 Barcelona
+61,9 Nine,5.0,45,[34 - 66],Mediterranean,L'Eixample,30,"Carrer València, 334",08009 Barcelona
+62,Paco Alcalde,4.5,41,[12 - 33],Seafood,Barceloneta,1380,"Carrer de l'Almirall Aixada, 12",08003 Barcelona
+63,Xian,4.5,11,,Chinese,Barri Gòtic,138,"Carrer de Ferran, 39",
+64,Casa Alfonso,4.0,108,[12 - 33],Tapas Bars,L'Eixample,104,"Carrer de Roger de Llúria, 6",08010 Barcelona
+65,La Caravana,5.0,15,under 11,Middle Eastern,Gràcia,124,"Carrer de Mozart, 15",08012 Barcelona
+66,Mosquito,4.0,144,under 11,Asian Fusion,"Sant Pere, Santa Caterina i la Ribera-Born",564,"Carrer dels Carders, 46",08003 Barcelona
+67,Nubar,4.5,4,,Spanish,L'Eixample,146,"Passeig de Gràcia, 53",08007 Barcelona
+68,Quimet & Quimet,4.5,454,[12 - 33],Tapas Bars,El Poble-sec,332,"Carrer del Poeta Cabanyes, 25",08004 Barcelona
+69,La Bombeta,4.5,84,[12 - 33],Tapas Bars,Barceloneta,756,"Carrer de la Maquinista, 3",08003 Barcelona
+70,Billy Brunch,5.0,42,,Breakfast & Brunch,L'Eixample,86,"Carrer de Bailèn, 115",08009 Barcelona
+71,Billy Brunch,5.0,42,,Breakfast & Brunch,L'Eixample,,"Carrer de Bailèn, 115",08009 Barcelona
+72,Citizen Café,4.5,53,[12 - 33],Breakfast & Brunch,L'Eixample,649,"Plaça d'Urquinaona, 4",08010 Barcelona
+73,Pinotxo Bar,4.5,218,[12 - 33],Spanish,El Raval,193,"La Rambla, 91",08002 Barcelona
+74,Gata Mala,5.0,140,under 11,Tapas Bars,Gràcia,13,"Carrer de Rabassa, 37",08024 Barcelona
+75,Elsa y Fred,4.5,149,[12 - 33],Breakfast & Brunch,"Sant Pere, Santa Caterina i la Ribera-Born",87,"Carrer del Rec Comtal, 11",08003 Barcelona
+76,Flax & Kale,4.0,265,[12 - 33],Spanish,El Raval,77,"Carrer dels Tallers, 74",08001 Barcelona
+77,La Tagliatella,4.0,72,[12 - 33],Italian,L'Eixample,84,"Carrer de Pau Claris, 118",08009 Barcelona
+78,Milk Bar & Bistro,4.5,431,[12 - 33],American (Traditional),Barri Gòtic,38,"Carrer d'en Gignàs, 21",08002 Barcelona
+79,Eat My Trip,4.5,73,[12 - 33],Breakfast & Brunch,L'Eixample,139,"Carrer del Consell de Cent, 378",08009 Barcelona
+80,Eat My Trip,4.5,73,[12 - 33],Breakfast & Brunch,L'Eixample,46,"Carrer del Consell de Cent, 378",08009 Barcelona
+81,Chongqing Liuyishou Hotpot,4.5,5,,Chinese,L'Eixample,1114,"Carrer del Consell de Cent, 303",08007 Barcelona
+82,Benzina,4.5,13,,Italian,L'Eixample,254,"Passatge de Pere Calders, 6",08015 Barcelona
+83,El Arbol Brunch,4.5,39,[12 - 33],Modern European,L'Eixample,534,"Carrer d' Aribau, 36",08011 Barcelona
+84,Las Sorrentinas,4.5,44,under 11,Italian,"Sant Pere, Santa Caterina i la Ribera-Born",11,"Plaça de Sant Pere, 5",08003 Barcelona
+85,Luigi,4.5,43,[12 - 33],Pizza,L'Eixample,188,"Carrer de Roger de Llúria, 50",08009 Barcelona
+86,Chen Ji,4.0,98,under 11,Chinese,L'Eixample,,"Carrer d'Ali Bei, 65",08013 Barcelona
+87,El Quim de la Boqueria,4.5,253,[12 - 33],Tapas Bars,El Raval,132,"La Rambla, 91",
+88,Rosa Negra,4.0,230,[12 - 33],Mexican,"Sant Pere, Santa Caterina i la Ribera-Born",52,"Via Laietana, 46",08003 Barcelona
+89,La Paradeta,4.5,44,[34 - 66],Seafood,L'Eixample,194,"Passatge de Simó, 18",08025 Barcelona
+90,La Paradeta,4.5,155,[12 - 33],Seafood,"Sant Pere, Santa Caterina i la Ribera-Born",148,"Passatge de Simó, 18",08025 Barcelona
+91,La Paradeta,4.5,44,[34 - 66],Seafood,L'Eixample,41,"Passatge de Simó, 18",08025 Barcelona
+92,La Paradeta,4.5,155,[12 - 33],Seafood,"Sant Pere, Santa Caterina i la Ribera-Born",55,"Passatge de Simó, 18",08025 Barcelona
+93,La Paradeta,4.5,206,[12 - 33],Seafood,L'Eixample,254,"Passatge de Simó, 18",08025 Barcelona
+94,Babula,5.0,2,,Cocktail Bars,L'Eixample,118,"Carrer de Pau Claris, 139",08009 Barcelona
+95,Batuar,4.5,8,over 67,Mediterranean,L'Eixample,,Cotton House,
+96,La Alcoba Azul,4.5,132,[12 - 33],Tapas Bars,Barri Gòtic,525,"Carrer de Sant Domenec del Call, 14",08002 Barcelona
+97,Doña Rosa,4.5,2,,Mediterranean,El Raval,107,,
+98,Doña Rosa,4.5,2,,Mediterranean,El Raval,115,,
+99,Lasarte,4.5,67,over 67,Spanish,L'Eixample,,,
+100,Paella Bar,4.0,44,[12 - 33],Spanish,El Raval,90,"Pòrtics de la Boqueria, s/n",
+101,Paella Bar,4.0,44,[12 - 33],Spanish,El Raval,11,"Pòrtics de la Boqueria, s/n",
+102,La Lluna,4.5,28,[12 - 33],Spanish,Barri Gòtic,130,"Carrer de Santa Anna, 20",08002 Barcelona
+103,Tantarantana,4.5,63,[12 - 33],Spanish,"Sant Pere, Santa Caterina i la Ribera-Born",23,"Carrer Tantarantana, 24",08003 Barcelona
+104,Pepito,4.5,27,[34 - 66],Spanish,L'Eixample,47,"Passatge de Domingo, 3",08007 Barcelona
+105,Tandoori Nights,4.5,48,under 11,Indian,El Raval,112,"Carrer de les Carretes, 44",08001 Barcelona
+106,Eden,4.5,118,[12 - 33],Pizza,L'Eixample,673,,
+107,Eden,4.5,118,[12 - 33],Pizza,L'Eixample,208,,
+108,Botafumeiro,4.0,169,over 67,Seafood,Gràcia,32,"Carrer Gran de Gràcia, 81",08012 Barcelona
+109,L’Amfora Barcelona,4.5,30,[34 - 66],Mediterranean,L'Eixample,98,"Avinguda del Paraŀlel, 184",08015 Barcelona
+110,Los Pergaminos,4.5,84,[12 - 33],Tapas Bars,Barri Gòtic,11,,
+111,La Pineda,4.5,24,[12 - 33],Spanish,Barri Gòtic,72,"Carrer del Pi, 16",08002 Barcelona
+112,Restaurante Bodega Joan,4.0,35,[12 - 33],Tapas Bars,L'Eixample,168,"Carrer del Rosselló, 164",08036 Barcelona
+113,Els Pollos de Llull,4.5,21,[12 - 33],Spanish,Parc i Llacuna del Poblenou,96,"Carrer de Ramon Turró, 13",08005 Barcelona
+114,Bella Italia,4.5,9,[12 - 33],Italian,L'Eixample,4,"Carrer de Roger de Llúria, 87",08009 Barcelona
+115,El Boliche del Gordo Cabrera,4.0,18,[12 - 33],Latin American,L'Eixample,52,"Carrer del Consell de Cent, 338",08009 Barcelona
+116,La Fermata,4.5,56,under 11,Pizza,L'Eixample,185,"Carrer de Provença, 243",08008 Barcelona
+117,El Xampanyet,4.5,279,[12 - 33],Tapas Bars,"Sant Pere, Santa Caterina i la Ribera-Born",39,"Carrer de Montcada, 22",08003 Barcelona
+118,El Xampanyet,4.5,279,[12 - 33],Tapas Bars,"Sant Pere, Santa Caterina i la Ribera-Born",131,"Carrer de Montcada, 22",08003 Barcelona
+119,Salterio,4.5,66,[12 - 33],Tea Rooms,Barri Gòtic,27,"Carrer de Sant Domènec del Call, 4",08002 Barcelona
+120,Salterio,4.5,66,[12 - 33],Tea Rooms,Barri Gòtic,54,"Carrer de Sant Domènec del Call, 4",08002 Barcelona
+121,Cremat 11,5.0,15,,Breakfast & Brunch,"Sant Pere, Santa Caterina i la Ribera-Born",31,"Carrer Cremat Gran, 11",08003 Barcelona
+122,Cremat 11,5.0,15,,Breakfast & Brunch,"Sant Pere, Santa Caterina i la Ribera-Born",41,"Carrer Cremat Gran, 11",08003 Barcelona
+123,Cecconi’s,4.5,26,[34 - 66],Italian,Barri Gòtic,67,"Passeig de Colom, 20",08002 Barcelona
+124,Rosat’s,4.5,2,under 11,Spanish,Sants,,"Carrer Creu Coberta, 58",08014 Barcelona
+125,Rosat’s,4.5,2,under 11,Spanish,Sants,43,"Carrer Creu Coberta, 58",08014 Barcelona
+126,Pirineu en Boca,4.5,14,[12 - 33],Spanish,L'Eixample,30,"Carrer de Girona, 17",08010 Barcelona
+127,Pirineu en Boca,4.5,14,[12 - 33],Spanish,L'Eixample,11,"Carrer de Girona, 17",08010 Barcelona
+128,Gaudim,4.5,53,[34 - 66],Tapas Bars,L'Eixample,71,"Carrer d'Aragó, 231",08007 Barcelona
+129,Le Cucine Mandarosso,4.5,73,[12 - 33],Italian,"Sant Pere, Santa Caterina i la Ribera-Born",49,"Carrer de Verdaguer i Callís, 4",08003 Barcelona
+130,Bella Istanbul,5.0,2,under 11,Turkish,L'Eixample,201,"Carrer del Consell de Cent, 313",08007 Barcelona
+131,Abirradero,4.5,27,[12 - 33],Beer Bar,El Poble-sec,28,"Carrer Vila i Vila, 77",08004 Barcelona
+132,Bodega La Puntual,4.5,57,[12 - 33],Catalan,"Sant Pere, Santa Caterina i la Ribera-Born",183,"Carrer de Montcada, 22",08003 Barcelona
+133,The Ranch Smokehouse,4.0,9,,American (Traditional),L'Eixample,36,"Ronda de la Universitat, 20",08007 Barcelona
+134,Alsur Café & Backdoor Bar,5.0,20,under 11,Cocktail Bars,"Sant Pere, Santa Caterina i la Ribera-Born",65,"Carrer de la Ribera, 18",08003 Barcelona
+135,Lluritu,5.0,5,,Seafood,Gràcia,83,"Carrer del Torrent de les Flors, 71",08024 Barcelona
+136,Bonavida,4.5,10,under 11,Pubs,L'Eixample,23,"Carrer de Casp, 22",08010 Barcelona
+137,Morryssom,4.0,54,under 11,Tapas Bars,L'Eixample,105,"Carrer de Girona, 162",08037 Barcelona
+138,La Esquina,4.5,31,[12 - 33],Cafeteria,L'Eixample,80,,
+139,Sagardi BCN Gòtic,4.0,125,[12 - 33],Basque,"Sant Pere, Santa Caterina i la Ribera-Born",66,"Carrer de l'Argenteria, 62",08003 Barcelona
+140,Mastica,5.0,6,,Pizza,El Raval,21,"Carrer del Carme, 40",08001 Barcelona
+141,Bar Rubí,4.5,38,under 11,Spanish,"Sant Pere, Santa Caterina i la Ribera-Born",20,"Carrer Banys Vells, 6",08003 Barcelona
+142,Foc i Oli,5.0,91,[12 - 33],Sandwiches,L'Eixample,131,"Carrer Aribau, 91",08036 Barcelona
+143,Bell e Buon,5.0,30,[34 - 66],Pizza,Horta-Guinardó,119,"Travessera de Grácia, 441",08025 Barcelona
+144,La Plata,4.5,126,under 11,Tapas/Small Plates,Barri Gòtic,,"Carrer de la Mercè, 28",08002 Barcelona
+145,Roast Club Cafe,5.0,16,[12 - 33],Cafeteria,L'Eixample,126,"Carrer Valencia, 143",08011 Barcelona
+146,Brasayleña,5.0,2,,Brazilian,Parc i Llacuna del Poblenou,432,C.C. les Glories,
+147,Somewhere,4.5,28,under 11,Breakfast & Brunch,L'Eixample,141,"Carrer d'Aragó, 310",08009 Barcelona
+148,Can Ros,4.5,10,under 11,Tapas/Small Plates,Gràcia,168,"Carrer Roger de Flor, 303",08025 Barcelona
+149,The Fish & Chips Shop,4.5,44,under 11,Fish & Chips,L'Eixample,69,"Carrer de Rocafort, 70",08015 Barcelona
+150,Tabarlot,4.5,44,[12 - 33],Catalan,El Raval,36,"Carrer de San Pau, 4",08001 Barcelona
+151,Bar But,4.5,11,[12 - 33],Bars,Gràcia,102,"Carrer de Bonavista, 8",08012 Barcelona
+152,Bacaro,4.5,19,[12 - 33],Italian,El Raval,40,"Carrer de Jerusalem, 6",08001 Barcelona
+153,Zarautz,4.5,122,[12 - 33],Basque,Sants,78,"Carrer de l'Elisi, 13",08014 Barcelona
+154,Sol Soler,4.0,56,under 11,Tapas Bars,Gràcia,36,"Plaça del Sol, 21",08012 Barcelona
+155,Amarre 69,4.5,14,[12 - 33],Tapas Bars,Barceloneta,70,"Paseo Juan de Borbón, 69",08003 Barcelona
+156,Uma,5.0,16,,Signature Cuisine,L'Eixample,34,"Carrer de Mallorca, 275",08008 Barcelona
+157,TAPS,5.0,31,under 11,Tapas Bars,El Poble-sec,46,"Carrer de Mare de Deu del Remei, 53",08004 Barcelona
+158,Bodega La Palma,4.5,37,[12 - 33],Wine Bars,Barri Gòtic,119,"Carrer de la Palma de Sant Just, 7",08002 Barcelona
+159,El Brunch del Majestic,4.0,1,,Mediterranean,L'Eixample,,"Passeig de Gracia, 68",08007 Barcelona
+160,Viet Kitchen,4.5,5,,Vietnamese,L'Eixample,144,"Carrer d'Aribau, 137",08036 Barcelona
+161,Hänsel,4.5,73,under 11,Breakfast & Brunch,L'Eixample,151,"Carrer de Provença, 237",08008 Barcelona
+162,Maestró,4.0,33,[12 - 33],Beer Bar,L'Eixample,6,"Rambla de Catalunya, 79",08007 Barcelona
+163,210 Grammi,5.0,2,,Italian,Parc i Llacuna del Poblenou,26,,
+164,Pulpería A Gudiña,4.0,46,[12 - 33],Spanish,L'Eixample,102,"Carrer d'Entença, 2",08015 Barcelona
+165,Miño,4.0,194,[12 - 33],Seafood,El Raval,134,"Calle del Carme, 19",08001 Barcelona
+166,Café Emma,4.0,30,[12 - 33],French,L'Eixample,301,"Carrer de Pau Claris, 142",08009 Barcelona
+167,Marina Bay,4.0,35,[12 - 33],Seafood,La Vila Olímpica,50,"Carrer de la Marina, 19 - 21",08005 Barcelona
+168,Marina Bay,4.0,35,[12 - 33],Seafood,La Vila Olímpica,6,"Carrer de la Marina, 19 - 21",08005 Barcelona
+169,El Chigre 1769,4.5,25,[34 - 66],Tapas/Small Plates,"Sant Pere, Santa Caterina i la Ribera-Born",107,"Carrer dels Sombrerers, 7",08003 Barcelona
+170,Taverna Iberia,4.5,20,under 11,Spanish,Barceloneta,64,"Carrer de l'Almirall Churruca, 4",08003 Barcelona
+171,Maccaroni,4.5,57,[12 - 33],Italian,"Sant Pere, Santa Caterina i la Ribera-Born",103,"Carrer Carders, 6",08003 Barcelona
+172,Pizzeria Da Nanni,5.0,22,,Pizza,Barri Gòtic,39,"Carrer de la Llibreteria, 10",08002 Barcelona
+173,Informal,5.0,27,[34 - 66],Catalan,Barri Gòtic,85,"Carrer de la Plata, 4",08002 Barcelona
+174,El Bitxo,4.5,44,[12 - 33],Tapas/Small Plates,"Sant Pere, Santa Caterina i la Ribera-Born",24,Carrer de Verdaguer i Callís 9,08003 Barcelona
+175,Cinco Jotas,4.0,15,[12 - 33],Spanish,L'Eixample,5,"Rambla de  Catalunya, 91",08008 Barcelona
+176,Ribs,4.5,3,[12 - 33],American (Traditional),Sarrià - Sant Gervasi,63,"Carrer de Doctor Fleming, 10",08017 Barcelona
+177,Agust,4.5,44,[12 - 33],Mediterranean,L'Eixample,129,"Carrer del Parlament, 54",08015 Barcelona
+178,La Taverna de L’Eixample,4.0,12,under 11,Mediterranean,L'Eixample,14,"Gran Via de les Corts Catalanes, 688",08010 Barcelona
+179,9 Reinas,4.5,53,[34 - 66],Argentine,L'Eixample,,"Carrer de València, 267",08007 Barcelona
+180,Sintonia,4.5,2,,Cocktail Bars,L'Eixample,19,,
+181,Honest Greens,5.0,22,,Vegetarian,L'Eixample,37,"Rambla de Catalunya, 3",08007 Barcelona
+182,Honest Greens,5.0,22,,Vegetarian,L'Eixample,111,"Rambla de Catalunya, 3",08007 Barcelona
+183,Estimar,4.5,19,over 67,Seafood,"Sant Pere, Santa Caterina i la Ribera-Born",163,"Carrer de Sant Antoni dels Sombrerers, 3",08003 Barcelona
+184,CDLC,4.0,87,[34 - 66],Asian Fusion,Barceloneta,65,"Passeig Marítim de la Barceloneta, 32",08003 Barcelona
+185,173,5.0,4,,Cocktail Bars,El Poble-sec,19,"Avinguda de Rius i Taulet, 1-3",08004 Barcelona
+186,Mazah,4.0,10,,Lebanese,L'Eixample,75,"Gran Via de les Corts Catalanes, 618",08007 Barcelona
+187,Viena,4.5,72,under 11,Coffee & Tea,El Raval,375,"La Rambla del Estudis, 115",08002 Barcelona
+188,Angle,4.5,15,over 67,Catalan,L'Eixample,122,"Carrer d'Aragó, 214",08011 Barcelona
+189,La Cova Fumada,4.5,118,[12 - 33],Tapas/Small Plates,Barceloneta,33,"Carrer del Baluard, 56",08003 Barcelona
+190,Solomillo,4.5,10,over 67,Spanish,L'Eixample,52,"Carrer de Mallorca, 251",08008 Barcelona
+191,Obe Restaurant,5.0,35,[12 - 33],Italian,"Sant Pere, Santa Caterina i la Ribera-Born",27,"Plaça Santa Caterina, 1",08003 Barcelona
+192,Thai Zaap,5.0,7,,Thai,L'Eixample,25,"Carrer de Viladomat, 131",08015 Barcelona
+193,Els Sortidors del Parlament,4.5,18,[12 - 33],Tapas Bars,L'Eixample,45,"Carrer del Parlament, 53",08015 Barcelona
+194,Els Sortidors del Parlament,4.5,18,[12 - 33],Tapas Bars,L'Eixample,13,"Carrer del Parlament, 53",08015 Barcelona
+195,Red Ant,4.0,66,under 11,Thai,"Sant Pere, Santa Caterina i la Ribera-Born",172,"Carrer dels Tiradors, 3-5",08003 Barcelona
+196,Alaire,4.5,6,[12 - 33],Tapas Bars,L'Eixample,18,"Passeig de Gràcia, 73",08008 Barcelona
+197,Season Tapas Restaurante,5.0,5,,Spanish,L'Eixample,19,"Carrer d'Aribau, 125",08036 Barcelona
+198,Kamasot,4.5,9,[12 - 33],Korean,L'Eixample,13,"Carrer del Consell de Cent, 465",08013 Barcelona
+199,Modu Korean Bowl,4.5,7,,Korean,Gràcia,99,"Carrer Minerva, 8",08006 Barcelona
+200,Lonja de Tapas,4.0,23,under 11,Spanish,Barri Gòtic,51,"Carrer de Jaume I, 8-10",08002 Barcelona
+201,PORK… boig per tu,4.5,34,[12 - 33],Spanish,"Sant Pere, Santa Caterina i la Ribera-Born",16,"Carrer del Consolat de Mar, 15",08003 Barcelona
+202,Norte,4.0,9,under 11,Spanish,L'Eixample,11,"Carrer de la Diputació, 321",08009 Barcelona
+203,Norte,4.0,9,under 11,Spanish,L'Eixample,363,"Carrer de la Diputació, 321",08009 Barcelona
+204,Taco Alto,4.5,50,under 11,Mexican,"Sant Pere, Santa Caterina i la Ribera-Born",178,,
+205,Equilibrium Cafè,4.5,10,under 11,Coffee & Tea,L'Eixample,8,"Carrer de València, 352",08009 Barcelona
+206,Bar Ramón,4.5,44,[12 - 33],Spanish,L'Eixample,9,"Carrer del Comte Borrell, 81",08015 Barcelona
