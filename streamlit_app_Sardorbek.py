@@ -6,18 +6,16 @@ from PIL import Image
 import pandas as pd
 import numpy as np
 import plotly.express as px
-import seaborn as sns
-import matplotlib.pyplot as plt
 # Load data
 
 # resto_df = pd.read_csv(r"C:\Users\Lenovo\OneDrive\Documents\Strive repos\BW1-Yelp_database\Resto_df_cleaned.csv")
 # pub_df = pd.read_csv(r"C:\Users\Lenovo\OneDrive\Documents\Strive repos\BW1-Yelp_database\pub_df_cleaned3.csv")
 # hotel_df = pd.read_csv(r"C:\Users\Lenovo\OneDrive\Documents\Strive repos\BW1-Yelp_database\hotel_df_cleaned.csv")
 
-resto_df = pd.read_csv("Resto_df_cleaned.csv")
-pub_df = pd.read_csv("pub_df_cleaned4.csv")
-hotel_df = pd.read_csv("hotel_df_cleaned2.csv")
-master_df = pd.read_csv("master_df.csv")
+resto_df = pd.read_csv("datasets/Resto_df_cleaned.csv")
+pub_df = pd.read_csv("datasets/pub_df_cleaned4.csv")
+hotel_df = pd.read_csv("datasets/hotel_df_cleaned2.csv")
+master_df = pd.read_csv("theo/master_df.csv")
 
 
 
@@ -31,9 +29,9 @@ with st.sidebar:
 if menu == 'Home':
     st.title('Market Analysis for Barcelona hospitality industry using Yelp database')
 
-    image_1 = Image.open("daniel-corneschi-N6HTCyN50p0-unsplash.jpg")
-    image_2 = Image.open("dimitry-anikin-ECkAbFv_Nnc-unsplash.jpg")
-    image_3 = Image.open("florian-wehde-WBGjg0DsO_g-unsplash.jpg")
+    image_1 = Image.open("streamlit images/daniel-corneschi-N6HTCyN50p0-unsplash.jpg")
+    image_2 = Image.open("streamlit images/dimitry-anikin-ECkAbFv_Nnc-unsplash.jpg")
+    image_3 = Image.open("streamlit images/florian-wehde-WBGjg0DsO_g-unsplash.jpg")
     st.image(image_1)
     st.markdown(" Barcelona is located in an autonomous region of Spain - Catalonia, and it is one of the biggest cities of Spain and Europe.")
     st.markdown("""Catalonia and Barcelona has become one of the first tourist destination of Spain, it has everything to please the majority of visitors: with a history among the oldest in Europe, a capital, Barcelona, which never sleeps and an inland full of charm not to forget beautiful beaches in La Costa Brava.
