@@ -22,8 +22,7 @@ Project is created with:
 <img src="/streamlit images/screen2.jpg" alt="Alt text">
 
 ## Setup
-To run the project, run the following command on terminal:
-```streamlit run streamlit_app_Sardorbek.py```
+To access the project, you can go to [Streamlit](https://sardorick-bw1-yelp-database-streamlit-app-sardorbek-dmqnww.streamlit.app/)
 
 ## Conclusions
 We have learnt how to scrape data, store it, visualize it, present it and use an ETL pipeline for more broad use case.
